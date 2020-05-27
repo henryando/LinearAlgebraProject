@@ -1,0 +1,2276 @@
+(* Content-type: application/mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 6.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       145,          7]
+NotebookDataLength[     92587,       2267]
+NotebookOptionsPosition[     38291,       1128]
+NotebookOutlinePosition[     90857,       2219]
+CellTagsIndexPosition[     90814,       2216]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[Cell[BoxData[
+ GraphicsBox[
+  TagBox[RasterBox[CompressedData["
+1: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
+4HfCPx8L8kPWNQTfDn8DHM4nIA==
+    "], {{0, 74}, {200, 0}}, {0, 255},
+    ColorFunction->RGBColor],
+   BoxForm`ImageTag[
+   "Byte", ColorSpace -> "RGB", ImageSize -> Automatic, Interleaving -> True, 
+    Magnification -> Automatic],
+   Selectable->False],
+  BaseStyle->"ImageGraphics",
+  ImageSize->Automatic,
+  ImageSizeRaw->{200, 74},
+  PlotRange->{{0, 200}, {0, 74}}]]]], "LogoPrefaceTitle"],
+
+Cell[TextData[{
+ "Make: Matrices & Geometry\n",
+ StyleBox["Authors:  Bill Davis and Jerry Uhl  ", "Subtitle"],
+ StyleBox["\[Copyright]1996-2010", "Subtitle",
+  FontSize->12],
+ StyleBox["\n", "Subtitle"],
+ StyleBox["Publisher:  ", "Subtitle",
+  FontSize->12],
+ StyleBox[ButtonBox["Make: Mathematics",
+  BaseStyle->"MakeMathHyperlink",
+  ButtonData:>{
+    URL["http://www.makemathematics.com"], None}],
+  FontSize->12]
+}], "PrefaceTitle",
+ CellMargins->{{Inherited, Inherited}, {Inherited, 0}}],
+
+Cell["PlotFest: Plotting a Function", "Title"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " 8.0 Initializations"
+}], "Special2",
+ CellChangeTimes->{3.503085586908386*^9},
+ TextAlignment->Center,
+ TextJustification->0],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Off", "[", 
+   RowBox[{"General", "::", "\"\<spell\>\""}], "]"}], ";"}], "\n", 
+ RowBox[{"  ", 
+  RowBox[{
+   RowBox[{"Off", "[", 
+    RowBox[{"General", "::", "\"\<spell1\>\""}], "]"}], ";"}], 
+  "  "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Off", "[", 
+    RowBox[{"SingularValues", "::", "\"\<deprec\>\""}], "]"}], ";"}], 
+  "  "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Needs", "[", "\"\<Units`\>\"", "]"}], ";"}], 
+  "  "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"SetOptions", "[", 
+    RowBox[{"ListAnimate", ",", " ", 
+     RowBox[{"AnimationRepetitions", " ", "\[Rule]", " ", "4"}]}], "]"}], 
+   ";"}], "  "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"SetOptions", "[", 
+    RowBox[{"Animate", ",", " ", 
+     RowBox[{"AnimationRepetitions", " ", "\[Rule]", " ", "4"}]}], "]"}], 
+   ";"}], "  "}], "\n", 
+ RowBox[{
+  RowBox[{"CMView", "=", 
+   RowBox[{"{", 
+    RowBox[{"2.7", ",", "1.6", ",", "1.2"}], "}"}]}], ";"}]}], "Input",
+ InitializationCell->True,
+ CellChangeTimes->{{3.503146559282848*^9, 3.503146563276721*^9}, {
+  3.503166885868726*^9, 3.503166892893751*^9}},
+ AspectRatioFixed->True],
+
+Cell[CellGroupData[{
+
+Cell["Vector Drawer", "Subsubsection"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", " ", 
+   RowBox[{
+    RowBox[{":", 
+     RowBox[{"Date", ":", "  ", 
+      RowBox[{
+       RowBox[{"Copyright", " ", "1993"}], "-", "2011"}]}]}], ",", " ", 
+    RowBox[{"Math", " ", "Everywhere"}], ",", " ", 
+    RowBox[{"Inc", "."}]}], " ", "\n", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{"(*", "\[IndentingNewLine]", 
+   RowBox[{
+   "Original", " ", "Conception", " ", "to", " ", "create", " ", "a", " ", 
+    "vector", " ", "drawer", " ", "is", " ", "due", " ", "to", " ", "Bill", 
+    " ", 
+    RowBox[{"Davis", ".", "\[IndentingNewLine]", "Current"}], " ", "code", 
+    " ", "is", " ", "by", " ", "Bruce", " ", 
+    RowBox[{"Carpenter", "."}]}], "\[IndentingNewLine]", "*)"}], "\n", 
+  RowBox[{"(*", "  ", 
+   RowBox[{
+    RowBox[{
+     RowBox[{":", 
+      RowBox[{"Drawbacks", ":", "  ", 
+       RowBox[{
+       "Since", " ", "the", " ", "vectors", " ", "are", " ", "drawn", " ", 
+        "out", " ", "of"}]}]}], " ", "\n", "     ", "context"}], ",", " ", 
+    RowBox[{
+    "the", " ", "shapes", " ", "of", " ", "the", " ", "arrowheads", " ", 
+     "are", " ", "only", " ", "\n", "     ", "correct", " ", "with", " ", 
+     "AspectRatio", " ", "set", " ", "to", " ", 
+     RowBox[{"Automatic", "."}]}]}], "\n", "*)"}]}]], "Input",
+ CellChangeTimes->{{3.503083622365877*^9, 3.5030836228723288`*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"BeginPackage", "[", "\"\<Vector3D`\>\"", "]"}], ";"}]], "Input",
+ InitializationCell->True,
+ CellChangeTimes->{3.5028932309285393`*^9}],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Axes3D", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Axes3D[a, b] creates a Graphics3D object of cartesian axes with x, y, \
+and z running from -a/3 to a, and with axes labels b units beyond the tips of \
+the axes.  Axes3D[a] is Axes3D[a, a/8].\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Perpend", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Perpend[a] returns a unit vector which is perpendicular to the vector \
+a.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Vector", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Vector[a] produces a 2 or 3 dimensional vector from the origin to a. \
+Arrow[a, Tail \[Rule] tail] gives a vector from tail to a.\>\""}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"CandMArrow", "::", "usage"}], "MessageName"], "=", 
+   "\"\<CandMArrow[a, b] gives a 2D or 3D arrow from a to b.\>\""}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"VectorHead", "::", "usage"}], "MessageName"], "=", 
+   "\"\<VectorHead[a, vec] produces an arrowhead with its tip placed at the \
+point a, pointing in the direction of the vector vec.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Tail", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Tail \[Rule] point puts the tail of the vector at point.\>\""}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Aperture", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Aperture is the ratio of the radius of the base to the length of the \
+head of a vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"TipSize", "::", "usage"}], "MessageName"], "=", 
+   "\"\<TipSize specifies an absolute size for the inner tip length of the \
+head of a vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"TipRatio", "::", "usage"}], "MessageName"], "=", 
+   "\"\<TipRatio is the ratio of the inner length of the arrowhead to the \
+length of the shaft of a vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"HeadRatio", "::", "usage"}], "MessageName"], "=", 
+   "\"\<HeadRatio is the ratio of the outer length of the arrowhead to the \
+length of the shaft of a vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"HeadSize", "::", "usage"}], "MessageName"], "=", 
+   "\"\<HeadSize specifies an absolute size for the head of a vector.\>\""}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"ScaleFactor", "::", "usage"}], "MessageName"], "=", 
+   "\"\<ScaleFactor specifies the amount to scale a vector in length and may \
+be either a number or a pure function.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"ZeroVectorPointSize", "::", "usage"}], "MessageName"], "=", 
+   "\"\<ZeroVectorPointSize is the size of the point used to represent a zero \
+vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Options", "[", "Vector", "]"}], "=", 
+   RowBox[{
+    RowBox[{"Options", "[", "CandMArrow", "]"}], "=", 
+    RowBox[{
+     RowBox[{"Options", "[", "VectorHead", "]"}], "=", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"HeadRatio", "\[Rule]", "0.18"}], ",", 
+       RowBox[{"TipRatio", "\[Rule]", "0.14"}], ",", 
+       RowBox[{"Aperture", "\[Rule]", "0.3"}], ",", 
+       RowBox[{"ScaleFactor", "\[Rule]", "1"}], ",", 
+       RowBox[{"HeadType", "\[Rule]", "Polygon"}], ",", 
+       RowBox[{"ShaftQ", "\[Rule]", "True"}], ",", 
+       RowBox[{"EdgesQ", "\[Rule]", "True"}], ",", 
+       RowBox[{"VectorColor", "\[Rule]", 
+        RowBox[{"RGBColor", "[", 
+         RowBox[{"0", ",", "0", ",", "1"}], "]"}]}], ",", 
+       RowBox[{"ShaftWidth", "\[Rule]", "0.005"}], ",", 
+       RowBox[{"ZeroVectorPointSize", "\[Rule]", "0.01"}]}], "}"}]}]}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{"Begin", "[", "\"\<`Private`\>\"", "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"SetOptions", "[", 
+   RowBox[{"ParametricPlot", ",", 
+    RowBox[{"AspectRatio", "\[Rule]", "Automatic"}]}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"SetOptions", "[", 
+   RowBox[{"Plot", ",", 
+    RowBox[{"AspectRatio", "\[Rule]", "Automatic"}]}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"SetOptions", "[", 
+   RowBox[{"Graphics", ",", 
+    RowBox[{"AspectRatio", "\[Rule]", "Automatic"}]}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Axes3D", "[", 
+    RowBox[{"u_", ",", "v_"}], "]"}], ":=", 
+   RowBox[{"Graphics3D", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"-", 
+              FractionBox["u", "3"]}], ",", "0", ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"u", ",", "0", ",", "0"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<x\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"u", "+", "v"}], ",", "0", ",", "0"}], "}"}]}], "]"}], ",", 
+      
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", 
+             RowBox[{"-", 
+              FractionBox["u", "3"]}], ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"0", ",", "u", ",", "0"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<y\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{"0", ",", 
+          RowBox[{"u", "+", "v"}], ",", "0"}], "}"}]}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", "0", ",", 
+             RowBox[{"-", 
+              FractionBox["u", "3"]}]}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"0", ",", "0", ",", "u"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<z\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{"0", ",", "0", ",", 
+          RowBox[{"u", "+", "v"}]}], "}"}]}], "]"}]}], "}"}], "]"}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Axes3D", "[", "u_", "]"}], ":=", 
+   RowBox[{"Axes3D", "[", 
+    RowBox[{"u", ",", 
+     FractionBox["u", "8"]}], "]"}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Perpend", "[", 
+    RowBox[{"a_", "?", "VectorQ"}], "]"}], ":=", 
+   RowBox[{
+    RowBox[{"Normalize", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"a", "\[LeftDoubleBracket]", "2", "\[RightDoubleBracket]"}], 
+       ",", 
+       RowBox[{"-", 
+        RowBox[{
+        "a", "\[LeftDoubleBracket]", "1", "\[RightDoubleBracket]"}]}]}], 
+      "}"}], "]"}], "/;", 
+    RowBox[{
+     RowBox[{"Length", "[", "a", "]"}], "\[Equal]", "2"}]}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Perpend", "[", 
+    RowBox[{"a_", "?", "VectorQ"}], "]"}], ":=", 
+   RowBox[{
+    RowBox[{"Normalize", "[", 
+     RowBox[{"If", "[", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"a", "\[LeftDoubleBracket]", "1", "\[RightDoubleBracket]"}], 
+        "\[Equal]", "0"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"1", ",", "0", ",", "0"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"a", "\[LeftDoubleBracket]", "2", "\[RightDoubleBracket]"}], 
+         ",", 
+         RowBox[{"-", 
+          RowBox[{
+          "a", "\[LeftDoubleBracket]", "1", "\[RightDoubleBracket]"}]}], ",", 
+         "0"}], "}"}]}], "]"}], "]"}], "/;", 
+    RowBox[{
+     RowBox[{"Length", "[", "a", "]"}], "\[Equal]", "3"}]}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"Base3D", "=", 
+   RowBox[{"Table", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"Cos", "[", 
+        FractionBox[
+         RowBox[{"2", " ", "k", " ", "\[Pi]"}], "8."], "]"}], ",", 
+       RowBox[{"Sin", "[", 
+        FractionBox[
+         RowBox[{"2", " ", "k", " ", "\[Pi]"}], "8."], "]"}]}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"k", ",", "0", ",", "8"}], "}"}]}], "]"}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"CandMArrow", "[", 
+   RowBox[{
+    RowBox[{"from_", "?", "VectorQ"}], ",", 
+    RowBox[{"to_", "?", "VectorQ"}], ",", "opts___"}], "]"}], ":=", 
+  RowBox[{
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "sq", ",", "sw", ",", "ht", ",", "hs", ",", "hr", ",", "tr", ",", "ap", 
+       ",", "sf", ",", "vc", ",", "zvps", ",", 
+       RowBox[{"diff", "=", 
+        RowBox[{"to", "-", "from"}]}], ",", "tip"}], "}"}], ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+        "sq", ",", "sw", ",", "ht", ",", "hs", ",", "hr", ",", "ts", ",", 
+         "tr", ",", "ap", ",", "sf", ",", "vc", ",", "zvps"}], "}"}], "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+          "ShaftQ", ",", "ShaftWidth", ",", "HeadType", ",", "HeadSize", ",", 
+           "HeadRatio", ",", "TipSize", ",", "TipRatio", ",", "Aperture", ",",
+            "ScaleFactor", ",", "VectorColor", ",", "ZeroVectorPointSize"}], 
+          "}"}], "/.", "\[InvisibleSpace]", 
+         RowBox[{"{", "opts", "}"}]}], "/.", "\[InvisibleSpace]", 
+        RowBox[{"Options", "[", "Vector", "]"}]}]}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"from", "\[Equal]", "to"}], ",", 
+        RowBox[{"Return", "[", 
+         RowBox[{"Graphics", "[", 
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"PointSize", "[", "zvps", "]"}], ",", "vc", ",", 
+            RowBox[{"Point", "[", "from", "]"}]}], "}"}], "]"}], "]"}]}], 
+       "]"}], ";", 
+      RowBox[{"diff", "=", 
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"NumberQ", "[", 
+          RowBox[{"N", "[", "sf", "]"}], "]"}], ",", 
+         RowBox[{"sf", " ", "diff"}], ",", 
+         RowBox[{"sf", "[", "diff", "]"}]}], "]"}]}], ";", 
+      RowBox[{"tip", "=", 
+       RowBox[{"from", "+", "diff"}]}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"NumberQ", "[", "hs", "]"}], ",", 
+        RowBox[{
+         RowBox[{"hr", "=", 
+          FractionBox["hs", 
+           RowBox[{"Norm", "[", "diff", "]"}]]}], ";", 
+         RowBox[{"tr", "=", 
+          RowBox[{"0.75", " ", "hr"}]}]}]}], "]"}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"NumberQ", "[", "ts", "]"}], ",", 
+        RowBox[{"tr", "=", 
+         FractionBox["ts", 
+          RowBox[{"Norm", "[", "diff", "]"}]]}]}], "]"}], ";", 
+      RowBox[{"Graphics", "[", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"If", "[", 
+          RowBox[{"sq", ",", 
+           RowBox[{"{", 
+            RowBox[{"vc", ",", 
+             RowBox[{"Thickness", "[", "sw", "]"}], ",", 
+             RowBox[{"Line", "[", 
+              RowBox[{"{", 
+               RowBox[{"from", ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"tr", " ", "diff"}]}]}], "}"}], "]"}]}], "}"}], ",", 
+           
+           RowBox[{"{", "}"}]}], "]"}], ",", 
+         RowBox[{"With", "[", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"trans", "=", 
+             RowBox[{"ap", " ", "hr", " ", 
+              RowBox[{"Norm", "[", "diff", "]"}], " ", 
+              RowBox[{"Perpend", "[", "diff", "]"}]}]}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"vc", ",", 
+             RowBox[{"Thickness", "[", "sw", "]"}], ",", 
+             RowBox[{"ht", "[", 
+              RowBox[{"{", 
+               RowBox[{"tip", ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"hr", " ", "diff"}], "+", "trans"}], ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"tr", " ", "diff"}]}], ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"hr", " ", "diff"}], "-", "trans"}], ",", "tip"}], 
+               "}"}], "]"}]}], "}"}]}], "]"}]}], "}"}], "]"}]}]}], "]"}], "/;", 
+   RowBox[{
+    RowBox[{"Length", "[", "from", "]"}], "\[Equal]", 
+    RowBox[{"Length", "[", "to", "]"}], "\[Equal]", "2"}]}]}], "\n", 
+ RowBox[{
+  RowBox[{"CandMArrow", "[", 
+   RowBox[{
+    RowBox[{"from_", "?", "VectorQ"}], ",", 
+    RowBox[{"to_", "?", "VectorQ"}], ",", "opts___"}], "]"}], ":=", 
+  RowBox[{
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "sq", ",", "eq", ",", "sw", ",", "hs", ",", "hr", ",", "tr", ",", "ap", 
+       ",", "sf", ",", "vc", ",", "zvps", ",", 
+       RowBox[{"diff", "=", 
+        RowBox[{"to", "-", "from"}]}], ",", "tip"}], "}"}], ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+        "sq", ",", "eq", ",", "sw", ",", "hs", ",", "hr", ",", "ap", ",", 
+         "sf", ",", "vc", ",", "zvps"}], "}"}], "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+          "ShaftQ", ",", "EdgesQ", ",", "ShaftWidth", ",", "HeadSize", ",", 
+           "HeadRatio", ",", "Aperture", ",", "ScaleFactor", ",", 
+           "VectorColor", ",", "ZeroVectorPointSize"}], "}"}], "/.", 
+         "\[InvisibleSpace]", 
+         RowBox[{"{", "opts", "}"}]}], "/.", "\[InvisibleSpace]", 
+        RowBox[{"Options", "[", "Vector", "]"}]}]}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"from", "\[Equal]", "to"}], ",", 
+        RowBox[{"Return", "[", 
+         RowBox[{"Graphics3D", "[", 
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"PointSize", "[", "zvps", "]"}], ",", "vc", ",", 
+            RowBox[{"Point", "[", "from", "]"}]}], "}"}], "]"}], "]"}]}], 
+       "]"}], ";", 
+      RowBox[{"diff", "=", 
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"NumberQ", "[", 
+          RowBox[{"N", "[", "sf", "]"}], "]"}], ",", 
+         RowBox[{"sf", " ", "diff"}], ",", 
+         RowBox[{"sf", "[", "diff", "]"}]}], "]"}]}], ";", 
+      RowBox[{"tip", "=", 
+       RowBox[{"from", "+", "diff"}]}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"NumberQ", "[", "hs", "]"}], ",", 
+        RowBox[{"hr", "=", 
+         FractionBox["hs", 
+          RowBox[{"Norm", "[", "diff", "]"}]]}]}], "]"}], ";", 
+      RowBox[{"tr", "=", 
+       FractionBox["hr", "2"]}], ";", 
+      RowBox[{"Graphics3D", "[", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"If", "[", 
+          RowBox[{"sq", ",", 
+           RowBox[{"{", 
+            RowBox[{"vc", ",", 
+             RowBox[{"Thickness", "[", "sw", "]"}], ",", 
+             RowBox[{"Line", "[", 
+              RowBox[{"{", 
+               RowBox[{"from", ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"tr", " ", "diff"}]}]}], "}"}], "]"}]}], "}"}], ",", 
+           
+           RowBox[{"{", "}"}]}], "]"}], ",", 
+         RowBox[{"If", "[", 
+          RowBox[{"eq", ",", 
+           RowBox[{"{", "}"}], ",", 
+           RowBox[{"EdgeForm", "[", "]"}]}], "]"}], ",", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"SurfaceColor", "[", "vc", "]"}], ",", 
+           RowBox[{"With", "[", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{"temp", "=", 
+               RowBox[{"Perpend", "[", "diff", "]"}]}], "}"}], ",", 
+             RowBox[{
+              RowBox[{"(", 
+               RowBox[{
+                RowBox[{"Polygon", "[", 
+                 RowBox[{"Append", "[", 
+                  RowBox[{"#1", ",", "tip"}], "]"}], "]"}], "&"}], ")"}], "/@", 
+              RowBox[{"Partition", "[", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{
+                   RowBox[{"tip", "-", 
+                    RowBox[{"hr", " ", "diff"}], "+", "#1"}], "&"}], ")"}], "/@", 
+                 RowBox[{"(", 
+                  RowBox[{
+                   RowBox[{"(", 
+                    RowBox[{"ap", " ", "hr", " ", 
+                    RowBox[{"Norm", "[", "diff", "]"}], " ", "Base3D"}], 
+                    ")"}], ".", 
+                   RowBox[{"{", 
+                    RowBox[{"temp", ",", 
+                    RowBox[{"Normalize", "[", 
+                    RowBox[{"temp", "\[Cross]", "diff"}], "]"}]}], "}"}]}], 
+                  ")"}]}], ",", "2", ",", "1"}], "]"}]}]}], "]"}]}], "}"}]}], 
+        "}"}], "]"}]}]}], "]"}], "/;", 
+   RowBox[{
+    RowBox[{"Length", "[", "from", "]"}], "\[Equal]", 
+    RowBox[{"Length", "[", "to", "]"}], "\[Equal]", "3"}]}]}], "\n", 
+ RowBox[{
+  RowBox[{"Vector", "[", 
+   RowBox[{"a_", ",", 
+    RowBox[{"Tail", "\[Rule]", "b_"}], ",", "opts___"}], "]"}], ":=", 
+  RowBox[{"CandMArrow", "[", 
+   RowBox[{"b", ",", 
+    RowBox[{"a", "+", "b"}], ",", "opts"}], "]"}]}], "\n", 
+ RowBox[{
+  RowBox[{"Vector", "[", 
+   RowBox[{"a_", ",", "opts___"}], "]"}], ":=", 
+  RowBox[{"CandMArrow", "[", 
+   RowBox[{
+    RowBox[{"Table", "[", 
+     RowBox[{"0", ",", 
+      RowBox[{"{", 
+       RowBox[{"Length", "[", "a", "]"}], "}"}]}], "]"}], ",", "a", ",", 
+    "opts"}], "]"}]}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"VectorHead", "[", 
+    RowBox[{"a_", ",", "b_", ",", "opts___"}], "]"}], ":=", 
+   RowBox[{"CandMArrow", "[", 
+    RowBox[{
+     RowBox[{"a", "-", "b"}], ",", "a", ",", 
+     RowBox[{"ShaftQ", "\[Rule]", "False"}], ",", "opts"}], "]"}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{"End", "[", "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"EndPackage", "[", "]"}], ";"}]}], "Input",
+ InitializationCell->True,
+ CellChangeTimes->{3.502893231567974*^9}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Graphics`Colors`GosiaGreen", "=", 
+   RowBox[{"RGBColor", "[", 
+    RowBox[{"0", ",", " ", "0.392187", ",", " ", "0"}], "]"}]}], 
+  ";"}]], "Input",
+ InitializationCell->True]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["ThreeAxes[u,v]", "Subsubsection"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"ThreeAxes", "[", 
+    RowBox[{"u_", ",", "v_"}], "]"}], ":=", 
+   RowBox[{"Graphics3D", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"-", "u"}], ",", "0", ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"u", ",", "0", ",", "0"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<x\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"u", "+", "v"}], ",", "0", ",", "0"}], "}"}]}], "]"}], ",", 
+      
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", 
+             RowBox[{"-", "u"}], ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"0", ",", "u", ",", "0"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<y\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{"0", ",", 
+          RowBox[{"u", "+", "v"}], ",", "0"}], "}"}]}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", "0", ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"0", ",", "0", ",", "u"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<z\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{"0", ",", "0", ",", 
+          RowBox[{"u", "+", "v"}]}], "}"}]}], "]"}]}], "}"}], "]"}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"ThreeAxes", "[", "u_", "]"}], ":=", 
+   RowBox[{"ThreeAxes", "[", 
+    RowBox[{"u", ",", 
+     FractionBox["u", "8"]}], "]"}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"ThreeAxes", "::", "\"\<usage\>\""}], "=", 
+   "\"\<ThreeAxes[a,b] makes a standard cartesian axis graphics object with \
+x, y, and z running from -a to a, and with axis labels b units beyond the \
+tips of the axes.  ThreeAxes[a] is ThreeAxes[a,a/8].\>\""}], ";"}]}], "Input",\
+
+ InitializationCell->True,
+ AspectRatioFixed->True]
+}, Closed]]
+}, Closed]],
+
+Cell["Plotting a function", "Subsection"],
+
+Cell[TextData[{
+ "Here's how you program the function \n        ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"f", "[", "x", "]"}], "=", 
+   RowBox[{"5.0", " ", 
+    SuperscriptBox["E", 
+     RowBox[{
+      RowBox[{"-", "0.1"}], " ", "x"}]], " ", 
+    RowBox[{"Sin", "[", " ", "x", "]"}]}]}]]],
+ "\ninto ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ ":"
+}], "Text"],
+
+Cell[TextData[{
+ "To make ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " do the indicated operation, \nplace the cursor anywhere inside the cell \
+containing bold faced type below, \nclick the mouse, and press Enter.\nOn \
+some machines, you must press Shift-Enter or Shift-Return."
+}], "Special2",
+ TextAlignment->Center,
+ TextJustification->0],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Clear", "[", 
+   RowBox[{"f", ",", "x"}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"f", "[", "x_", "]"}], "=", 
+  RowBox[{"5.0", " ", 
+   SuperscriptBox["E", 
+    RowBox[{
+     RowBox[{"-", "0.1"}], " ", "x"}]], " ", 
+   RowBox[{"Sin", "[", "x", "]"}]}]}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ "Clear the function name and the variable name first.\nNote the use of the \
+dash in programming the function into ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ "."
+}], "Special2",
+ TextAlignment->Center,
+ TextJustification->0],
+
+Cell["\<\
+Here is how you get a table of the values
+{x, f[x]} 
+for x = 0, 0.5, 1, 1.5, 2, 2.5, 3, \[Ellipsis], 9.5, 10:\
+\>", "Text"],
+
+Cell[TextData[{
+ "To make ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " do the indicated operation, \nplace the cursor anywhere inside the cell \
+containing bold faced type below, \nclick the mouse, and press Enter.\nOn \
+some machines, you must press Shift-Enter or Shift-Return."
+}], "Special2",
+ TextAlignment->Center,
+ TextJustification->0],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"xjump", " ", "=", " ", "0.5"}], ";"}], "\n", 
+ RowBox[{"Table", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"x", ",", 
+     RowBox[{"f", "[", "x", "]"}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"x", ",", "1", ",", "10", ",", "xjump"}], "}"}]}], 
+  "]"}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["See these points:", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"dataplot", " ", "=", " ", 
+   RowBox[{"Table", "[", 
+    RowBox[{
+     RowBox[{"Graphics", "[", 
+      RowBox[{"Point", "[", 
+       RowBox[{"{", 
+        RowBox[{"x", ",", 
+         RowBox[{"f", "[", "x", "]"}]}], "}"}], "]"}], "]"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"x", ",", "1", ",", "10", ",", "xjump"}], "}"}]}], "]"}]}], 
+  ";"}], "\n", 
+ RowBox[{"Show", "[", 
+  RowBox[{"dataplot", ",", 
+   RowBox[{"Axes", "->", "True"}]}], "]"}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["You can make the dots bigger:", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"dataplot", " ", "=", " ", 
+    RowBox[{"Table", "[", 
+     RowBox[{
+      RowBox[{"Graphics", "[", 
+       RowBox[{"{", 
+        RowBox[{
+         StyleBox[
+          RowBox[{"PointSize", "[", "0.03", "]"}],
+          FontColor->RGBColor[1, 0, 0]], ",", 
+         RowBox[{"Point", "[", 
+          RowBox[{"{", 
+           RowBox[{"x", ",", 
+            RowBox[{"f", "[", "x", "]"}]}], "}"}], "]"}]}], "}"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"x", ",", "1", ",", "10", ",", "xjump"}], "}"}]}], "]"}]}], 
+   ";"}], "\[IndentingNewLine]"}], "\n", 
+ RowBox[{"Show", "[", 
+  RowBox[{"dataplot", ",", 
+   RowBox[{"Axes", "->", "True"}]}], "]"}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ "You can label the ",
+ Cell[BoxData["x"]],
+ " and ",
+ Cell[BoxData[
+  RowBox[{"f", "[", "x", "]"}]]],
+ " axes:"
+}], "Text"],
+
+Cell[BoxData[
+ RowBox[{"Show", "[", 
+  RowBox[{"dataplot", ",", 
+   RowBox[{"Axes", "->", "True"}], ",", 
+   StyleBox[
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<x\>\"", ",", "\"\<f[x]\>\""}], "}"}]}],
+    FontColor->RGBColor[1, 0, 0]]}], "]"}]], "Input",
+ AspectRatioFixed->True],
+
+Cell["You can put the points in color:", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"dataplot", " ", "=", " ", 
+    RowBox[{"Table", "[", 
+     RowBox[{
+      RowBox[{"Graphics", "[", 
+       RowBox[{
+        StyleBox["{",
+         FontColor->GrayLevel[0]], 
+        RowBox[{
+         StyleBox["Blue",
+          FontColor->RGBColor[1, 0, 0]], 
+         StyleBox[",",
+          FontColor->RGBColor[1, 0, 0]], 
+         RowBox[{"PointSize", "[", "0.03", "]"}], 
+         StyleBox[",",
+          FontColor->GrayLevel[0]], 
+         RowBox[{"Point", "[", 
+          RowBox[{"{", 
+           RowBox[{"x", ",", 
+            RowBox[{"f", "[", "x", "]"}]}], "}"}], "]"}]}], "}"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"x", ",", "1", ",", "10", ",", "xjump"}], "}"}]}], "]"}]}], 
+   ";"}], "\[IndentingNewLine]"}], "\n", 
+ RowBox[{"colorplot", " ", "=", 
+  RowBox[{"Show", "[", 
+   RowBox[{"dataplot", ",", 
+    RowBox[{"Axes", "->", "True"}]}], "]"}]}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ "Nice graphics, ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ "!"
+}], "Text"],
+
+Cell[TextData[{
+ "But why settle for point plots when you can see the whole curve for ",
+ Cell[BoxData[
+  RowBox[{"0", "\[LessEqual]", "x", "\[LessEqual]", "10"}]]],
+ ":"
+}], "Text"],
+
+Cell[BoxData[
+ RowBox[{"curveplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "x", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"x", ",", "0", ",", "10"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Orange"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<x\>\"", ",", "\"\<f[x]\>\""}], "}"}]}]}], "]"}]}]], "Input",\
+
+ AspectRatioFixed->True],
+
+Cell["See the curve and the data:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"Show", "[", 
+  RowBox[{"curveplot", ",", "colorplot"}], "]"}]], "Input",
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ "If you want to spot a certain point on the curve, you can do it.  For \
+instance, here is the curve shown with a data point at ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{"x", ",", 
+    RowBox[{"f", "[", "x", "]"}]}], "}"}]]],
+ " for ",
+ Cell[BoxData[
+  RowBox[{"x", "=", "5.9"}]]],
+ ":"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"x", "=", "5.9"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"datapoint", "=", 
+    RowBox[{"Graphics", "[", 
+     RowBox[{"{", 
+      RowBox[{"Blue", ",", 
+       RowBox[{"PointSize", "[", "0.03", "]"}], ",", 
+       RowBox[{"Point", "[", 
+        RowBox[{"{", 
+         RowBox[{"x", ",", 
+          RowBox[{"f", "[", "x", "]"}]}], "}"}], "]"}]}], "}"}], "]"}]}], 
+   ";"}], "\[IndentingNewLine]"}], "\n", 
+ RowBox[{"Show", "[", 
+  RowBox[{"curveplot", ",", "datapoint"}], "]"}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ "Here's how to spot the data point ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{"x", ",", 
+    RowBox[{"f", "[", "x", "]"}]}], "}"}]]],
+ " for ",
+ Cell[BoxData[
+  RowBox[{"x", "=", "2.9"}]]],
+ ":"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"x", "=", "2.9"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"datapoint", "=", 
+    RowBox[{"Graphics", "[", 
+     RowBox[{"{", 
+      RowBox[{"Blue", ",", 
+       RowBox[{"PointSize", "[", "0.03", "]"}], ",", 
+       RowBox[{"Point", "[", 
+        RowBox[{"{", 
+         RowBox[{"x", ",", 
+          RowBox[{"f", "[", "x", "]"}]}], "}"}], "]"}]}], "}"}], "]"}]}], 
+   ";"}], "\[IndentingNewLine]"}], "\n", 
+ RowBox[{"Show", "[", 
+  RowBox[{"curveplot", ",", "datapoint"}], "]"}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["Change the value of x and rerun.", "Special2"],
+
+Cell[TextData[{
+ " See ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{"x", ",", 
+    RowBox[{"f", "[", "x", "]"}]}], "}"}]]],
+ " dance along the curve as ",
+ Cell[BoxData["x"]],
+ " runs from ",
+ Cell[BoxData["0"]],
+ " to ",
+ Cell[BoxData["10"]],
+ "."
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Clear", "[", 
+   RowBox[{"datapoint", ",", "x"}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"datapoint", "[", "x_", "]"}], " ", ":=", " ", 
+  RowBox[{"Graphics", "[", 
+   RowBox[{"{", 
+    RowBox[{"Blue", ",", 
+     RowBox[{"PointSize", "[", "0.03", "]"}], ",", 
+     RowBox[{"Point", "[", 
+      RowBox[{"{", 
+       RowBox[{"x", ",", 
+        RowBox[{"f", "[", "x", "]"}]}], "}"}], "]"}]}], "}"}], "]"}]}], "\n", 
+
+ RowBox[{
+  RowBox[{
+   RowBox[{"xjump", " ", "=", " ", "1"}], ";"}], 
+  "\n"}], "\[IndentingNewLine]", 
+ RowBox[{"ListAnimate", "[", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"Show", "[", 
+     RowBox[{"curveplot", ",", 
+      RowBox[{"datapoint", "[", "x", "]"}], ",", 
+      RowBox[{"PlotLabel", "->", 
+       RowBox[{"x", " ", "\"\<= x\>\""}]}]}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"x", ",", "0.5", ",", "9.5", ",", "xjump"}], "}"}]}], "]"}], 
+  "]"}]}], "Input",
+ CellChangeTimes->{{3.50316695988183*^9, 3.503166968479129*^9}},
+ AnimationDisplayTime->1]
+},
+AutoGeneratedPackage->None,
+WindowToolbars->{},
+CellGrouping->Manual,
+WindowSize->{632, 433},
+WindowMargins->{{4, Automatic}, {Automatic, 1}},
+PrivateNotebookOptions->{"ColorPalette"->{RGBColor, 128}},
+ShowCellLabel->True,
+ShowCellTags->False,
+RenderingOptions->{"ObjectDithering"->True,
+"RasterDithering"->False},
+FrontEndVersion->"8.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (November 6, \
+2010)",
+StyleDefinitions->Notebook[{
+   Cell[
+    CellGroupData[{
+      Cell["Style Definitions", "Subtitle"], 
+      Cell[
+      "The following notebook is copyright 2010 by Make: Mathematics.and may \
+not be reproduced, copied, or distributed, in whole or in part, through any \
+means electronic or otherwise, without written consent of the copyright \
+holder.", "Text"], 
+      Cell[
+       CellGroupData[{
+         Cell["Style Environment Names", "Section"], 
+         Cell[
+          StyleData[All, "Working"], ScriptMinSize -> 9], 
+         Cell[
+          StyleData[All, "Printout"], PageWidth -> PaperWidth, 
+          PrivateFontOptions -> {"FontType" -> "Outline"}], 
+         Cell[
+          StyleData[All, "TwoColumn"], PageWidth -> PaperWidth, 
+          PrivateFontOptions -> {"FontType" -> "Outline"}]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Notebook Options", "Section"], 
+         Cell[
+         "The options defined for the style below will be used at the \
+Notebook level.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Notebook"], CellGrouping -> Manual, 
+             PrintingOptions -> {
+              "FirstPageFooter" -> False, "FirstPageHeader" -> False, 
+               "RestPagesFooter" -> False, "RestPagesHeader" -> False}, 
+             ShowClosedCellArea -> True, StyleMenuListing -> None, Background -> 
+             RGBColor[1, 0.940002, 0.900008]], 
+            Cell[
+             StyleData["Notebook", "Printout"], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["Notebook", "TwoColumn"], 
+             PageHeaders -> {{None, None, None}, {None, None, None}}, 
+             PageHeaderLines -> {False, False}, 
+             PrintingOptions -> {"PrintingMargins" -> {{55, 25}, {40, 45}}}, 
+             Background -> GrayLevel[1]]}, Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Headings", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Title"], CellFrame -> {{1, 1}, {1, 5}}, 
+             ShowCellBracket -> False, CellMargins -> {{24, 24}, {12, 5}}, 
+             CellGroupingRules -> {"TitleGrouping", 0}, PageBreakBelow -> 
+             False, CellFrameMargins -> {{15, Inherited}, {
+               Inherited, Inherited}}, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, 
+             LineSpacing -> {1.1, 1}, 
+             CounterAssignments -> {{"Section", 0}, {"Equation", 0}, {
+               "Figure", 0}}, FontFamily -> "Times", FontSize -> 24, 
+             FontWeight -> "Bold", FontColor -> GrayLevel[0], Background -> 
+             RGBColor[0.925002, 0.854978, 0.774975]], 
+            Cell[
+             StyleData["Title", "Printout"], 
+             CellMargins -> {{0, Inherited}, {0, 0}}, TextAlignment -> Center,
+              FontSize -> 16, FontColor -> GrayLevel[0], Background -> 
+             GrayLevel[1]], 
+            Cell[
+             StyleData["Title", "TwoColumn"], CellFrame -> {{1, 1}, {5, 0}}, 
+             CellMargins -> {{0, Inherited}, {0, 0}}, TextAlignment -> Center,
+              FontSize -> 16, FontColor -> GrayLevel[0], Background -> 
+             GrayLevel[1]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Subtitle"], ShowCellBracket -> False, 
+             ShowClosedCellArea -> True, 
+             CellMargins -> {{6, Inherited}, {0, 0}}, 
+             CellGroupingRules -> {"TitleGrouping", 10}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             TextAlignment -> Left, FontFamily -> "Times", FontSize -> 14], 
+            Cell[
+             StyleData["Subtitle", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}], 
+            Cell[
+             StyleData["Subtitle", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Subsubtitle"], CellFrame -> True, ShowClosedCellArea -> 
+             True, CellMargins -> {{6, Inherited}, {6, Inherited}}, 
+             CellGroupingRules -> {"TitleGrouping", 20}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             TextAlignment -> Center, FontFamily -> "Times", FontSize -> 24, 
+             FontColor -> RGBColor[1, 0, 0]], 
+            Cell[
+             StyleData["Subsubtitle", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["Subsubtitle", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Section"], CellDingbat -> "\[GraySquare]", 
+             ShowCellBracket -> True, ShowGroupOpener -> True, 
+             CellMargins -> {{22, Inherited}, {Inherited, 20}}, 
+             CellGroupingRules -> {"SectionGrouping", 30}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, CounterIncrements -> "Section", 
+             CounterAssignments -> {{"Subsection", 0}, {"Subsubsection", 0}}, 
+             FontFamily -> "Times", FontSize -> 16], 
+            Cell[
+             StyleData["Section", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 10}}], 
+            Cell[
+             StyleData["Section", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 10}}]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Subsection"], CellDingbat -> "", ShowCellBracket -> 
+             True, ShowGroupOpener -> True, 
+             CellMargins -> {{19, Inherited}, {Inherited, 18}}, 
+             CellGroupingRules -> {"SectionGrouping", 40}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, CounterIncrements -> "Subsection", 
+             CounterAssignments -> {{"Subsubsection", 0}}, FontFamily -> 
+             "Times", FontSize -> 16, FontWeight -> "Bold", FontColor -> 
+             RGBColor[0, 0.392187, 0]], 
+            Cell[
+             StyleData["Subsection", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 5}}, FontSize -> 12, 
+             FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Subsection", "TwoColumn"], 
+             CellFrame -> {{0, 0}, {0, 1}}, 
+             CellMargins -> {{14, Inherited}, {2, 10}}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Subsubsection"], CellDingbat -> "\[EmptySquare]", 
+             ShowClosedCellArea -> True, 
+             CellMargins -> {{18, Inherited}, {Inherited, 12}}, 
+             CellGroupingRules -> {"SectionGrouping", 50}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, CounterIncrements -> "Subsubsection", 
+             FontFamily -> "Times", FontSize -> 14, FontWeight -> "Bold", 
+             FontColor -> RGBColor[0.689998, 0.0899977, 0.119997]], 
+            Cell[
+             StyleData["Subsubsection", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 3}}, FontSize -> 12, 
+             FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Subsubsection", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 3}}, FontColor -> 
+             GrayLevel[0]]}, Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Body Text", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["PrefaceText"], 
+             CellMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultTextFormatType, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1, 1}, LimitsPositioningTokens -> {}, 
+             StyleMenuListing -> None, FontFamily -> "Times", FontSize -> 10, 
+             FontWeight -> "Plain"], 
+            Cell[
+             StyleData["PrefaceText", "Printout"], 
+             CellMargins -> {{0, Inherited}, {2, 2}}, LineSpacing -> {1, 1}, 
+             FontSize -> 12, FontColor -> GrayLevel[0], Background -> None], 
+            Cell[
+             StyleData["PrefaceText", "TwoColumn"], 
+             CellMargins -> {{0, Inherited}, {2, 2}}, LineSpacing -> {1, 1}, 
+             FontSize -> 12, FontColor -> GrayLevel[0], Background -> None]}, 
+           Closed]], 
+         Cell[
+          StyleData["PrefaceHyperlink"], 
+          CellMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+          DefaultFormatType -> DefaultTextFormatType, DefaultInlineFormatType -> 
+          DefaultInputInlineFormatType, LineSpacing -> {1, 1}, 
+          LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, FontFamily -> "Times", 
+          FontSize -> 10, FontWeight -> "Plain", 
+          FontVariations -> {"Underline" -> True}, FontColor -> 
+          RGBColor[0, 0, 1], 
+          ButtonBoxOptions -> {
+           Active -> True, ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> ButtonData}], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Text"], ShowClosedCellArea -> True, 
+             CellMargins -> {{15, 10}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultTextFormatType, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, LimitsPositioningTokens -> {}, 
+             FontFamily -> "Times", FontSize -> 16, FontColor -> 
+             RGBColor[0, 0, 0.500008]], 
+            Cell[
+             StyleData["Text", "Printout"], 
+             CellMargins -> {{14, Inherited}, {3, 1}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, LineSpacing -> {1, 2}, 
+             FontColor -> GrayLevel[0], Background -> None], 
+            Cell[
+             StyleData["Text", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {3, 1}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, LineSpacing -> {1, 2}, 
+             FontSize -> 14, FontColor -> GrayLevel[0], Background -> None]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["SmallText"], ShowClosedCellArea -> True, 
+             CellMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, LimitsPositioningTokens -> {}, 
+             FontFamily -> "Times", FontSize -> 16], 
+            Cell[
+             StyleData["SmallText", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True], 
+            Cell[
+             StyleData["SmallText", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, FontSize -> 14]}, Closed]]}, 
+        Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Input/Output", "Section"], 
+         Cell[
+         "The cells in this section define styles used for input and output \
+to the kernel.  Be careful when modifying, renaming, or removing these \
+styles, because the front end associates special meanings with these style \
+names.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Input"], CellFrame -> {{3, 0}, {0, 0}}, 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             Evaluatable -> True, CellGroupingRules -> "InputGrouping", 
+             CellHorizontalScrolling -> True, GroupPageBreakWithin -> False, 
+             CellLabelMargins -> {{23, Inherited}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultInputFormatType, 
+             AutoItalicWords -> {}, FormatType -> InputForm, 
+             ShowStringCharacters -> True, NumberMarks -> True, 
+             CounterIncrements -> "Input", FontWeight -> "Bold"], 
+            Cell[
+             StyleData["Input", "Printout"], CellFrame -> {{3, 0}, {0, 0}}, 
+             CellMargins -> {{30, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, FontSize -> 9], 
+            Cell[
+             StyleData["Input", "TwoColumn"], CellFrame -> {{3, 0}, {0, 0}}, 
+             CellMargins -> {{30, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, FontSize -> 12]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Output"], 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             CellEditDuplicate -> True, CellGroupingRules -> "OutputGrouping",
+              CellHorizontalScrolling -> True, PageBreakWithin -> False, 
+             GroupPageBreakWithin -> False, GeneratedCell -> True, 
+             CellAutoOverwrite -> True, 
+             CellLabelMargins -> {{23, Inherited}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultOutputFormatType, 
+             LineSpacing -> {1.5, 0}, FormatType -> StandardForm, FontFamily -> 
+             "Courier", FontSize -> 14, FontColor -> RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["Output", "Printout"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, LineSpacing -> {1, 0}, 
+             FontSize -> 10, FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Output", "TwoColumn"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, LineSpacing -> {1, 0}, 
+             FontSize -> 12, FontColor -> GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Message"], 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             CellGroupingRules -> "OutputGrouping", PageBreakWithin -> False, 
+             GroupPageBreakWithin -> False, GeneratedCell -> True, 
+             CellAutoOverwrite -> True, ShowCellLabel -> False, 
+             CellLabelMargins -> {{23, Inherited}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultOutputFormatType, FormatType -> 
+             InputForm, StyleMenuListing -> None, FontColor -> 
+             RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["Message", "Printout"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, FontSize -> 9, 
+             FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Message", "TwoColumn"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, FontSize -> 9, 
+             FontColor -> GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Print"], 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             CellGroupingRules -> "OutputGrouping", CellHorizontalScrolling -> 
+             True, PageBreakWithin -> False, GroupPageBreakWithin -> False, 
+             GeneratedCell -> True, CellAutoOverwrite -> True, ShowCellLabel -> 
+             False, CellLabelMargins -> {{23, Inherited}, {
+               Inherited, Inherited}}, DefaultFormatType -> 
+             DefaultOutputFormatType, FormatType -> InputForm, 
+             StyleMenuListing -> None], 
+            Cell[
+             StyleData["Print", "Printout"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, FontSize -> 9], 
+            Cell[
+             StyleData["Print", "TwoColumn"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, FontSize -> 16]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Info"], 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             CellGroupingRules -> "OutputGrouping", CellHorizontalScrolling -> 
+             True, PageBreakWithin -> False, GroupPageBreakWithin -> False, 
+             GeneratedCell -> True, CellAutoOverwrite -> True, ShowCellLabel -> 
+             False, CellLabelMargins -> {{23, Inherited}, {
+               Inherited, Inherited}}, DefaultFormatType -> 
+             DefaultOutputFormatType, FormatType -> InputForm, 
+             StyleMenuListing -> None], 
+            Cell[
+             StyleData["Info", "Printout"], 
+             CellMargins -> {{30, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10], 
+            Cell[
+             StyleData["Info", "TwoColumn"], 
+             CellMargins -> {{30, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 12]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Graphics"], 
+             CellMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+             CellGroupingRules -> "GraphicsGrouping", CellHorizontalScrolling -> 
+             True, PageBreakWithin -> False, GeneratedCell -> True, 
+             CellAutoOverwrite -> True, ShowCellLabel -> False, 
+             DefaultFormatType -> DefaultOutputFormatType, FormatType -> 
+             InputForm, ImageMargins -> {{35, Inherited}, {Inherited, 0}}, 
+             AnimationDisplayTime -> 0.2, StyleMenuListing -> None, FontSize -> 
+             14], 
+            Cell[
+             StyleData["Graphics", "Printout"], 
+             CellMargins -> {{30, Inherited}, {0, 0}}, CellFrameMargins -> 
+             False, ImageSize -> {Inherited, 150}, 
+             ImageMargins -> {{45, 0}, {0, 0}}, 
+             ImageRegion -> {{0, 1}, {0, 1}}, FontSize -> 9], 
+            Cell[
+             StyleData["Graphics", "TwoColumn"], 
+             CellMargins -> {{20, Inherited}, {0, 0}}, CellFrameMargins -> 
+             False, ImageSize -> {Inherited, 150}, 
+             ImageMargins -> {{0, 0}, {0, 0}}, 
+             ImageRegion -> {{0, 1}, {0, 1}}]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["CellLabel"], StyleMenuListing -> None, FontFamily -> 
+             "Times", FontSize -> 9, FontColor -> RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["CellLabel", "Printout"], FontColor -> GrayLevel[1]], 
+            Cell[
+             StyleData["CellLabel", "TwoColumn"], FontColor -> GrayLevel[1]]},
+            Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Special Headings", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LogoPrefaceTitle"], Selectable -> False, Deletable -> 
+             False, CellFrame -> {{1, 1}, {0, 5}}, ShowCellBracket -> False, 
+             CellMargins -> {{24, 24}, {-1, 10}}, 
+             CellGroupingRules -> {"SectionGrouping", 30}, PageBreakBelow -> 
+             False, CellFrameMargins -> {{15, Inherited}, {
+               Inherited, Inherited}}, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, 
+             LineSpacing -> {1.4, 1}, FontFamily -> "Times", FontSize -> 32, 
+             FontWeight -> "Bold", FontColor -> GrayLevel[1], Background -> 
+             RGBColor[0.1172, 0.0742, 0.3125]], 
+            Cell[
+             StyleData["LogoPrefaceTitle", "Printout"], 
+             CellFrame -> {{1, 1}, {0, 5}}, 
+             CellMargins -> {{0, Inherited}, {-1, Inherited}}, FontSize -> 16,
+              FontColor -> GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["LogoPrefaceTitle", "TwoColumn"], 
+             CellFrame -> {{1, 1}, {0, 5}}, 
+             CellMargins -> {{0, Inherited}, {-1, Inherited}}, FontSize -> 16,
+              FontColor -> GrayLevel[0], Background -> GrayLevel[1]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["PrefaceTitle"], Selectable -> False, Deletable -> 
+             False, CellFrame -> {{1, 1}, {1, 0}}, ShowCellBracket -> False, 
+             CellMargins -> {{24, 24}, {0, 0}}, 
+             CellGroupingRules -> {"SectionGrouping", 30}, PageBreakBelow -> 
+             False, CellFrameMargins -> {{15, Inherited}, {
+               Inherited, Inherited}}, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Center, 
+             LineSpacing -> {1.4, 1}, FontFamily -> "Times", FontSize -> 32, 
+             FontWeight -> "Bold", FontColor -> GrayLevel[1], Background -> 
+             RGBColor[0.1172, 0.0742, 0.3125]], 
+            Cell[
+             StyleData["PrefaceTitle", "Printout"], 
+             CellFrame -> {{1, 1}, {1, 0}}, 
+             CellMargins -> {{0, Inherited}, {0, 0}}, FontSize -> 16, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["PrefaceTitle", "TwoColumn"], 
+             CellFrame -> {{1, 1}, {1, 0}}, 
+             CellMargins -> {{0, Inherited}, {0, 0}}, FontSize -> 16, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]]}, 
+           Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Special Body Text and Index", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Accident"], CellFrame -> 3, ShowCellBracket -> False, 
+             CellMargins -> {{24, 24}, {0, 10}}, 
+             CellFrameMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+             TextAlignment -> Center, LineSpacing -> {1.4, 1}, FontFamily -> 
+             "Times", FontSize -> 24, FontWeight -> "Bold", FontColor -> 
+             RGBColor[1, 0, 0]], 
+            Cell[
+             StyleData["Accident", "Printout"], CellFrame -> 2, 
+             CellMargins -> {{0, Inherited}, {0, Inherited}}, FontSize -> 16, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["Accident", "TwoColumn"], CellFrame -> 2, 
+             CellMargins -> {{0, Inherited}, {0, Inherited}}, FontSize -> 16, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["ContentsText"], CellMargins -> {{50, 10}, {5, 5}}, 
+             FontFamily -> "Times", FontSize -> 16], 
+            Cell[
+             StyleData["ContentsText", "Printout"], FontColor -> GrayLevel[0],
+              Background -> None], 
+            Cell[
+             StyleData["ContentsText", "TwoColumn"], FontColor -> 
+             GrayLevel[0], Background -> None]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special1"], CellDingbat -> "\[EmptySquare]", 
+             ShowClosedCellArea -> True, DefaultFormatType -> 
+             DefaultTextFormatType, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, FontFamily -> "Times", FontSize -> 
+             14, FontWeight -> "Bold", FontColor -> 
+             RGBColor[0.689998, 0.0899977, 0.119997]], 
+            Cell[
+             StyleData["Special1", "Printout"], FontSize -> 12, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["Special1", "TwoColumn"], FontSize -> 12, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special2"], CellMargins -> {{6, 0}, {0, 0}}, 
+             CellGroupingRules -> {"SectionGrouping", 40}, DefaultFormatType -> 
+             DefaultTextFormatType, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Center, 
+             FontFamily -> "Courier", FontSize -> 10, FontColor -> 
+             GrayLevel[0.333333]], 
+            Cell[
+             StyleData["Special2", "Printout"], FontSize -> 10, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["Special2", "TwoColumn"], FontSize -> 10, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special3"], CellDingbat -> "\[GraySquare]", 
+             ShowClosedCellArea -> True, DefaultFormatType -> 
+             DefaultTextFormatType, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, FontFamily -> 
+             "Courier", FontSize -> 10, FontColor -> GrayLevel[0.333333]], 
+            Cell[
+             StyleData["Special3", "Printout"], FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Special3", "TwoColumn"], FontColor -> GrayLevel[0]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special4"], ShowClosedCellArea -> True, 
+             DefaultFormatType -> DefaultTextFormatType, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             TextAlignment -> Center, FontFamily -> "Courier", FontSize -> 10,
+              FontColor -> GrayLevel[0.333333]], 
+            Cell[
+             StyleData["Special4", "Printout"], FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Special4", "TwoColumn"], FontColor -> GrayLevel[0]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special5"], ShowClosedCellArea -> True, 
+             DefaultFormatType -> DefaultTextFormatType, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             TextAlignment -> Center, FontFamily -> "Courier", FontSize -> 10,
+              FontColor -> GrayLevel[0.333333]], 
+            Cell[
+             StyleData["Special5", "Printout"]], 
+            Cell[
+             StyleData["Special5", "TwoColumn"]]}, Closed]], 
+         Cell[
+          StyleData["IndexEntry"], ShowCellBracket -> False, 
+          CellMargins -> {{15, 5}, {0, 5}}, PageBreakBelow -> False, 
+          DefaultFormatType -> DefaultTextFormatType, DefaultInlineFormatType -> 
+          DefaultInputInlineFormatType, ParagraphIndent -> -40, 
+          StyleMenuListing -> None, FontSize -> 16], 
+         Cell[
+          StyleData["IndexSubEntry"], ShowCellBracket -> False, 
+          CellMargins -> {{45, 5}, {0, 0}}, DefaultFormatType -> 
+          DefaultTextFormatType, DefaultInlineFormatType -> 
+          DefaultInputInlineFormatType, ParagraphIndent -> -40, 
+          StyleMenuListing -> None, FontSize -> 16]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for License Agreement", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LicenseHeading"], ShowCellBracket -> True, 
+             ShowGroupOpener -> True, CellMargins -> {{24, 24}, {-1, 2}}, 
+             CellGroupingRules -> {"SectionGrouping", 40}, PageBreakBelow -> 
+             False, CounterIncrements -> "Subsection", 
+             CounterAssignments -> {{"Subsubsection", 0}}, StyleMenuListing -> 
+             None, FontFamily -> "Helvetica", FontSize -> 12, FontWeight -> 
+             "Bold", FontColor -> RGBColor[0.4, 0.300008, 0.6]], 
+            Cell[
+             StyleData["LicenseHeading", "Printout"], FontSize -> 10, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["LicenseHeading", "TwoColumn"], FontSize -> 10, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LicenseText"], CellFrame -> True, ShowCellBracket -> 
+             False, CellMargins -> {{24, 24}, {5, -1}}, StyleMenuListing -> 
+             None, FontFamily -> "Helvetica", FontSize -> 12, Background -> 
+             RGBColor[1, 0.537743, 0.509071]], 
+            Cell[
+             StyleData["LicenseText", "Printout"], FontSize -> 10, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["LicenseText", "TwoColumn"], FontSize -> 10, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]]}, Closed]]}, Closed]], 
+      
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Automatic Numbering", "Section"], 
+         Cell[
+         "The following styles are useful for numbered equations, figures, \
+etc.  They automatically give the cell a FrameLabel containing a reference to \
+a particular counter, and also increment that counter.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["NumberedEquation"], CounterIncrements -> 
+             "NumberedEquation"], 
+            Cell[
+             StyleData["NumberedEquation", "Printout"]], 
+            Cell[
+             StyleData["NumberedEquation", "TwoColumn"]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["NumberedFigure"], CellFrameLabels -> {{None, None}, {
+                Cell[
+                 TextData[{"Figure ", 
+                   CounterBox["NumberedFigure"]}]], None}}, CounterIncrements -> 
+             "NumberedFigure", FormatTypeAutoConvert -> False, FontFamily -> 
+             "Times"], 
+            Cell[
+             StyleData["NumberedFigure", "Printout"], 
+             CellMargins -> {{14, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10], 
+            Cell[
+             StyleData["NumberedFigure", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["NumberedTable"], 
+             CellMargins -> {{6, Inherited}, {Inherited, Inherited}}, 
+             CellFrameLabels -> {{None, None}, {
+                Cell[
+                 TextData[{"Table ", 
+                   CounterBox["NumberedTable"]}]], None}}, CounterIncrements -> 
+             "NumberedTable", FormatTypeAutoConvert -> False, FontFamily -> 
+             "Times"], 
+            Cell[
+             StyleData["NumberedTable", "Printout"], 
+             CellMargins -> {{14, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10], 
+            Cell[
+             StyleData["NumberedTable", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10]}, Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Headers and Footers", "Section"], 
+         Cell[
+          StyleData["Header"], CellMargins -> {{0, 0}, {4, 1}}, 
+          StyleMenuListing -> None, FontSize -> 10], 
+         Cell[
+          StyleData["Footer"], CellMargins -> {{0, 0}, {0, 4}}, 
+          StyleMenuListing -> None, FontSize -> 9], 
+         Cell[
+          StyleData["PageNumber"], CellMargins -> {{0, 0}, {4, 1}}, 
+          StyleMenuListing -> None, FontFamily -> "Times", FontSize -> 10]}, 
+        Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Palette Styles", "Section"], 
+         Cell[
+         "The cells below define styles that define standard ButtonFunctions, \
+for use in palette buttons.", "Text"], 
+         Cell[
+          StyleData["Paste"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, After]}]& )}], 
+         Cell[
+          StyleData["Evaluate"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, All], 
+               SelectionEvaluate[
+                FrontEnd`InputNotebook[], All]}]& )}], 
+         Cell[
+          StyleData["EvaluateCell"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, All], 
+               FrontEnd`SelectionMove[
+                FrontEnd`InputNotebook[], All, Cell, 1], 
+               FrontEnd`SelectionEvaluateCreateCell[
+                FrontEnd`InputNotebook[], All]}]& )}], 
+         Cell[
+          StyleData["CopyEvaluate"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`SelectionCreateCell[
+                FrontEnd`InputNotebook[], All], 
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, All], 
+               FrontEnd`SelectionEvaluate[
+                FrontEnd`InputNotebook[], All]}]& )}], 
+         Cell[
+          StyleData["CopyEvaluateCell"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`SelectionCreateCell[
+                FrontEnd`InputNotebook[], All], 
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, All], 
+               FrontEnd`SelectionEvaluateCreateCell[
+                FrontEnd`InputNotebook[], All]}]& )}]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Hyperlink Styles", "Section"], 
+         Cell[
+         "The cells below define styles useful for making hypertext \
+ButtonBoxes.  The \"Hyperlink\" style is for links within the same Notebook, \
+or between Notebooks.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Hyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> Automatic, FontSize -> 14, 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0, 0.392187, 0], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& )}], 
+            Cell[
+             StyleData["Hyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["Hyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["MakeMathHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontSize -> 14, FontWeight -> 
+             "Bold", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[1, 1, 1], Background -> 
+             RGBColor[0.1172, 0.0742, 0.3125], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Come visit us!"}], 
+            Cell[
+             StyleData["MakeMathHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["MakeMathHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["BasicsHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.848096, 0.171878, 0.228321], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Go to Basics"}], 
+            Cell[
+             StyleData["BasicsHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["BasicsHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["BasicsIndexHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.848096, 0.171878, 0.228321], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEnd`SelectionMove[
+                   FrontEnd`SelectedNotebook[], Next, CellGroup], 
+                  FrontEndToken["SelectionCloseAllGroups"], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Link into Basics"}], 
+            Cell[
+             StyleData["BasicsIndexHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["BasicsIndexHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["TutorialsHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.0199588, 0.346716, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Go to Tutorials"}], 
+            Cell[
+             StyleData["TutorialsHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["TutorialsHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["TutorialsIndexHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.0199588, 0.346716, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEnd`SelectionMove[
+                   FrontEnd`SelectedNotebook[], Next, CellGroup], 
+                  FrontEndToken["SelectionCloseAllGroups"], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Link into Tutorials"}], 
+            Cell[
+             StyleData["TutorialsIndexHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["TutorialsIndexHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["GiveItaTryHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.497459, 0.196094, 0.543877], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Go to GiveItaTry"}], 
+            Cell[
+             StyleData["GiveItaTryHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["GiveItaTryHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["GiveItaTryIndexHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.497459, 0.196094, 0.543877], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEnd`SelectionMove[
+                   FrontEnd`SelectedNotebook[], Next, CellGroup], 
+                  FrontEndToken["SelectionCloseAllGroups"], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Link into GiveItaTry"}], 
+            Cell[
+             StyleData["GiveItaTryIndexHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["GiveItaTryIndexHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LiteracyHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[1, 0.433326, 0], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Go to Literacy"}], 
+            Cell[
+             StyleData["LiteracyHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["LiteracyHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LiteracyIndexHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[1, 0.433326, 0], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEnd`SelectionMove[
+                   FrontEnd`SelectedNotebook[], Next, CellGroup], 
+                  FrontEndToken["SelectionCloseAllGroups"], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Link into Literacy"}], 
+            Cell[
+             StyleData["LiteracyIndexHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["LiteracyIndexHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["PreviewHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             GrayLevel[0.250004], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Preview of Lesson"}], 
+            Cell[
+             StyleData["PreviewHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["PreviewHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["RefGuideLink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> Automatic, FontFamily -> "Courier", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0, 0, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`HelpBrowserLookup["RefGuideLink", #]}]& )}], 
+            Cell[
+             StyleData["RefGuideLink", "Presentation"]], 
+            Cell[
+             StyleData["RefGuideLink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["RefGuideLink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["GettingStartedLink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> Automatic, 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0, 0, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`HelpBrowserLookup["GettingStarted", #]}]& )}], 
+            Cell[
+             StyleData["GettingStartedLink", "Presentation"]], 
+            Cell[
+             StyleData["GettingStartedLink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["GettingStartedLink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["OtherInformationLink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> Automatic, 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0, 0, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`HelpBrowserLookup["OtherInformation", #]}]& )}], 
+            Cell[
+             StyleData["OtherInformationLink", "Presentation"]], 
+            Cell[
+             StyleData["OtherInformationLink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["OtherInformationLink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Placeholder Styles", "Section"], 
+         Cell[
+         "The cells below define styles useful for making placeholder objects \
+in palette templates.", "Text"], 
+         Cell[
+          StyleData["Placeholder"], Editable -> False, Selectable -> False, 
+          StyleBoxAutoDelete -> True, Placeholder -> True, StyleMenuListing -> 
+          None], 
+         Cell[
+          StyleData["SelectionPlaceholder"], Editable -> False, Selectable -> 
+          False, StyleBoxAutoDelete -> True, Placeholder -> 
+          PrimaryPlaceholder, StyleMenuListing -> None, DrawHighlighted -> 
+          True]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["FormatType Styles", "Section"], 
+         Cell[
+         "The cells below define styles that are mixed in with the styles of \
+most cells.  If a cell's FormatType matches the name of one of the styles \
+defined below, then that style is applied between the cell's style and its \
+own options.", "Text"], 
+         Cell[
+          StyleData["CellExpression"], PageWidth -> Infinity, 
+          CellMargins -> {{6, Inherited}, {Inherited, Inherited}}, 
+          ShowCellLabel -> False, ShowSpecialCharacters -> False, 
+          AllowInlineCells -> False, StyleMenuListing -> None, FontFamily -> 
+          "Courier", FontSize -> 12], 
+         Cell[
+          StyleData["InputForm"], AllowInlineCells -> False, StyleMenuListing -> 
+          None, FontFamily -> "Courier"], 
+         Cell[
+          StyleData["OutputForm"], PageWidth -> Infinity, TextAlignment -> 
+          Left, LineSpacing -> {1, -5}, StyleMenuListing -> None, FontFamily -> 
+          "Courier"], 
+         Cell[
+          StyleData["StandardForm"], LineSpacing -> {1.25, 0}, 
+          StyleMenuListing -> None, FontFamily -> "Courier"], 
+         Cell[
+          StyleData["TraditionalForm"], LineSpacing -> {1.25, 0}, 
+          SingleLetterItalics -> True, TraditionalFunctionNotation -> True, 
+          DelimiterMatching -> None, StyleMenuListing -> None], 
+         Cell[
+         "The style defined below is mixed in to any cell that is in an \
+inline cell within another.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["InlineCell"], DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, ScriptLevel -> 
+             1, LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+             FontFamily -> "Times", FontSize -> 16, FontColor -> 
+             RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["InlineCell", "Presentation"], DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, ScriptLevel -> 
+             1, LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+             FontFamily -> "Times", FontSize -> 16, FontColor -> 
+             RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["InlineCell", "Printout"], DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, ScriptLevel -> 
+             1, LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+             FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["InlineCell", "TwoColumn"], DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, ScriptLevel -> 
+             1, LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+             FontSize -> 14, FontColor -> GrayLevel[0]]}, Closed]]}, 
+        Closed]]}, Open]]}, Visible -> False, FrontEndVersion -> 
+  "8.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (November 6, 2010)", 
+  StyleDefinitions -> "PrivateStylesheetFormatting.nb"]
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[545, 20, 5169, 90, 104, "LogoPrefaceTitle"],
+Cell[5717, 112, 492, 14, 88, "PrefaceTitle"],
+Cell[6212, 128, 46, 0, 62, "Title"],
+Cell[CellGroupData[{
+Cell[6283, 132, 193, 7, 28, "Special2"],
+Cell[6479, 141, 1212, 37, 111, "Input",
+ InitializationCell->True],
+Cell[CellGroupData[{
+Cell[7716, 182, 38, 0, 43, "Subsubsection"],
+Cell[7757, 184, 1344, 31, 156, "Input"],
+Cell[9104, 217, 170, 4, 20, "Input",
+ InitializationCell->True],
+Cell[9277, 223, 17368, 481, 1406, "Input",
+ InitializationCell->True],
+Cell[26648, 706, 210, 6, 20, "Input",
+ InitializationCell->True]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[26895, 717, 39, 0, 35, "Subsubsection"],
+Cell[26937, 719, 2318, 71, 161, "Input",
+ InitializationCell->True]
+}, Closed]]
+}, Closed]],
+Cell[29282, 794, 41, 0, 24, "Subsection"],
+Cell[29326, 796, 366, 14, 77, "Text"],
+Cell[29695, 812, 353, 9, 47, "Special2"],
+Cell[30051, 823, 328, 11, 39, "Input"],
+Cell[30382, 836, 251, 8, 23, "Special2"],
+Cell[30636, 846, 133, 4, 74, "Text"],
+Cell[30772, 852, 353, 9, 47, "Special2"],
+Cell[31128, 863, 332, 11, 36, "Input"],
+Cell[31463, 876, 33, 0, 24, "Text"],
+Cell[31499, 878, 518, 16, 36, "Input"],
+Cell[32020, 896, 45, 0, 24, "Text"],
+Cell[32068, 898, 737, 22, 66, "Input"],
+Cell[32808, 922, 140, 7, 24, "Text"],
+Cell[32951, 931, 312, 9, 20, "Input"],
+Cell[33266, 942, 48, 0, 24, "Text"],
+Cell[33317, 944, 955, 29, 66, "Input"],
+Cell[34275, 975, 101, 5, 24, "Text"],
+Cell[34379, 982, 182, 5, 24, "Text"],
+Cell[34564, 989, 539, 17, 36, "Input"],
+Cell[35106, 1008, 43, 0, 24, "Text"],
+Cell[35152, 1010, 121, 3, 20, "Input"],
+Cell[35276, 1015, 318, 11, 49, "Text"],
+Cell[35597, 1028, 555, 17, 66, "Input"],
+Cell[36155, 1047, 225, 10, 24, "Text"],
+Cell[36383, 1059, 555, 17, 66, "Input"],
+Cell[36941, 1078, 52, 0, 12, "Special2"],
+Cell[36996, 1080, 260, 13, 24, "Text"],
+Cell[37259, 1095, 1028, 31, 96, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)

@@ -1,0 +1,5655 @@
+(* Content-type: application/mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 6.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       145,          7]
+NotebookDataLength[    190793,       5646]
+NotebookOptionsPosition[    128089,       4259]
+NotebookOutlinePosition[    181765,       5389]
+CellTagsIndexPosition[    181451,       5376]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[Cell[BoxData[
+ GraphicsBox[
+  TagBox[RasterBox[CompressedData["
+1:eJztXcuNwzgSJbBzdwILCAPs3SH4vhcDm4CAScAhKASHoAzaIei6N4egBAgo
+BI/VIsVisYo/qe3unnoA0W6J4rceWVWkqD//uvzvr38ppf77DP9/hj/UG/Ex
+HZ7hbH637yyKQPCtMPPhY5qeYTD/Pz5/f0ynN5dMIHgfZvn/mO6GDw/EDxv6
+Z2jeXFKB4HWY5f1juiEecPx4mLml+9TBBILfisXG6Aj5T/HDhnG1UQSC34TF
+xhgjsp/DDxfvYzq+uUYCwXYsNsaQIfMl/IC2iehcgp+HRZfqC2S9hh/ONhEI
+fgqWOWMqlPNafkDbROYSwc/AwpGUvbEXPwYlayWCbwz97/+cn+FqfvfPsKxZ
+fEyXgrmklB8z/1qT5wnk383/v6clBAKHpxwen2F4hsf811ybf09GTg8Ftkgu
+P9b1kJmHz3BD+dvy9J/5CwQvxix3Rv4eIEB+2DA+w7KfavbJxn1ZOfyY1xUb
+k3/H5D+Aa588fVc7Cf55eMrbxcjdI4Mf671V55nX+GjbJMaPu7UxZr4l8h+I
+ezNPZW1R8GUwOv7IyH+KHzY4nWfRkaYEPyZkY1Cyn8MPyFPZzyXYDUbHj8lc
+CT98nWfZi9Uz/LgCGwPrcrX8sOGqxTYRbIDR8a8ZslbKj1DnWfzBljPYxqB0
+qa38sDy9vKt9BT8Xmtfx9+QH1HmOKP+zjutye/AD8lT8wYIs6EXPL+XGFn7M
+4Q7ybyq4sYUfliNilwii0ItOY0P3An7MPLT2d4P+doU8reHHuk6Tww/D3RMK
+7HNE3Op5Si9rTZvTEdRDu7ljlVnt1t/25scqlyYP+/xqv2t6nWUvfvQm73Us
+yGgfaszombhHKt8NfTPskY6gHoYfq7zZccpcv+/EjxuSy4l5ftTGftdp324J
+P+6gXi3Iv5YfExP3Ivz4XUD88MZZc59bG8zhx4jkcsx8fpaLY+S5XH7AeZHk
+e0b7UPx4aELf4cqxoW+EH28Gww8rW7NsWNuE8vty8r36UXV8Hkjxq9e+bYR5
+GuOHLXujI/piRvtw/LiieIfaPCJ5Cz/ejAg/4BxgdZ4G9Rkl31cg030i7Rz9
+DHINyzrFD06X25sfI4p3zsnDlG1uIzyX3TXaD8Pxw9TtZu7bcEBlwWPC/P8J
+pd+iNOQcMoQMfqyyqJ3OY9cqoHzP90v9UCX2/ahD2wjyA95vdaa/OKN9OH48
+NPBj6chYAOLkrL2eQXyOHwN6ps0pBxEX1032dSIU8MOGuf0P5tkz/psrlxX8
+gDy1PDzhv4Ts7M0PyPsLiMfW29w/6HDMGInnRpBmwA9C/i+Jsg4o3wn0n/Aj
+gQp+2DaG/dKUyuUGftiw7qfSZT7hrfyA+djyY79uINeoreeyw7nnxsTHbdri
+sqCyQh6MqH3gPeuzaLXoV1Fs4Aecp2vlcws/OtT/na7YA5DRPpgfWEbnvKFf
+19oFZB7a2UatSXvQaA4BcTE/YLijdHE/9tpfp4Rpkes3ghAV/ID2t30Pyo5H
+R102j9Tw49P+VuB8a73odSX7frfwA/upWlRn/D+2q5PlA/FTbQnnIHLtJdbu
+gjQK+DHocE0E7k+H7zPl2iEl/FjX+JQ7ew7b57nvjVTzw1zzfGgEfwJ+mOuU
+z6rT+fpVMFaAuMKPL0AGP0bt279j0M7x92FjOk+uf9fOUyf0vi7l3x00s1a+
+Iz/amLwy/MDye47lQaWjnb0Nr8G+gdfFltgBEX7APVENM5ZR/KDOU+gr+bHY
+4P47VcH7uUzZep2x7zKjfSh+cGuBdv6i+IHLaG2nuX3uVJkoLpj4VBviMt21
+vyZi13iv4FqrxT6PguEHlK2Yz57jB3ceD+7v2P6SxqSN38nN5QfF8WAdPaN9
+uLGdWpO3Mk/xA48Rc9lGptxHLh1zHfdJy+Qxmrg37c+jR6puWvy7ARA/Bu3v
+e0r5g1L8CM5zQ+lS+xOtjcGd6VDCD5gu3Pe4jtcZ7cPxA+tLA7hH8YMah+BY
+780TXDrmOvbXjuB6ak/pBNpC+JGAdjYFKT878cOG3uhcVuex8u3WU9JnAtXw
+A/Lf8zFktE+rgQ4Crjea0U30MmZTz5xR296073+14RRLB5Q/eAbcw31o5xLo
+82o1UwfBAu30qEbnv/dRyw9nm6AyqA3nWxfww4Z1bVEgSEFvfL+2UKbd+VYW
+i/1dfb51BT+sntHQLSIQ+NDps6725Eev8DcGy74bspUfc3z53o4gCaD74rW/
+r+DHuoaoljW+m/mNr6fs8lp+zPz37KxkAy3lGVCg9fRFR8Rx69fiFlvstIbw
+PsznSqTwswHrjr8fZs+HcuFLdAHt+1Xg3pGcvdi5/FjPRETzBH7+ZnQt+93C
+lM6Vy49PP68m7KxkA9HfT6R5tfjcwnLWAs+n4f2gLX4VYvUL+yUcP3aADv2O
+63q1Tu/LzeFHZ+R9lvuerHPIJfgM9d3bEn70Gp3JAEOygfjvi4b2PedfqIXw
+4zvyw4Z1v5Pm91PF+JEzF8SeH5U/59y55xl+DDpjn0mygXh+hDoWpxfWQvgR
+48dJvV6/osJN8+8FUvI9KmdLpNb4cuafQfm2SXC+NeIHnP9OOqF7JRuI58cN
+xTuydQjTbEzb2L69eP273KfGhJOCtgjdlgfTTmG6fhkOqAxnhedE3/45JtNf
+yn0x99ogPT/dFuTtx3X5wvrdvbK4NrIBlx3XL1YezDW4lpTiB9bf4R5tKN/T
+Z9u4+g0qLve5/LChN3WG31TH/IA2Rp9Rry38mFC8S5IfaR/dNZGnn2Y4juDx
+w4YzKmvHxJu8uHgvKJ3+ZPqbKvMdyf38/Mi2p9MXUrIzEPmdMur3WGXUySml
+l9jydJn8sGEEY/P8rkdn8rkC2e0z5b2UH2uZzTON/a0Xnxu0MbLXcjbww5e7
+WJ8u92nbPQxtIk+OHzFfxgjKec0ow5GoUyz92L2uIN/J9Gs9P/LysWekc9xY
+QyE/At0etHvJdwdr+eH6G42JERtpb37ANu1BPFw+LMsH0D6T6ceW6M+bcvP9
+iO51a+DbbVCUT2OJfyLqcjZh8srAc36IyO9AyNxA5H1XTufBZW0VPUaMyteV
+Qn6EOu4E0ptQWjhuZ/roBPrkVsmPOUDZOBF9+ZX8sH1h7aImZWfsyA8oz6OJ
+c/aucXa1a/sDujYq3CaUfIZlw7JwjD4bzu3QdsDz20GF8wfUYaZI3mEfL9cv
+Cvo1nI3gy2kqHbpfoFzbAOd3y8+7KQfOt1ehLXWo4Mc6d2i3B70BZS6ZQ2r4
+MSo3P67vn5u/bekcEshcKIO4H/C4c0T9co3K9dJPveLHk1p+YPmh+DEEz/gB
+y9uQmT6+FytXq5Y5g5OTLfxItReU/wOT/2TKdynkB14X+TyHwOQF7YISG6SE
+H3BdxOYB7XO4tpltgwRtGLap3w/LNSjbHfo/9E24domt5byCHyVj1778iNvC
+r+FH2H5toixjJj86Tb+Lh+V7lhP4faghkX8uP2Yu2DkK2jnYf7Xuk9eZ+5Ez
+2pDih69jwd+h7FDP2DpRdvCr5o9R+T5NHJqd+QG5Ma15hPFfx48lnUZRc74J
+CX7AtQ9Kd+HkewB936qULhHjj/NLnIh0uPXBEeiAc/3Y91ky2o/ix4kpr/XP
+UrIZrNuAPO7kvf35gecvag/AiUmjnh+hToptkL340aNr0CZqzLWbcn7kcG0I
+rdkx/MDyxdm+KfmGft9OhfM79/zk1SHmL1HR/SUD4negcwXtE7ZXyI/lOr/O
+QMsmrt9Zub2PtByE8nxV/lpdKT9a9MxduTH8DPKj1iG28AOPJ3at76IoHx2d
+zsOU8aSsbz/kB5VPYwKevxqT913hvRAgLuIH1k/6hH6Sox/BdcMG9Tn1/Fxv
+y6mULzvFj5R+uIUfeKyawD1KNrEcROtE5h1vtzQ/UN9H+yzNgRJ+NJl1x/wY
+2Dj8+gf3DAwXov8sn7xrgB/rO3W68HzpzHqPyteV7qifb8qNZa3KsyVz+WG5
+D/0Lw0Z+hP7BmGwudabqxPu7+PfGtvAD+22pfqLmwa32B5bnh3LrE/DaDaTD
+ranG+JHyg1g/UpOI99k3GnyHT1eeL50hx357OR4c0V/Lm/y0VPH7UXDfZfod
+KbzPx793AgH6Do/kM/7+pAtoh1geB+XvVeqU7wOxAb8fQZfBv9+R6dJpxNKn
+3s0I7/l5tsraP/G0YJvZcAzajN47Bp9x7R2mj9vXi6vLzwXdwg+fx04Gcnyf
+e/DDhl7LO+iCDOiN50tXyLWzSZbnrf3+Sn50wg9BCSrmkRp+QJ+W1RNyfFV7
+8WP1WQsENdD5+zRK+DGo0P6Gz48qvtaxlR/ufGuBYCN0wfnSCRkelW9Phmth
+PI/gWnktP9zZcwLBztAZ50tHbIyULy32fKfS6yApfsg5cIKXQNP7NDj57pW/
+bh4d/yP34Tp6uO+P58cgNobgHdDE+dJIN8rZd5XLDxvuwDaB+2MwP2ab6UyV
+WyB4FTQ6X1qFZ43k+qBK/V89sE06ZdZajU+qo8oqEHwL8N+w2ZMfzq7hzqIQ
+CL4b+L1FX8EPG0bhiODHoO4d9Fp+DIraSyMQfHeUnWNSyo+Zf2J/C3428t7d
+KOGHW0sRCH4L0uco5vCjFztD8KvBn8Mb48eg8LsAAsFvRvgOOsWPmUdtIiWB
+4HfCPx8L8kPWNQTfDn8DHM4nIA==
+    "], {{0, 74}, {200, 0}}, {0, 255},
+    ColorFunction->RGBColor],
+   BoxForm`ImageTag[
+   "Byte", ColorSpace -> "RGB", ImageSize -> Automatic, Interleaving -> True, 
+    Magnification -> Automatic],
+   Selectable->False],
+  BaseStyle->"ImageGraphics",
+  ImageSize->Automatic,
+  ImageSizeRaw->{200, 74},
+  PlotRange->{{0, 200}, {0, 74}}]]]], "LogoPrefaceTitle"],
+
+Cell[TextData[{
+ "Make: Matrices & Geometry\n",
+ StyleBox["Authors:  Bill Davis and Jerry Uhl  ", "Subtitle"],
+ StyleBox["\[Copyright]1996-2010", "Subtitle",
+  FontSize->12],
+ StyleBox["\n", "Subtitle"],
+ StyleBox["Publisher:  ", "Subtitle",
+  FontSize->12],
+ StyleBox[ButtonBox["Make: Mathematics",
+  BaseStyle->"MakeMathHyperlink",
+  ButtonData:>{
+    URL["http://www.makemathematics.com"], None}],
+  FontSize->12]
+}], "PrefaceTitle",
+ CellMargins->{{Inherited, Inherited}, {Inherited, 0}}],
+
+Cell[TextData[{
+ "MGM.11 Function Spaces and Root-Mean-Square Approximation\n",
+ StyleBox["GIVE IT A TRY!",
+  FontSize->16,
+  FontSlant->"Italic"]
+}], "Title"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " 8.0 Initializations"
+}], "Special2",
+ CellChangeTimes->{3.503085586908386*^9},
+ TextAlignment->Center,
+ TextJustification->0],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Off", "[", 
+   RowBox[{"General", "::", "\"\<spell\>\""}], "]"}], ";"}], "\n", 
+ RowBox[{"  ", 
+  RowBox[{
+   RowBox[{"Off", "[", 
+    RowBox[{"General", "::", "\"\<spell1\>\""}], "]"}], ";"}], 
+  "  "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Off", "[", 
+    RowBox[{"SingularValues", "::", "\"\<deprec\>\""}], "]"}], ";"}], "  ", 
+  "\n"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Needs", "[", "\"\<Units`\>\"", "]"}], ";"}], "  ", 
+  "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"SetOptions", "[", 
+    RowBox[{"ListAnimate", ",", " ", 
+     RowBox[{"AnimationRepetitions", " ", "\[Rule]", " ", "4"}]}], "]"}], 
+   ";"}], "  "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"SetOptions", "[", 
+    RowBox[{"Animate", ",", " ", 
+     RowBox[{"AnimationRepetitions", " ", "\[Rule]", " ", "4"}]}], "]"}], 
+   ";"}], "  "}], "\n", 
+ RowBox[{
+  RowBox[{"CMView", "=", 
+   RowBox[{"{", 
+    RowBox[{"2.7", ",", "1.6", ",", "1.2"}], "}"}]}], ";"}]}], "Input",
+ InitializationCell->True,
+ CellChangeTimes->{{3.503146559282848*^9, 3.503146563276721*^9}, {
+   3.503166885868726*^9, 3.503166892893751*^9}, 3.5032320558203287`*^9, 
+   3.503232106276367*^9},
+ AspectRatioFixed->True],
+
+Cell[CellGroupData[{
+
+Cell["Vector Drawer", "Subsubsection"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", " ", 
+   RowBox[{
+    RowBox[{":", 
+     RowBox[{"Date", ":", "  ", 
+      RowBox[{
+       RowBox[{"Copyright", " ", "1993"}], "-", "2011"}]}]}], ",", " ", 
+    RowBox[{"Math", " ", "Everywhere"}], ",", " ", 
+    RowBox[{"Inc", "."}]}], " ", "\n", "*)"}], "\[IndentingNewLine]", 
+  RowBox[{"(*", "\[IndentingNewLine]", 
+   RowBox[{
+   "Original", " ", "Conception", " ", "to", " ", "create", " ", "a", " ", 
+    "vector", " ", "drawer", " ", "is", " ", "due", " ", "to", " ", "Bill", 
+    " ", 
+    RowBox[{"Davis", ".", "\[IndentingNewLine]", "Current"}], " ", "code", 
+    " ", "is", " ", "by", " ", "Bruce", " ", 
+    RowBox[{"Carpenter", "."}]}], "\[IndentingNewLine]", "*)"}], "\n", 
+  RowBox[{"(*", "  ", 
+   RowBox[{
+    RowBox[{
+     RowBox[{":", 
+      RowBox[{"Drawbacks", ":", "  ", 
+       RowBox[{
+       "Since", " ", "the", " ", "vectors", " ", "are", " ", "drawn", " ", 
+        "out", " ", "of"}]}]}], " ", "\n", "     ", "context"}], ",", " ", 
+    RowBox[{
+    "the", " ", "shapes", " ", "of", " ", "the", " ", "arrowheads", " ", 
+     "are", " ", "only", " ", "\n", "     ", "correct", " ", "with", " ", 
+     "AspectRatio", " ", "set", " ", "to", " ", 
+     RowBox[{"Automatic", "."}]}]}], "\n", "*)"}]}]], "Input",
+ CellChangeTimes->{{3.503083622365877*^9, 3.5030836228723288`*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"BeginPackage", "[", "\"\<Vector3D`\>\"", "]"}], ";"}]], "Input",
+ InitializationCell->True,
+ CellChangeTimes->{3.5028932309285393`*^9}],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Axes3D", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Axes3D[a, b] creates a Graphics3D object of cartesian axes with x, y, \
+and z running from -a/3 to a, and with axes labels b units beyond the tips of \
+the axes.  Axes3D[a] is Axes3D[a, a/8].\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Perpend", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Perpend[a] returns a unit vector which is perpendicular to the vector \
+a.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Vector", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Vector[a] produces a 2 or 3 dimensional vector from the origin to a. \
+Arrow[a, Tail \[Rule] tail] gives a vector from tail to a.\>\""}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"CandMArrow", "::", "usage"}], "MessageName"], "=", 
+   "\"\<CandMArrow[a, b] gives a 2D or 3D arrow from a to b.\>\""}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"VectorHead", "::", "usage"}], "MessageName"], "=", 
+   "\"\<VectorHead[a, vec] produces an arrowhead with its tip placed at the \
+point a, pointing in the direction of the vector vec.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Tail", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Tail \[Rule] point puts the tail of the vector at point.\>\""}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"Aperture", "::", "usage"}], "MessageName"], "=", 
+   "\"\<Aperture is the ratio of the radius of the base to the length of the \
+head of a vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"TipSize", "::", "usage"}], "MessageName"], "=", 
+   "\"\<TipSize specifies an absolute size for the inner tip length of the \
+head of a vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"TipRatio", "::", "usage"}], "MessageName"], "=", 
+   "\"\<TipRatio is the ratio of the inner length of the arrowhead to the \
+length of the shaft of a vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"HeadRatio", "::", "usage"}], "MessageName"], "=", 
+   "\"\<HeadRatio is the ratio of the outer length of the arrowhead to the \
+length of the shaft of a vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"HeadSize", "::", "usage"}], "MessageName"], "=", 
+   "\"\<HeadSize specifies an absolute size for the head of a vector.\>\""}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"ScaleFactor", "::", "usage"}], "MessageName"], "=", 
+   "\"\<ScaleFactor specifies the amount to scale a vector in length and may \
+be either a number or a pure function.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   StyleBox[
+    RowBox[{"ZeroVectorPointSize", "::", "usage"}], "MessageName"], "=", 
+   "\"\<ZeroVectorPointSize is the size of the point used to represent a zero \
+vector.\>\""}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Options", "[", "Vector", "]"}], "=", 
+   RowBox[{
+    RowBox[{"Options", "[", "CandMArrow", "]"}], "=", 
+    RowBox[{
+     RowBox[{"Options", "[", "VectorHead", "]"}], "=", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"HeadRatio", "\[Rule]", "0.18"}], ",", 
+       RowBox[{"TipRatio", "\[Rule]", "0.14"}], ",", 
+       RowBox[{"Aperture", "\[Rule]", "0.3"}], ",", 
+       RowBox[{"ScaleFactor", "\[Rule]", "1"}], ",", 
+       RowBox[{"HeadType", "\[Rule]", "Polygon"}], ",", 
+       RowBox[{"ShaftQ", "\[Rule]", "True"}], ",", 
+       RowBox[{"EdgesQ", "\[Rule]", "True"}], ",", 
+       RowBox[{"VectorColor", "\[Rule]", 
+        RowBox[{"RGBColor", "[", 
+         RowBox[{"0", ",", "0", ",", "1"}], "]"}]}], ",", 
+       RowBox[{"ShaftWidth", "\[Rule]", "0.005"}], ",", 
+       RowBox[{"ZeroVectorPointSize", "\[Rule]", "0.01"}]}], "}"}]}]}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{"Begin", "[", "\"\<`Private`\>\"", "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"SetOptions", "[", 
+   RowBox[{"ParametricPlot", ",", 
+    RowBox[{"AspectRatio", "\[Rule]", "Automatic"}]}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"SetOptions", "[", 
+   RowBox[{"Plot", ",", 
+    RowBox[{"AspectRatio", "\[Rule]", "Automatic"}]}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"SetOptions", "[", 
+   RowBox[{"Graphics", ",", 
+    RowBox[{"AspectRatio", "\[Rule]", "Automatic"}]}], "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Axes3D", "[", 
+    RowBox[{"u_", ",", "v_"}], "]"}], ":=", 
+   RowBox[{"Graphics3D", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"-", 
+              FractionBox["u", "3"]}], ",", "0", ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"u", ",", "0", ",", "0"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<x\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"u", "+", "v"}], ",", "0", ",", "0"}], "}"}]}], "]"}], ",", 
+      
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", 
+             RowBox[{"-", 
+              FractionBox["u", "3"]}], ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"0", ",", "u", ",", "0"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<y\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{"0", ",", 
+          RowBox[{"u", "+", "v"}], ",", "0"}], "}"}]}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", "0", ",", 
+             RowBox[{"-", 
+              FractionBox["u", "3"]}]}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"0", ",", "0", ",", "u"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<z\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{"0", ",", "0", ",", 
+          RowBox[{"u", "+", "v"}]}], "}"}]}], "]"}]}], "}"}], "]"}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Axes3D", "[", "u_", "]"}], ":=", 
+   RowBox[{"Axes3D", "[", 
+    RowBox[{"u", ",", 
+     FractionBox["u", "8"]}], "]"}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Perpend", "[", 
+    RowBox[{"a_", "?", "VectorQ"}], "]"}], ":=", 
+   RowBox[{
+    RowBox[{"Normalize", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"a", "\[LeftDoubleBracket]", "2", "\[RightDoubleBracket]"}], 
+       ",", 
+       RowBox[{"-", 
+        RowBox[{
+        "a", "\[LeftDoubleBracket]", "1", "\[RightDoubleBracket]"}]}]}], 
+      "}"}], "]"}], "/;", 
+    RowBox[{
+     RowBox[{"Length", "[", "a", "]"}], "\[Equal]", "2"}]}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Perpend", "[", 
+    RowBox[{"a_", "?", "VectorQ"}], "]"}], ":=", 
+   RowBox[{
+    RowBox[{"Normalize", "[", 
+     RowBox[{"If", "[", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"a", "\[LeftDoubleBracket]", "1", "\[RightDoubleBracket]"}], 
+        "\[Equal]", "0"}], ",", 
+       RowBox[{"{", 
+        RowBox[{"1", ",", "0", ",", "0"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"a", "\[LeftDoubleBracket]", "2", "\[RightDoubleBracket]"}], 
+         ",", 
+         RowBox[{"-", 
+          RowBox[{
+          "a", "\[LeftDoubleBracket]", "1", "\[RightDoubleBracket]"}]}], ",", 
+         "0"}], "}"}]}], "]"}], "]"}], "/;", 
+    RowBox[{
+     RowBox[{"Length", "[", "a", "]"}], "\[Equal]", "3"}]}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"Base3D", "=", 
+   RowBox[{"Table", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"Cos", "[", 
+        FractionBox[
+         RowBox[{"2", " ", "k", " ", "\[Pi]"}], "8."], "]"}], ",", 
+       RowBox[{"Sin", "[", 
+        FractionBox[
+         RowBox[{"2", " ", "k", " ", "\[Pi]"}], "8."], "]"}]}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"k", ",", "0", ",", "8"}], "}"}]}], "]"}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"CandMArrow", "[", 
+   RowBox[{
+    RowBox[{"from_", "?", "VectorQ"}], ",", 
+    RowBox[{"to_", "?", "VectorQ"}], ",", "opts___"}], "]"}], ":=", 
+  RowBox[{
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "sq", ",", "sw", ",", "ht", ",", "hs", ",", "hr", ",", "tr", ",", "ap", 
+       ",", "sf", ",", "vc", ",", "zvps", ",", 
+       RowBox[{"diff", "=", 
+        RowBox[{"to", "-", "from"}]}], ",", "tip"}], "}"}], ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+        "sq", ",", "sw", ",", "ht", ",", "hs", ",", "hr", ",", "ts", ",", 
+         "tr", ",", "ap", ",", "sf", ",", "vc", ",", "zvps"}], "}"}], "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+          "ShaftQ", ",", "ShaftWidth", ",", "HeadType", ",", "HeadSize", ",", 
+           "HeadRatio", ",", "TipSize", ",", "TipRatio", ",", "Aperture", ",",
+            "ScaleFactor", ",", "VectorColor", ",", "ZeroVectorPointSize"}], 
+          "}"}], "/.", "\[InvisibleSpace]", 
+         RowBox[{"{", "opts", "}"}]}], "/.", "\[InvisibleSpace]", 
+        RowBox[{"Options", "[", "Vector", "]"}]}]}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"from", "\[Equal]", "to"}], ",", 
+        RowBox[{"Return", "[", 
+         RowBox[{"Graphics", "[", 
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"PointSize", "[", "zvps", "]"}], ",", "vc", ",", 
+            RowBox[{"Point", "[", "from", "]"}]}], "}"}], "]"}], "]"}]}], 
+       "]"}], ";", 
+      RowBox[{"diff", "=", 
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"NumberQ", "[", 
+          RowBox[{"N", "[", "sf", "]"}], "]"}], ",", 
+         RowBox[{"sf", " ", "diff"}], ",", 
+         RowBox[{"sf", "[", "diff", "]"}]}], "]"}]}], ";", 
+      RowBox[{"tip", "=", 
+       RowBox[{"from", "+", "diff"}]}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"NumberQ", "[", "hs", "]"}], ",", 
+        RowBox[{
+         RowBox[{"hr", "=", 
+          FractionBox["hs", 
+           RowBox[{"Norm", "[", "diff", "]"}]]}], ";", 
+         RowBox[{"tr", "=", 
+          RowBox[{"0.75", " ", "hr"}]}]}]}], "]"}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"NumberQ", "[", "ts", "]"}], ",", 
+        RowBox[{"tr", "=", 
+         FractionBox["ts", 
+          RowBox[{"Norm", "[", "diff", "]"}]]}]}], "]"}], ";", 
+      RowBox[{"Graphics", "[", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"If", "[", 
+          RowBox[{"sq", ",", 
+           RowBox[{"{", 
+            RowBox[{"vc", ",", 
+             RowBox[{"Thickness", "[", "sw", "]"}], ",", 
+             RowBox[{"Line", "[", 
+              RowBox[{"{", 
+               RowBox[{"from", ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"tr", " ", "diff"}]}]}], "}"}], "]"}]}], "}"}], ",", 
+           
+           RowBox[{"{", "}"}]}], "]"}], ",", 
+         RowBox[{"With", "[", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"trans", "=", 
+             RowBox[{"ap", " ", "hr", " ", 
+              RowBox[{"Norm", "[", "diff", "]"}], " ", 
+              RowBox[{"Perpend", "[", "diff", "]"}]}]}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"vc", ",", 
+             RowBox[{"Thickness", "[", "sw", "]"}], ",", 
+             RowBox[{"ht", "[", 
+              RowBox[{"{", 
+               RowBox[{"tip", ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"hr", " ", "diff"}], "+", "trans"}], ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"tr", " ", "diff"}]}], ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"hr", " ", "diff"}], "-", "trans"}], ",", "tip"}], 
+               "}"}], "]"}]}], "}"}]}], "]"}]}], "}"}], "]"}]}]}], "]"}], "/;", 
+   RowBox[{
+    RowBox[{"Length", "[", "from", "]"}], "\[Equal]", 
+    RowBox[{"Length", "[", "to", "]"}], "\[Equal]", "2"}]}]}], "\n", 
+ RowBox[{
+  RowBox[{"CandMArrow", "[", 
+   RowBox[{
+    RowBox[{"from_", "?", "VectorQ"}], ",", 
+    RowBox[{"to_", "?", "VectorQ"}], ",", "opts___"}], "]"}], ":=", 
+  RowBox[{
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+      "sq", ",", "eq", ",", "sw", ",", "hs", ",", "hr", ",", "tr", ",", "ap", 
+       ",", "sf", ",", "vc", ",", "zvps", ",", 
+       RowBox[{"diff", "=", 
+        RowBox[{"to", "-", "from"}]}], ",", "tip"}], "}"}], ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+        "sq", ",", "eq", ",", "sw", ",", "hs", ",", "hr", ",", "ap", ",", 
+         "sf", ",", "vc", ",", "zvps"}], "}"}], "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+          "ShaftQ", ",", "EdgesQ", ",", "ShaftWidth", ",", "HeadSize", ",", 
+           "HeadRatio", ",", "Aperture", ",", "ScaleFactor", ",", 
+           "VectorColor", ",", "ZeroVectorPointSize"}], "}"}], "/.", 
+         "\[InvisibleSpace]", 
+         RowBox[{"{", "opts", "}"}]}], "/.", "\[InvisibleSpace]", 
+        RowBox[{"Options", "[", "Vector", "]"}]}]}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"from", "\[Equal]", "to"}], ",", 
+        RowBox[{"Return", "[", 
+         RowBox[{"Graphics3D", "[", 
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"PointSize", "[", "zvps", "]"}], ",", "vc", ",", 
+            RowBox[{"Point", "[", "from", "]"}]}], "}"}], "]"}], "]"}]}], 
+       "]"}], ";", 
+      RowBox[{"diff", "=", 
+       RowBox[{"If", "[", 
+        RowBox[{
+         RowBox[{"NumberQ", "[", 
+          RowBox[{"N", "[", "sf", "]"}], "]"}], ",", 
+         RowBox[{"sf", " ", "diff"}], ",", 
+         RowBox[{"sf", "[", "diff", "]"}]}], "]"}]}], ";", 
+      RowBox[{"tip", "=", 
+       RowBox[{"from", "+", "diff"}]}], ";", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"NumberQ", "[", "hs", "]"}], ",", 
+        RowBox[{"hr", "=", 
+         FractionBox["hs", 
+          RowBox[{"Norm", "[", "diff", "]"}]]}]}], "]"}], ";", 
+      RowBox[{"tr", "=", 
+       FractionBox["hr", "2"]}], ";", 
+      RowBox[{"Graphics3D", "[", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"If", "[", 
+          RowBox[{"sq", ",", 
+           RowBox[{"{", 
+            RowBox[{"vc", ",", 
+             RowBox[{"Thickness", "[", "sw", "]"}], ",", 
+             RowBox[{"Line", "[", 
+              RowBox[{"{", 
+               RowBox[{"from", ",", 
+                RowBox[{"tip", "-", 
+                 RowBox[{"tr", " ", "diff"}]}]}], "}"}], "]"}]}], "}"}], ",", 
+           
+           RowBox[{"{", "}"}]}], "]"}], ",", 
+         RowBox[{"If", "[", 
+          RowBox[{"eq", ",", 
+           RowBox[{"{", "}"}], ",", 
+           RowBox[{"EdgeForm", "[", "]"}]}], "]"}], ",", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"SurfaceColor", "[", "vc", "]"}], ",", 
+           RowBox[{"With", "[", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{"temp", "=", 
+               RowBox[{"Perpend", "[", "diff", "]"}]}], "}"}], ",", 
+             RowBox[{
+              RowBox[{"(", 
+               RowBox[{
+                RowBox[{"Polygon", "[", 
+                 RowBox[{"Append", "[", 
+                  RowBox[{"#1", ",", "tip"}], "]"}], "]"}], "&"}], ")"}], "/@", 
+              RowBox[{"Partition", "[", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"(", 
+                  RowBox[{
+                   RowBox[{"tip", "-", 
+                    RowBox[{"hr", " ", "diff"}], "+", "#1"}], "&"}], ")"}], "/@", 
+                 RowBox[{"(", 
+                  RowBox[{
+                   RowBox[{"(", 
+                    RowBox[{"ap", " ", "hr", " ", 
+                    RowBox[{"Norm", "[", "diff", "]"}], " ", "Base3D"}], 
+                    ")"}], ".", 
+                   RowBox[{"{", 
+                    RowBox[{"temp", ",", 
+                    RowBox[{"Normalize", "[", 
+                    RowBox[{"temp", "\[Cross]", "diff"}], "]"}]}], "}"}]}], 
+                  ")"}]}], ",", "2", ",", "1"}], "]"}]}]}], "]"}]}], "}"}]}], 
+        "}"}], "]"}]}]}], "]"}], "/;", 
+   RowBox[{
+    RowBox[{"Length", "[", "from", "]"}], "\[Equal]", 
+    RowBox[{"Length", "[", "to", "]"}], "\[Equal]", "3"}]}]}], "\n", 
+ RowBox[{
+  RowBox[{"Vector", "[", 
+   RowBox[{"a_", ",", 
+    RowBox[{"Tail", "\[Rule]", "b_"}], ",", "opts___"}], "]"}], ":=", 
+  RowBox[{"CandMArrow", "[", 
+   RowBox[{"b", ",", 
+    RowBox[{"a", "+", "b"}], ",", "opts"}], "]"}]}], "\n", 
+ RowBox[{
+  RowBox[{"Vector", "[", 
+   RowBox[{"a_", ",", "opts___"}], "]"}], ":=", 
+  RowBox[{"CandMArrow", "[", 
+   RowBox[{
+    RowBox[{"Table", "[", 
+     RowBox[{"0", ",", 
+      RowBox[{"{", 
+       RowBox[{"Length", "[", "a", "]"}], "}"}]}], "]"}], ",", "a", ",", 
+    "opts"}], "]"}]}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"VectorHead", "[", 
+    RowBox[{"a_", ",", "b_", ",", "opts___"}], "]"}], ":=", 
+   RowBox[{"CandMArrow", "[", 
+    RowBox[{
+     RowBox[{"a", "-", "b"}], ",", "a", ",", 
+     RowBox[{"ShaftQ", "\[Rule]", "False"}], ",", "opts"}], "]"}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{"End", "[", "]"}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"EndPackage", "[", "]"}], ";"}]}], "Input",
+ InitializationCell->True,
+ CellChangeTimes->{3.502893231567974*^9}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Graphics`Colors`GosiaGreen", "=", 
+   RowBox[{"RGBColor", "[", 
+    RowBox[{"0", ",", " ", "0.392187", ",", " ", "0"}], "]"}]}], 
+  ";"}]], "Input",
+ InitializationCell->True]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["ThreeAxes[u,v]", "Subsubsection"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"ThreeAxes", "[", 
+    RowBox[{"u_", ",", "v_"}], "]"}], ":=", 
+   RowBox[{"Graphics3D", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"-", "u"}], ",", "0", ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"u", ",", "0", ",", "0"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<x\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"u", "+", "v"}], ",", "0", ",", "0"}], "}"}]}], "]"}], ",", 
+      
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", 
+             RowBox[{"-", "u"}], ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"0", ",", "u", ",", "0"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<y\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{"0", ",", 
+          RowBox[{"u", "+", "v"}], ",", "0"}], "}"}]}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"Blue", ",", 
+        RowBox[{"Line", "[", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"0", ",", "0", ",", "0"}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"0", ",", "0", ",", "u"}], "}"}]}], "}"}], "]"}]}], "}"}],
+       ",", 
+      RowBox[{"Text", "[", 
+       RowBox[{"\"\<z\>\"", ",", 
+        RowBox[{"{", 
+         RowBox[{"0", ",", "0", ",", 
+          RowBox[{"u", "+", "v"}]}], "}"}]}], "]"}]}], "}"}], "]"}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"ThreeAxes", "[", "u_", "]"}], ":=", 
+   RowBox[{"ThreeAxes", "[", 
+    RowBox[{"u", ",", 
+     FractionBox["u", "8"]}], "]"}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"ThreeAxes", "::", "\"\<usage\>\""}], "=", 
+   "\"\<ThreeAxes[a,b] makes a standard cartesian axis graphics object with \
+x, y, and z running from -a to a, and with axis labels b units beyond the \
+tips of the axes.  ThreeAxes[a] is ThreeAxes[a,a/8].\>\""}], ";"}]}], "Input",\
+
+ InitializationCell->True,
+ AspectRatioFixed->True]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+G.1) Fourier Sine approximations on [0, \[Pi]], 
+        Fourier Cosine approximations on [0, \[Pi]], 
+        Fourier Sine\[Hyphen]Cosine  approximations on [-\[Pi], \[Pi]], 
+        Fourier Sine\[Hyphen]Cosine  approximations on [0, 2\[Pi]]\
+\>", "Subsection",
+ CellTags->"MGM.11.G1"],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+G.1.a) Fourier Sine wave approximations on [0,\[Pi]]\
+\>", "Subsubsection"],
+
+Cell["\<\
+Here is a function f[t] on [0,\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", "0"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", "\[Pi]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], "=", 
+    RowBox[{"2.0", " ", 
+     RowBox[{"Abs", "[", 
+      RowBox[{
+       FractionBox["t", 
+        RowBox[{"0.5", " ", "\[Pi]"}]], "-", 
+       RowBox[{"Round", "[", 
+        FractionBox["t", 
+         RowBox[{"0.5", " ", "\[Pi]"}]], "]"}]}], "]"}]}]}], ";"}], " ", 
+  "\n"}], "\n", 
+ RowBox[{"fplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["\<\
+Here's a quick attempt to get a sine wave approximation of f[t] on [0,\[Pi]]:\
+\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "3"}], ";"}], "  "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "k", ",", "Subscript", ",", "t"}], "]"}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k_"], "[", "t_", "]"}], " ", ":=", " ", 
+    RowBox[{"Sin", "[", 
+     RowBox[{"k", " ", "t"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"fouriercoeff", ",", "Sinapprox", ",", "k"}], "]"}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k_", "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"fouriercoeff", "[", "k", "]"}], " ", "=", " ", 
+     FractionBox[
+      RowBox[{"NIntegrate", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"f", "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], ",", 
+        RowBox[{"{", 
+         RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+        RowBox[{"AccuracyGoal", "->", "2"}]}], "]"}], 
+      RowBox[{
+       SubsuperscriptBox["\[Integral]", "a", "b"], 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], 
+        RowBox[{"\[DifferentialD]", "t"}]}]}]]}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"Sinapprox", "[", "t_", "]"}], "  ", "=", " ", 
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "khigh"], 
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k", "]"}], " ", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}]}]}]}], "\n"}], "Input"],
+
+Cell["Don't worry about the error messages.", "Special2",
+ TextAlignment->Center,
+ TextJustification->0],
+
+Cell["Check out the quality of the fit:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"fitplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"Sinapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell[TextData[{
+ "This fit needs your help.\n\[FilledVerySmallSquare] In the space below, \
+kick up khigh to come up with a much better Sine wave approximation of f[t] \
+on [0,\[Pi]]:\nShow off your approximation with a decisive plot.\n",
+ StyleBox["Put answer here.",
+  FontSize->12]
+}], "Text"],
+
+Cell[TextData[{
+ "\[FilledVerySmallSquare] How do your results mesh with the fact that the \
+sine system\n                {Sin[t], Sin[2 t], Sin[3 t], Sin[4 t],. . \
+.,Sin[k t],. . .}\n is a complete orthogonal family on [0,\[Pi]]?\n",
+ StyleBox["Put answer here.",
+  FontSize->12]
+}], "Text"],
+
+Cell[TextData[{
+ "\[FilledVerySmallSquare] When you look in a printed reference book, you \
+find that the Fourier Sine Series for a function  f[t] on [0, \[Pi]] with\n   \
+       ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "0", "\[Pi]"], 
+   RowBox[{
+    SuperscriptBox[
+     RowBox[{"f", "[", "t", "]"}], "2"], 
+    RowBox[{"\[DifferentialD]", "t"}]}]}]]],
+ " < infinity\nis\n        ",
+ Cell[BoxData[
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "\[Infinity]"], 
+   RowBox[{
+    SubscriptBox["b", "k"], " ", 
+    RowBox[{"Sin", "[", 
+     RowBox[{"k", " ", "t"}], "]"}]}]}]]],
+ " \nwhere \n            ",
+ Cell[BoxData[
+  SubscriptBox["b", "k"]]],
+ StyleBox[" = ",
+  FontWeight->"Bold"],
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["2", "\[Pi]"], " ", 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", "0", "\[Pi]"], " ", 
+    RowBox[{
+     RowBox[{"f", "[", "t", "]"}], " ", 
+     RowBox[{"Sin", "[", 
+      RowBox[{"k", " ", "t"}], "]"}], 
+     RowBox[{"\[DifferentialD]", "t"}]}]}]}]]],
+ ".\nWhat do you think this means? \nWhere did those formulas for the ",
+ Cell[BoxData[
+  SubscriptBox["b", "k"]]],
+ "'s come from?\n",
+ StyleBox["Put answer here",
+  FontSize->12]
+}], "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+G.1.b) Fourier Cosine wave approximations on [0,\[Pi]]\
+\>", "Subsubsection"],
+
+Cell["\<\
+Here is a function f[t] on [0,\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", "0"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", "\[Pi]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], "=", 
+    RowBox[{
+     RowBox[{
+      SuperscriptBox["\[ExponentialE]", 
+       RowBox[{"-", "t"}]], " ", 
+      RowBox[{"Sign", "[", 
+       RowBox[{"Sin", "[", 
+        RowBox[{"3", " ", "t"}], "]"}], "]"}]}], " ", "+", " ", "0.5"}]}], 
+   ";"}], " ", "\n"}], "\n", 
+ RowBox[{"fplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["\<\
+Here's a quick attempt to get a Cosine wave approximation of f[t] on \
+[0,\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "12"}], ";"}], "  "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "Subscript", ",", "k", ",", "t"}], "]"}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k_"], "[", "t_", "]"}], " ", ":=", " ", 
+    RowBox[{"Cos", "[", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{"k", "-", "1"}], ")"}], " ", "t"}], "]"}]}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"fouriercoeff", ",", "Cosapprox", ",", "k"}], "]"}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k_", "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"fouriercoeff", "[", "k", "]"}], " ", "=", 
+     FractionBox[
+      RowBox[{"NIntegrate", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"f", "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], ",", 
+        RowBox[{"{", 
+         RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+        RowBox[{"AccuracyGoal", "->", "2"}]}], "]"}], 
+      RowBox[{
+       SubsuperscriptBox["\[Integral]", "a", "b"], 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], 
+        RowBox[{"\[DifferentialD]", "t"}]}]}]]}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"Cosapprox", "[", "t_", "]"}], "  ", "=", " ", 
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "khigh"], 
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k", "]"}], " ", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}]}]}]}], "\n"}], "Input"],
+
+Cell["Check out the quality of the fit:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"fitplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"Cosapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell[TextData[{
+ "Not bad, but not all that good.\n\[FilledVerySmallSquare] In the space \
+below, kick up khigh to come up with a much better Cosine wave approximation \
+of f[t] on [0,\[Pi]]:\nShow off your approximation with a decisive plot.\n",
+ StyleBox["Put answer here.",
+  FontSize->12]
+}], "Text"],
+
+Cell[TextData[{
+ "\[FilledVerySmallSquare] How do your results mesh with the fact that the \
+Cosine system\n                {1,Cos[t], Cos[2 t], Cos[3 t], Cos[4 t],. . \
+.,Cos[k t],. . .}\n is a complete orthogonal family on [0,\[Pi]]?\n ",
+ StyleBox["Put answer here",
+  FontSize->12],
+ "\n "
+}], "Text"],
+
+Cell[TextData[{
+ "\[FilledVerySmallSquare] ",
+ "When you look in a printed reference book, you find that the Fourier Cosine \
+Series for a function f[t] on [0, \[Pi]] with\n          ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "0", "\[Pi]"], 
+   RowBox[{
+    SuperscriptBox[
+     RowBox[{"f", "[", "t", "]"}], "2"], 
+    RowBox[{"\[DifferentialD]", "t"}]}]}]]],
+ " < infinity\nis\n          ",
+ Cell[BoxData[
+  SubscriptBox["a", "0"]]],
+ " +   ",
+ Cell[BoxData[
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "\[Infinity]"], 
+   RowBox[{
+    SubscriptBox["a", "k"], " ", 
+    RowBox[{"Cos", "[", 
+     RowBox[{"k", " ", "t"}], "]"}]}]}]]],
+ " \nwhere  ",
+ Cell[BoxData[
+  RowBox[{" ", 
+   SubscriptBox["a", "0"]}]]],
+ " = ",
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["1", "\[Pi]"], " ", 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"0", " "}], "\[Pi]"], 
+    RowBox[{
+     RowBox[{"f", "[", "t", "]"}], " ", 
+     RowBox[{"\[DifferentialD]", "t"}]}]}]}]]],
+ "\n            ",
+ Cell[BoxData[
+  SubscriptBox["a", "k"]]],
+ StyleBox[" = ",
+  FontWeight->"Bold"],
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["2", "\[Pi]"], " ", 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", "0", "\[Pi]"], " ", 
+    RowBox[{
+     RowBox[{"f", "[", "t", "]"}], " ", 
+     RowBox[{"Cos", "[", 
+      RowBox[{"k", " ", "t"}], "]"}], 
+     RowBox[{"\[DifferentialD]", "t"}]}]}], " "}]]],
+ "for ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"k", " ", "=", " ", "1"}], ",", "2", ",", "3", ",", 
+   RowBox[{"...", "."}]}]]],
+ ".\nWhat do you think this means? \nWhere did those formulas for the  ",
+ Cell[BoxData[
+  SubscriptBox["a", "k"]]],
+ "'s come from?\n ",
+ StyleBox["Put answer here",
+  FontSize->12]
+}], "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+G.1.c)  Fourier Sine-Cosine wave approximations on [-\[Pi],\[Pi]]\
+\>", "Subsubsection"],
+
+Cell["\<\
+Here is a function f[t] on [-\[Pi],\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", 
+    RowBox[{"-", "\[Pi]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", "\[Pi]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], "=", 
+    RowBox[{
+     RowBox[{"Sin", "[", "t", "]"}], " ", 
+     RowBox[{"Cosh", "[", 
+      RowBox[{"t", "+", "0.5"}], "]"}]}]}], ";"}], " ", "\n"}], "\n", 
+ RowBox[{"fplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"PlotRange", "\[Rule]", "All"}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["\<\
+Here's a quick attempt to get a Sine-Cosine wave approximation of f[t] on [-\
+\[Pi],\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "5"}], ";"}], "  "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "k", ",", "t"}], "]"}], ";"}], " ", "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k_"], "[", "t_", "]"}], " ", ":=", 
+    RowBox[{"If", "[", 
+     RowBox[{
+      RowBox[{"EvenQ", "[", "k", "]"}], ",", 
+      RowBox[{"Sin", "[", 
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{
+          RowBox[{"(", "k", " ", ")"}], "/", "2"}], ")"}], " ", "t"}], "]"}], 
+      ",", " ", 
+      RowBox[{"Cos", "[", 
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{"k", " ", "-", "1"}], ")"}], "/", "2"}], ")"}], " ", "t"}],
+        "]"}]}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"fouriercoeff", ",", "SinCosapprox", ",", "k"}], "]"}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k_", "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"fouriercoeff", "[", "k", "]"}], " ", "=", 
+     FractionBox[
+      RowBox[{"NIntegrate", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"f", "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], ",", 
+        RowBox[{"{", 
+         RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+        RowBox[{"AccuracyGoal", "->", "2"}]}], "]"}], 
+      RowBox[{
+       SubsuperscriptBox["\[Integral]", "a", "b"], 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], 
+        RowBox[{"\[DifferentialD]", "t"}]}]}]]}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"SinCosapprox", "[", "t_", "]"}], "  ", "=", " ", 
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "khigh"], 
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k", "]"}], " ", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}]}]}]}], "\n"}], "Input"],
+
+Cell["Check out the quality of the fit:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"fitplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"SinCosapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], ",", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell[TextData[{
+ "Not all that good.\n\[FilledVerySmallSquare] In the space below, kick up \
+khigh to come up with a better Sine wave and Cosine wave approximation of \
+f[t] on [-\[Pi],\[Pi]]:\nShow off your approximation with a decisive plot.\n\
+",
+ " ",
+ StyleBox["Put answer here",
+  FontSize->12]
+}], "Text"],
+
+Cell[TextData[{
+ "\[FilledVerySmallSquare] How do your results mesh with the fact that the \
+sine system\n                {1,Sin[t],Cos[t], Sin[2 t],Cos[2 t], Sin[3 \
+t],Cos[3 t], Sin[4 t],Cos[4 t],. . .,Sin[k t], Cos[k t],. . .}\n is a \
+complete orthogonal family on [-\[Pi],\[Pi]]?\n ",
+ " ",
+ StyleBox["Put answer here",
+  FontSize->12]
+}], "Text"],
+
+Cell[TextData[{
+ "\[FilledVerySmallSquare] When you look in a printed reference book, you \
+find that the Fourier Sine-Cosine Series for a function  f[t] on [-\[Pi], \
+\[Pi]] with\n          ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{"-", "\[Pi]"}], "\[Pi]"], 
+   RowBox[{
+    SuperscriptBox[
+     RowBox[{"f", "[", "t", "]"}], "2"], 
+    RowBox[{"\[DifferentialD]", "t"}]}]}]]],
+ " < infinity\nis\n          ",
+ Cell[BoxData[
+  SubscriptBox["a", "0"]]],
+ " +   ",
+ Cell[BoxData[
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "infinity"], 
+   RowBox[{
+    SubscriptBox["a", "k"], " ", 
+    RowBox[{"Cos", "[", 
+     RowBox[{"k", " ", "t"}], "]"}]}]}]]],
+ " + ",
+ Cell[BoxData[
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "infinity"], 
+   RowBox[{
+    SubscriptBox["b", "k"], " ", 
+    RowBox[{"Sin", "[", 
+     RowBox[{"k", " ", "t"}], "]"}]}]}]]],
+ "\nwhere  ",
+ Cell[BoxData[
+  RowBox[{" ", 
+   SubscriptBox["a", "0"]}]]],
+ " = ",
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["1", 
+    RowBox[{"2", "\[Pi]"}]], " ", 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "\[Pi]"}], 
+     RowBox[{"\[Pi]", " "}]], " ", 
+    RowBox[{
+     RowBox[{"f", "[", "t", "]"}], " ", 
+     RowBox[{"\[DifferentialD]", "t"}]}]}]}]]],
+ "\n            ",
+ Cell[BoxData[
+  SubscriptBox["a", "k"]]],
+ StyleBox[" = ",
+  FontWeight->"Bold"],
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["1", "\[Pi]"], " ", 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "\[Pi]"}], 
+     RowBox[{"\[Pi]", " "}]], "  ", 
+    RowBox[{
+     RowBox[{"f", "[", "t", "]"}], " ", 
+     RowBox[{"Cos", "[", 
+      RowBox[{"k", " ", "t"}], "]"}], 
+     RowBox[{"\[DifferentialD]", "t"}]}], " "}]}]]],
+ "\n             ",
+ Cell[BoxData[
+  SubscriptBox["b", "k"]]],
+ StyleBox[" = ",
+  FontWeight->"Bold"],
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["1", "\[Pi]"], " ", 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "\[Pi]"}], 
+     RowBox[{"\[Pi]", " "}]], " ", 
+    RowBox[{
+     RowBox[{"f", "[", "t", "]"}], " ", 
+     RowBox[{"Sin", "[", 
+      RowBox[{"k", " ", "t"}], "]"}], 
+     RowBox[{"\[DifferentialD]", "t"}]}]}]}]]],
+ "  both for ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"k", " ", "=", " ", "1"}], ",", "2", ",", "3", ",", 
+   RowBox[{"...", "."}]}]]],
+ ".\nWhat do you think this means? \nWhere did those formulas for the  ",
+ Cell[BoxData[
+  SubscriptBox["a", "k"]]],
+ "'s  and the ",
+ Cell[BoxData[
+  SubscriptBox["b", "k"]]],
+ "'s come from?\n ",
+ StyleBox["Put answer here",
+  FontSize->12]
+}], "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.1.d) Endpoints and extended intervals ", "Subsubsection"],
+
+Cell["\<\
+Here is a function f[t] on [0,\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", "0"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", "\[Pi]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], "=", 
+    RowBox[{
+     RowBox[{"t", " ", 
+      RowBox[{"Cos", "[", 
+       RowBox[{"2", " ", "t"}], "]"}], " ", 
+      RowBox[{"Sin", "[", "t", "]"}]}], "+", "0.3"}]}], ";"}], " ", 
+  "\n"}], "\n", 
+ RowBox[{"fplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["\<\
+Here's a quick attempt to get a sine wave approximation of f[t] on [0,\[Pi]]:\
+\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "16"}], ";"}], "  "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "k", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k_"], "[", "t_", "]"}], " ", ":=", " ", 
+    RowBox[{"Sin", "[", 
+     RowBox[{"k", " ", "t"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"fouriercoeff", ",", "Sinapprox", ",", "k"}], "]"}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k_", "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"fouriercoeff", "[", "k", "]"}], " ", "=", 
+     FractionBox[
+      RowBox[{"NIntegrate", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"f", "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], ",", 
+        RowBox[{"{", 
+         RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+        RowBox[{"AccuracyGoal", "->", "2"}]}], "]"}], 
+      RowBox[{
+       SubsuperscriptBox["\[Integral]", "a", "b"], 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], 
+        RowBox[{"\[DifferentialD]", "t"}]}]}]]}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"Sinapprox", "[", "t_", "]"}], "  ", "=", " ", 
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "khigh"], 
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k", "]"}], " ", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}]}]}]}], "\n"}], "Input"],
+
+Cell["Check out the quality of the fit:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"fitplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"Sinapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], ",", 
+       
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.009", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell[TextData[{
+ "Looking good - except at the endpoints at 0 and \[Pi].\n\
+\[FilledVerySmallSquare]Give your opinion on why the approximation was always \
+destined to break down at the endpoints at 0 and \[Pi].\nFor what types of \
+functions f[t] would you be guaranteed that a good Sine fit on [0  \[Pi]] is \
+possible -even at the at the endpoints.\n",
+ StyleBox["Put answer here.",
+  FontSize->12]
+}], "Text"],
+
+Cell["\<\
+\[FilledVerySmallSquare] Keep everything the same and check out what happens \
+when you extend the plotting interval from 
+       [0,\[Pi]] to [-\[Pi], \[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[
+ RowBox[{"extendedplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"Sinapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", 
+      RowBox[{"-", "Pi"}], ",", " ", "Pi"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], ",", 
+       
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell[TextData[{
+ "Describe what you see and explain why you see it.\nFor what types of \
+functions f[t] will you be guaranteed that the good  Sine fit on [0  \[Pi]]  \
+will hold up on the extended interval  [-\[Pi], \[Pi]]?\n",
+ StyleBox["Put answer here.",
+  FontSize->12]
+}], "Text"],
+
+Cell["\<\
+\[FilledVerySmallSquare] Here's a function f[t] on [0,\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", "0"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", "\[Pi]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], "=", 
+    RowBox[{
+     SuperscriptBox["\[ExponentialE]", 
+      RowBox[{"-", 
+       SuperscriptBox["t", "2"]}]], "+", 
+     RowBox[{"0.2", " ", 
+      RowBox[{"Sin", "[", 
+       RowBox[{"3", " ", "t"}], "]"}]}]}]}], ";"}], " ", "\n"}], "\n", 
+ RowBox[{"fplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["\<\
+Here's a quick attempt to get a Cosine wave approximation of f[t] on \
+[0,\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "8"}], ";"}], "  "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "k", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k_"], "[", "t_", "]"}], " ", ":=", " ", 
+    RowBox[{"Cos", "[", 
+     RowBox[{
+      RowBox[{"(", 
+       RowBox[{"k", " ", "-", " ", "1"}], ")"}], " ", "t"}], "]"}]}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"fouriercoeff", ",", "Cosapprox", ",", "k"}], "]"}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k_", "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"fouriercoeff", "[", "k", "]"}], " ", "=", " ", 
+     FractionBox[
+      RowBox[{"NIntegrate", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"f", "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], ",", 
+        RowBox[{"{", 
+         RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+        RowBox[{"AccuracyGoal", "->", "2"}]}], "]"}], 
+      RowBox[{
+       SubsuperscriptBox["\[Integral]", "a", "b"], 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], 
+        RowBox[{"\[DifferentialD]", "t"}]}]}]]}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"Cosapprox", "[", "t_", "]"}], "  ", "=", " ", 
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "khigh"], 
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k", "]"}], " ", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}]}]}]}], "\n"}], "Input"],
+
+Cell["Don't worry about the error messages.", "Special2",
+ TextAlignment->Center,
+ TextJustification->0],
+
+Cell["Check out the quality of the fit:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"fitplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"Cosapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "0", ",", "\[Pi]"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], ",", 
+       
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell["\<\
+Looking good.
+Now see what happens when you extend the plotting interval from [0,\[Pi]] to \
+[-\[Pi],\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[
+ RowBox[{"extendedplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"Cosapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", 
+      RowBox[{"-", "Pi"}], ",", " ", "Pi"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], ",", 
+       
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell[TextData[{
+ "Describe what you see and explain why you see it.\nFor what types of \
+functions f[t] would you be guaranteed that the good fit will hold up on the \
+extended interval [-\[Pi],\[Pi]]?\n",
+ StyleBox["Put answer here.",
+  FontSize->12],
+ "\n"
+}], "Text"],
+
+Cell["\<\
+\[FilledVerySmallSquare]  Here's a function f[t] on [0,2 \[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", "0"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", 
+    RowBox[{"2", " ", "\[Pi]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], "=", 
+    RowBox[{
+     RowBox[{"0.8", " ", "t"}], "+", 
+     RowBox[{"0.4", " ", 
+      RowBox[{"Sign", "[", 
+       RowBox[{"Cos", "[", "t", "]"}], "]"}]}]}]}], ";"}], " ", 
+  "\n"}], "\n", 
+ RowBox[{"fplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell["\<\
+Here's a quick attempt to get a Sin- Cosine wave approximation of f[t] on \
+[0,2\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "30"}], ";"}], "  "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "k", ",", "t"}], "]"}], ";"}], " ", "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k_"], "[", "t_", "]"}], " ", ":=", 
+    RowBox[{"If", "[", 
+     RowBox[{
+      RowBox[{"EvenQ", "[", "k", "]"}], ",", 
+      RowBox[{"Sin", "[", 
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{
+          RowBox[{"(", "k", " ", ")"}], "/", "2"}], ")"}], " ", "t"}], "]"}], 
+      ",", " ", 
+      RowBox[{"Cos", "[", 
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{"k", " ", "-", "1"}], ")"}], "/", "2"}], ")"}], " ", "t"}],
+        "]"}]}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"fouriercoeff", ",", "SinCosapprox", ",", "k"}], "]"}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k_", "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"fouriercoeff", "[", "k", "]"}], " ", "=", " ", 
+     FractionBox[
+      RowBox[{"NIntegrate", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"f", "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], ",", 
+        RowBox[{"{", 
+         RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+        RowBox[{"AccuracyGoal", "->", "2"}]}], "]"}], 
+      RowBox[{
+       SubsuperscriptBox["\[Integral]", "a", "b"], 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}], " ", 
+         RowBox[{
+          SubscriptBox["s", "k"], "[", "t", "]"}]}], 
+        RowBox[{"\[DifferentialD]", "t"}]}]}]]}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"SinCosapprox", "[", "t_", "]"}], "  ", "=", " ", 
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "khigh"], 
+   RowBox[{
+    RowBox[{"fouriercoeff", "[", "k", "]"}], " ", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}]}]}]}], "\n"}], "Input"],
+
+Cell["Check out the quality of the fit:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"fitplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"SinCosapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], ",", 
+       
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell["\<\
+Not all that bad.
+Now see what happens when you extend the plotting interval from [0,2\[Pi]] to \
+[0,4\[Pi]]:\
+\>", "Text"],
+
+Cell[BoxData[
+ RowBox[{"extendedplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"f", "[", "t", "]"}], ",", 
+      RowBox[{"SinCosapprox", "[", "t", "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "0", ",", 
+      RowBox[{"4", " ", "\[Pi]"}]}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], ",", 
+       
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Orange"}], "}"}]}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}], 
+  " "}]], "Input"],
+
+Cell[TextData[{
+ "Describe what you see and explain why you see it.\nFor what types of \
+functions f[t] will you be guaranteed that the good fit will hold up on the \
+extended interval [0,4\[Pi]]?\nFor what types of functions f[t] do you expect \
+to be able to get good approximations at 0 and 2\[Pi]?\n",
+ StyleBox["Put answer here. ",
+  FontSize->12],
+ "\n"
+}], "Text"]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.2) Scaling for other intervals", "Subsection",
+ CellTags->"MGM.11.G2"],
+
+Cell["\<\
+G.2.a.i) Polynomial approximation on intervals [-L,L] with L \[NotEqual] 1\
+\>", "Subsubsection"],
+
+Cell["Here is a function f[t] plotted on [-L,L] with L = 6.2", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"L", "=", " ", "6.2"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"f", "[", "t_", "]"}], " ", "=", " ", 
+  RowBox[{"Erf", "[", 
+   RowBox[{"0.5", "t"}], "]"}]}], "\n", 
+ RowBox[{"fplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    StyleBox[
+     RowBox[{"{", 
+      RowBox[{"t", ",", 
+       RowBox[{"-", "L"}], ",", " ", "L"}], "}"}],
+     FontColor->RGBColor[1, 0, 0]], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input"],
+
+Cell["\<\
+Come up with a pretty good root-mean square approximation of f[t] on [-L,L] \
+by polynomials.\
+\>", "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+G.3) What are the Legendre polynomials?
+        What are the Chebyshev polynomials?\
+\>", "Subsection",
+ CellTags->"MGM.11.G3"],
+
+Cell[CellGroupData[{
+
+Cell["G.3.a) What are the Legendre polynomials ?", "Subsubsection"],
+
+Cell["\<\
+You might have wondered what the Legendre polynomials are:
+If so then look no further.
+Start with these power functions:\
+\>", "Text"],
+
+Cell[BoxData[
+ RowBox[{"\n", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"Clear", "[", 
+     RowBox[{"s", ",", "f", ",", "Subscript", ",", "k", ",", "t"}], "]"}], 
+    ";"}], " ", "\n", 
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      SubscriptBox["f", "k_"], "[", "t_", "]"}], " ", ":=", " ", 
+     RowBox[{"t", "^", 
+      RowBox[{"(", 
+       RowBox[{"k", "-", " ", "1"}], ")"}]}]}], ";"}], " ", "\n", 
+   RowBox[{"powerfunctions", " ", "=", 
+    RowBox[{"Table", "[", 
+     RowBox[{
+      RowBox[{
+       SubscriptBox["f", "k"], "[", "t", "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"k", ",", "1", ",", "8"}], "}"}]}], "]"}]}]}]}]], "Input"],
+
+Cell["Gram-Schmidt this set on [a,b] with a = -1 and b = 1 to get", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", " ", 
+    RowBox[{"-", "1"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", "1"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"orthospanners", " ", "=", " ", 
+    RowBox[{"Orthogonalize", "[", 
+     RowBox[{"powerfunctions", " ", ",", " ", 
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{
+         SubsuperscriptBox["\[Integral]", "a", "b"], 
+         RowBox[{
+          RowBox[{"#1", " ", "#2"}], 
+          RowBox[{"\[DifferentialD]", "t"}]}]}], "&"}], ")"}]}], "]"}]}], 
+   ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "j"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{"\t", 
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "j_"], "[", "t_", "]"}], " ", ":=", " ", 
+    RowBox[{"Simplify", "[", 
+     RowBox[{"orthospanners", "[", 
+      RowBox[{"[", "j", "]"}], "]"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{"schmidts", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "j"], "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"j", ",", "1", ",", 
+      RowBox[{"Length", "[", "orthospanners", "]"}]}], "}"}]}], 
+   "]"}]}]}], "Input"],
+
+Cell["Compare with the first eight Legendre polynomialsL:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"legendres", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"LegendreP", "[", 
+     RowBox[{
+      RowBox[{"j", "-", "1"}], ",", " ", "t"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"j", ",", "1", ",", 
+      RowBox[{"Length", "[", "orthospanners", "]"}]}], "}"}]}], 
+   "]"}]}]], "Input"],
+
+Cell[TextData[{
+ "Do you see the relationship?\nHow far does this relationship go to explain \
+why\n         ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "1"}], "1"], 
+    RowBox[{
+     RowBox[{
+      RowBox[{"LegendreP", "[", 
+       RowBox[{"p", ",", "t"}], "]"}], " ", 
+      RowBox[{"LegendreP", "[", 
+       RowBox[{"q", ",", "t"}], "]"}]}], 
+     RowBox[{"\[DifferentialD]", "t"}]}]}], "=", "0"}]]],
+ " for p \[NotEqual] q?"
+}], "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.3.b) What are the Chebyshev polynomials ?", "Subsubsection"],
+
+Cell["\<\
+You might have wondered what the Chebyshev polynomials are:
+If so then look no further.
+Start with these power functions:\
+\>", "Text"],
+
+Cell[BoxData[
+ RowBox[{"\n", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"Clear", "[", 
+     RowBox[{"s", ",", "f", ",", "Subscript", ",", "k", ",", "t"}], "]"}], 
+    ";"}], " ", "\n", 
+   RowBox[{
+    RowBox[{
+     RowBox[{
+      SubscriptBox["f", "k_"], "[", "t_", "]"}], " ", ":=", 
+     SuperscriptBox["t", 
+      RowBox[{"k", "-", "1"}]]}], ";"}], " ", "\n", 
+   RowBox[{"powerfunctions", " ", "=", 
+    RowBox[{"Table", "[", 
+     RowBox[{
+      RowBox[{
+       SubscriptBox["f", "k"], "[", "t", "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"k", ",", "1", ",", "6"}], "}"}]}], "]"}]}]}]}]], "Input"],
+
+Cell[TextData[{
+ "Gram-Schmidt this set on [a,b] with a = -1 and b = 1 with respect to the \
+weight function\n           ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"weight", "[", "t", "]"}], "=", 
+   StyleBox[
+    FractionBox["1", 
+     SqrtBox[
+      RowBox[{"1", "-", 
+       SuperscriptBox["t", "2"]}]]],
+    FontSize->24]}]]],
+ " \nto get:"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", "weight", "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"weight", "[", "t_", "]"}], "=", 
+    FractionBox["1", 
+     SqrtBox[
+      RowBox[{"1", "-", 
+       SuperscriptBox["t", "2"]}]]]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", " ", 
+    RowBox[{"-", "1"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", "1"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"orthospanners", " ", "=", " ", 
+    RowBox[{"Orthogonalize", "[", 
+     RowBox[{"powerfunctions", " ", ",", " ", 
+      RowBox[{"(", 
+       RowBox[{
+        RowBox[{
+         SubsuperscriptBox["\[Integral]", "a", "b"], 
+         RowBox[{"#1", " ", "#2", " ", 
+          StyleBox[
+           RowBox[{"weight", "[", "t", "]"}],
+           FontColor->RGBColor[1, 0, 0]], 
+          RowBox[{"\[DifferentialD]", "t"}]}]}], "&"}], ")"}]}], "]"}]}], 
+   ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "j"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{"\t", 
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "j_"], "[", "t_", "]"}], " ", ":=", " ", 
+    RowBox[{"Simplify", "[", 
+     RowBox[{"orthospanners", "[", 
+      RowBox[{"[", "j", "]"}], "]"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{"schmidts", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "j"], "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"j", ",", "1", ",", 
+      RowBox[{"Length", "[", "orthospanners", "]"}]}], "}"}]}], 
+   "]"}]}]}], "Input"],
+
+Cell["Compare:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"chebys", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{
+      RowBox[{"j", "-", "1"}], ",", " ", "t"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"j", ",", "1", ",", 
+      RowBox[{"Length", "[", "orthospanners", "]"}]}], "}"}]}], 
+   "]"}]}]], "Input"],
+
+Cell[TextData[{
+ "Do you see the relationship?\nHow far does this relationship go to explain \
+why\n         ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "1"}], "1"], 
+    RowBox[{
+     RowBox[{"ChebyshevT", "[", 
+      RowBox[{"p", ",", "t"}], "]"}], " ", 
+     RowBox[{"ChebyshevT", "[", 
+      RowBox[{"q", ",", "t"}], "]"}], " ", 
+     FractionBox["1", 
+      SqrtBox[
+       RowBox[{"1", "-", 
+        SuperscriptBox["t", "2"]}]]], 
+     RowBox[{"\[DifferentialD]", "t"}]}]}], "=", "0"}]]],
+ " for p \[NotEqual] q?"
+}], "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+G.3.c) FYI only - No work for you to do but maybe some juicy info\
+\>", "Subsubsection"],
+
+Cell["Start with these Chebyshev polynomials:", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"j", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{"chebys", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{
+      RowBox[{"j", "-", "1"}], ",", " ", "t"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"j", ",", "1", ",", "8"}], "}"}]}], "]"}]}]}], "Input"],
+
+Cell["Change t to Cos[s]:", "Text"],
+
+Cell[BoxData[
+ RowBox[{" ", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"Clear", "[", "s", "]"}], ";"}], " ", "\n", 
+   RowBox[{"Table", "[", 
+    RowBox[{
+     RowBox[{"ChebyshevT", "[", 
+      RowBox[{
+       RowBox[{"j", "-", "1"}], ",", " ", 
+       RowBox[{"Cos", "[", "s", "]"}]}], "]"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"j", ",", "1", ",", "8"}], "}"}]}], "]"}]}]}]], "Input"],
+
+Cell["Apply Trig identities:", "Text"],
+
+Cell[BoxData[
+ RowBox[{"Table", "[", 
+  RowBox[{
+   RowBox[{"TrigReduce", "[", 
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{
+      RowBox[{"j", "-", "1"}], ",", " ", 
+      RowBox[{"Cos", "[", "s", "]"}]}], "]"}], "]"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"j", ",", "1", ",", "8"}], "}"}]}], "]"}]], "Input"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ " Yes!\n          ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"ChebyshevT", "[", 
+    RowBox[{"k", ",", 
+     RowBox[{"Cos", "[", "s", "]"}]}], "]"}], "=", 
+   RowBox[{"Cos", "[", 
+    RowBox[{"k", " ", "s"}], "]"}]}]]],
+ " for every k.\nThe upshot:\n",
+ Cell[BoxData[
+  RowBox[{"ChebyshevT", "[", 
+   RowBox[{"k", ",", "t"}], "]"}]]],
+ " is nothing more or less than the polynomial ",
+ Cell[BoxData[
+  RowBox[{
+   SubscriptBox["P", "k"], "[", "t", "]"}]]],
+ "that makes\n            ",
+ Cell[BoxData[{
+  RowBox[{
+   RowBox[{
+    SubscriptBox["P", "k"], "[", 
+    RowBox[{"Cos", "[", "s", "]"}], "]"}], " ", "=", " ", 
+   RowBox[{
+    RowBox[{"Cos", "[", 
+     RowBox[{"k", " ", "s"}], "]"}], "."}]}], "\n", 
+  RowBox[{"\t"}]}]],
+ "\nLots of folks really like this definition. And this definition makes it \
+fairly easy to see why\n         ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "1"}], "1"], 
+    RowBox[{
+     RowBox[{"ChebyshevT", "[", 
+      RowBox[{"p", ",", "t"}], "]"}], " ", 
+     RowBox[{"ChebyshevT", "[", 
+      RowBox[{"q", ",", "t"}], "]"}], " ", 
+     FractionBox["1", 
+      SqrtBox[
+       RowBox[{"1", "-", 
+        SuperscriptBox["t", "2"]}]]], 
+     RowBox[{"\[DifferentialD]", "t"}]}]}], "=", "0"}]]],
+ " for p \[NotEqual] q.\nIf this intrigues you then click on the right.\n     \
+       "
+}], "Text"],
+
+Cell[TextData[{
+ "Explanation of why\n  ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "1"}], "1"], 
+    RowBox[{
+     RowBox[{"ChebyshevT", "[", 
+      RowBox[{"p", ",", "t"}], "]"}], " ", 
+     RowBox[{"ChebyshevT", "[", 
+      RowBox[{"q", ",", "t"}], "]"}], " ", 
+     FractionBox["1", 
+      SqrtBox[
+       RowBox[{"1", "-", 
+        SuperscriptBox["t", "2"]}]]], 
+     RowBox[{"\[DifferentialD]", "t"}]}]}], "=", "0"}]]],
+ " for p \[NotEqual] q\n  "
+}], "Subsubsection"],
+
+Cell[TextData[{
+ "Start with\n",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{"-", "1"}], "1"], 
+   RowBox[{
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{"p", ",", "t"}], "]"}], " ", 
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{"q", ",", "t"}], "]"}], " ", 
+    FractionBox["1", 
+     SqrtBox[
+      RowBox[{"1", "-", 
+       SuperscriptBox["t", "2"]}]]], 
+    RowBox[{"\[DifferentialD]", "t"}]}]}]]],
+ "\nTransform this integral via the substitution \n       ",
+ Cell[BoxData[
+  RowBox[{"t", "=", 
+   RowBox[{"Cos", "[", "s", "]"}]}]]],
+ "  (so that ",
+ Cell[BoxData[
+  RowBox[{"dt", "=", 
+   RowBox[{
+    RowBox[{"-", 
+     RowBox[{"Sin", "[", "s", "]"}]}], " ", "ds"}]}]]],
+ ")\n to get\n \n   ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{"-", "1"}], "1"], 
+   RowBox[{
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{"p", ",", "t"}], "]"}], " ", 
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{"q", ",", "t"}], "]"}], " ", 
+    FractionBox["1", 
+     SqrtBox[
+      RowBox[{"1", "-", 
+       SuperscriptBox["t", "2"]}]]], 
+    RowBox[{"\[DifferentialD]", "t"}]}]}]]],
+ "\n\n= ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{"-", "Pi"}], "0"], 
+   RowBox[{
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{"p", ",", 
+      RowBox[{"Cos", "[", "s", "]"}]}], "]"}], " ", 
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{"q", ",", 
+      RowBox[{"Cos", "[", "s", "]"}]}], "]"}], " ", 
+    FractionBox["1", 
+     SqrtBox[
+      RowBox[{"1", "-", 
+       SuperscriptBox[
+        RowBox[{"Cos", "[", "s", "]"}], "2"]}]]], 
+    RowBox[{"(", 
+     RowBox[{"-", 
+      RowBox[{"Sin", "[", "s", "]"}]}], ")"}], 
+    RowBox[{"\[DifferentialD]", "s"}]}]}]]],
+ "\n\n = ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{"-", "Pi"}], "0"], 
+   RowBox[{
+    RowBox[{"Cos", "[", 
+     RowBox[{"p", " ", "s"}], "]"}], " ", 
+    RowBox[{"Cos", "[", 
+     RowBox[{"q", " ", "s"}], "]"}], 
+    FractionBox["1", 
+     SqrtBox[
+      RowBox[{"1", "-", 
+       SuperscriptBox[
+        RowBox[{"Cos", "[", "s", "]"}], "2"]}]]], 
+    RowBox[{"(", 
+     RowBox[{"-", 
+      RowBox[{"Sin", "[", "s", "]"}]}], ")"}], 
+    RowBox[{"\[DifferentialD]", "s"}]}]}]]],
+ "\n \n = ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{"-", "Pi"}], "0"], 
+   RowBox[{
+    RowBox[{"Cos", "[", 
+     RowBox[{"p", " ", "s"}], "]"}], " ", 
+    RowBox[{"Cos", "[", 
+     RowBox[{"q", " ", "s"}], "]"}], 
+    FractionBox["1", 
+     RowBox[{"-", 
+      RowBox[{"Sin", "[", "s", "]"}]}]], 
+    RowBox[{"(", 
+     RowBox[{"-", 
+      RowBox[{"Sin", "[", "s", "]"}]}], ")"}], 
+    RowBox[{"\[DifferentialD]", "s"}]}]}]]],
+ "\n \n ",
+ Cell[BoxData[
+  RowBox[{"=", " ", 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "Pi"}], "0"], 
+    RowBox[{
+     RowBox[{"Cos", "[", 
+      RowBox[{"p", " ", "s"}], "]"}], " ", 
+     RowBox[{"Cos", "[", 
+      RowBox[{"q", " ", "s"}], "]"}], 
+     RowBox[{"\[DifferentialD]", "s"}]}]}]}]]]
+}], "Text"],
+
+Cell[TextData[{
+ "For s in [-Pi,0],Sin[s] \[LessEqual] 0>.\nSo for  s in [-Pi,0], ",
+ Cell[BoxData[
+  SqrtBox[
+   RowBox[{"1", "-", 
+    SuperscriptBox[
+     RowBox[{"Cos", "[", "s", "]"}], "2"]}]]]],
+ " =",
+ Cell[BoxData[
+  RowBox[{"-", 
+   RowBox[{"Sin", "[", "s", "]"}]}]]]
+}], "Special2",
+ TextAlignment->Center,
+ TextJustification->0],
+
+Cell["   Now look at:", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"p", ",", "q", ",", "s"}], "]"}], ";"}], " ", 
+  "\[IndentingNewLine]"}], "\n", 
+ RowBox[{
+  SubsuperscriptBox["\[Integral]", 
+   RowBox[{"-", "Pi"}], "0"], 
+  RowBox[{
+   RowBox[{"Cos", "[", 
+    RowBox[{"p", " ", "s"}], "]"}], " ", 
+   RowBox[{"Cos", "[", 
+    RowBox[{"q", " ", "s"}], "]"}], 
+   RowBox[{"\[DifferentialD]", "s"}]}]}]}], "Input"],
+
+Cell[TextData[{
+ "When p and q are integers, all the terms in the numerator are 0, so when p \
+and q are unequal positive integers,\n       ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{"-", "1"}], "1"], 
+   RowBox[{
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{"p", ",", "t"}], "]"}], " ", 
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{"q", ",", "t"}], "]"}], " ", 
+    FractionBox["1", 
+     SqrtBox[
+      RowBox[{"1", "-", 
+       SuperscriptBox["t", "2"]}]]], 
+    RowBox[{"\[DifferentialD]", "t"}]}]}]]],
+ "\n    = ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{"-", "Pi"}], "0"], 
+   RowBox[{
+    RowBox[{"Cos", "[", 
+     RowBox[{"p", " ", "s"}], "]"}], " ", 
+    RowBox[{"Cos", "[", 
+     RowBox[{"q", " ", "s"}], "]"}], 
+    RowBox[{"\[DifferentialD]", "s"}]}]}]]],
+ " = 0.\n    Nice calculus."
+}], "Text"]
+}, Closed]]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.4) Dimension of a function space", "Subsection",
+ CellTags->"MGM.11.G4"],
+
+Cell["G.4.a.i)", "Subsubsection"],
+
+Cell[TextData[{
+ "When you go with a finite set of functions \n        ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "1"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "2"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "3"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "4"], "[", "t", "]"}]}], "}"}]]],
+ "\n orthogonal on the interval ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ "  and then you make the function space S[a,b] spanned by this finite set.\n \
+      \nThis function space consists of all functions f[t] of the form.\n     \
+      ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"f", "[", "t", "]"}], "=", 
+   RowBox[{
+    UnderoverscriptBox["\[Sum]", 
+     RowBox[{"j", "=", "1"}], "4"], 
+    RowBox[{
+     SubscriptBox["c", "j"], " ", 
+     RowBox[{
+      SubscriptBox["s", "j"], "[", "t", "]"}]}]}]}]]],
+ "  with  ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ ".\nRead off the dimension of S[a,b]."
+}], "Text"],
+
+Cell["G.4.a.ii)", "Subsubsection"],
+
+Cell[TextData[{
+ "When you go with a finite set of functions \n        ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "1"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "2"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "3"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "4"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "5"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "6"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "7"], "[", "t", "]"}]}], "}"}]]],
+ "\n orthogonal on the interval ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ "  and then you make the function space S[a,b] spanned by this finite set.\n \
+      \nThis function space consists of all functions f[t] of the form.\n     \
+      ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"f", "[", "t", "]"}], "=", 
+   RowBox[{
+    UnderoverscriptBox["\[Sum]", 
+     RowBox[{"j", "=", "1"}], "7"], 
+    RowBox[{
+     SubscriptBox["c", "j"], " ", 
+     RowBox[{
+      SubscriptBox["s", "j"], "[", "t", "]"}]}]}]}]]],
+ "  with  ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ ".\nRead off the dimension of S[a,b]."
+}], "Text"],
+
+Cell["G.4.a.iii)", "Subsubsection"],
+
+Cell[TextData[{
+ "When you go with a finite set of functions \n        ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "1"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "2"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "3"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "4"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "5"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "6"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "7"], "[", "t", "]"}]}], "}"}]]],
+ "\nnot necessarily orthogonal on the interval ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ "  and then you make the function space S[a,b] spanned by this finite set.\n \
+      \nThis function space consists of all functions f[t] of the form.\n     \
+      ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"f", "[", "t", "]"}], "=", 
+   RowBox[{
+    UnderoverscriptBox["\[Sum]", 
+     RowBox[{"j", "=", "1"}], "7"], 
+    RowBox[{
+     SubscriptBox["c", "j"], " ", 
+     RowBox[{
+      SubscriptBox["s", "j"], "[", "t", "]"}]}]}]}]]],
+ "  with  ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ ".\nIs the dimension of S[a,b] necessarily equal to 7? \nCould it be more \
+than 7?"
+}], "Text"],
+
+Cell["G.4.b)", "Subsubsection"],
+
+Cell[TextData[{
+ "Lots of folks call the space of all square-integrable functions on \
+[0,\[Pi]] contains by the name ",
+ Cell[BoxData[
+  RowBox[{
+   SuperscriptBox["L", "2"], "[", 
+   RowBox[{"0", ",", "\[Pi]"}], "]"}]]],
+ ". \nThis space,",
+ Cell[BoxData[
+  RowBox[{" ", 
+   RowBox[{
+    SuperscriptBox["L", "2"], "[", 
+    RowBox[{"0", ",", "\[Pi]"}], "]"}]}]]],
+ ", contains all these orthogonal families and more:"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"k", ",", " ", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{"orthogfamily1", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"Sin", "[", 
+     RowBox[{"k", " ", "t"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"k", ",", "1", ",", "4"}], "}"}]}], "]"}]}]}], "Input"],
+
+Cell[BoxData[
+ RowBox[{"orthogfamily2", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"Sin", "[", 
+     RowBox[{"k", " ", "t"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"k", ",", "1", ",", "10"}], "}"}]}], "]"}]}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{"orthogfamily3", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"Sin", "[", 
+     RowBox[{"k", " ", "t"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"k", ",", "1", ",", "20"}], "}"}]}], "]"}]}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{"orthogfamily4", " ", "=", " ", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"Sin", "[", 
+     RowBox[{"k", " ", "t"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"k", ",", "1", ",", "100"}], "}"}]}], "]"}]}]], "Input"],
+
+Cell[TextData[{
+ "Based on these observations and any others you care to make, what do you \
+say is the dimension of ",
+ Cell[BoxData[
+  RowBox[{
+   SuperscriptBox["L", "2"], "[", 
+   RowBox[{"0", ",", "\[Pi]"}], "]"}]]],
+ "?           "
+}], "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+G.5)  Taylor versus Legendre:
+Taylor polynomial approximation versus best root-mean-square polynomial \
+approximation via Legendre polynomials\
+\>", "Subsection",
+ CellTags->"MGM.11.G5"],
+
+Cell[CellGroupData[{
+
+Cell["G.5.a) Taylor versus root-mean-square", "Subsubsection"],
+
+Cell["Here's an a function plotted on [-1,1]:", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"a", ",", "b"}], "}"}], " ", "=", " ", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "1"}], ",", "1"}], "}"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], " ", "=", " ", 
+    RowBox[{
+     RowBox[{"Sin", "[", 
+      RowBox[{"3", " ", "t"}], "]"}], " ", "-", " ", 
+     RowBox[{"Cos", "[", 
+      RowBox[{"3", "t"}], "]"}]}]}], ";"}], " "}], "\n", 
+ RowBox[{"fplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input"],
+
+Cell[TextData[{
+ "You probably remember the issue of expansions in powers of ",
+ Cell[BoxData["t"]],
+ " from your calculus course.\nThe Taylor expansion of ",
+ Cell[BoxData[
+  RowBox[{"f", "[", "t", "]"}]]],
+ " in powers of ",
+ Cell[BoxData["t"]],
+ " through the ",
+ Cell[BoxData[
+  SuperscriptBox["t", "5"]]],
+ " term is\n    ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"f", "[", "0", "]"}], "+", 
+   RowBox[{"t", " ", 
+    RowBox[{
+     SuperscriptBox["f", "\[Prime]",
+      MultilineFunction->None], "[", "0", "]"}]}], "+", 
+   RowBox[{
+    FractionBox["1", "2"], " ", 
+    SuperscriptBox["t", "2"], " ", 
+    RowBox[{
+     SuperscriptBox["f", "\[DoublePrime]",
+      MultilineFunction->None], "[", "0", "]"}]}], "+", 
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"3", "!"}]], " ", 
+    SuperscriptBox["t", "3"], " ", 
+    RowBox[{
+     SuperscriptBox["f", 
+      TagBox[
+       RowBox[{"(", "3", ")"}],
+       Derivative],
+      MultilineFunction->None], "[", "0", "]"}]}], "+", 
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"4", "!"}]], " ", 
+    SuperscriptBox["t", "4"], " ", 
+    RowBox[{
+     SuperscriptBox["f", 
+      TagBox[
+       RowBox[{"(", "4", ")"}],
+       Derivative],
+      MultilineFunction->None], "[", "0", "]"}]}], "+", 
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"5", "!"}]], " ", 
+    SuperscriptBox["t", "5"], " ", 
+    RowBox[{
+     SuperscriptBox["f", 
+      TagBox[
+       RowBox[{"(", "5", ")"}],
+       Derivative],
+      MultilineFunction->None], "[", "0", "]"}]}]}]]],
+ " \nLet ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " calculate this for you:"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", "taylor5", "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"taylor5", "[", "t_", "]"}], " ", "=", 
+  RowBox[{"Normal", "[", 
+   RowBox[{"Series", "[", 
+    RowBox[{
+     RowBox[{"f", "[", "t", "]"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"t", ",", "0", ",", "5"}], "}"}]}], "]"}], "]"}]}]}], "Input"],
+
+Cell["See both:", "Text"],
+
+Cell[BoxData[
+ RowBox[{" ", 
+  RowBox[{"taylorfitplot", " ", "=", " ", 
+   RowBox[{"Plot", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"f", "[", "t", "]"}], ",", 
+       RowBox[{"taylor5", "[", "t", "]"}]}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"t", ",", 
+       RowBox[{"-", "1"}], ",", "1"}], "}"}], ",", 
+     RowBox[{"PlotStyle", "->", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], ",", 
+        
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Red"}], "}"}]}], 
+       "}"}]}], ",", 
+     RowBox[{"AxesLabel", "->", 
+      RowBox[{"{", 
+       RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}]}]}]], "Input"],
+
+Cell[TextData[{
+ "The set of functions   \n        ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "1"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "2"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "3"], "[", "t", "]"}], ",", 
+    RowBox[{".", " ", ".", " ", "."}], ",", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}], ",", " ", 
+    RowBox[{".", " ", ".", " ", "."}]}], "}"}]]],
+ "\nfor\n         ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{
+    SubscriptBox["s", "k"], "[", "t", "]"}], " ", "=", " ", 
+   RowBox[{"LegendreP", "[", 
+    RowBox[{
+     RowBox[{"k", "-", "1"}], ",", " ", "t"}], "]"}]}]]],
+ " \nis an orthogonal set on the interval ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ " with ",
+ Cell[BoxData[
+  RowBox[{"a", "=", 
+   RowBox[{"-", "1"}]}]]],
+ " and b = ",
+ Cell[BoxData["1"]],
+ ".\nHere are the formulas for the first six",
+ ":"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "6"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", "k", "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "g", ",", "k", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k_"], "[", "t_", "]"}], " ", ":=", " ", 
+    RowBox[{"LegendreP", "[", 
+     RowBox[{
+      RowBox[{"k", "-", "1"}], ",", " ", "t"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{"Column", "[", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"k", ",", "1", ",", "khigh"}], "}"}]}], "]"}], "]"}]}], "Input"],
+
+Cell[TextData[{
+ "Go with the function space S[-1,1] spanned by this orthogonal set\nNotice \
+that this function space consists of polynomials of degree 5 (or less).\n\n \
+Come up with the function Sclosest[t] in  S[-1,1]  so that\nthe \
+root-mean-square distance between f[t] and Sclosest[t] is as small as \
+possible.\n\nCompare the quality of the approximation of f[t] by taylor5[t] \
+and Sclosests[t].\nWhich do you like:The  Root-Mean- Square approximation or \
+the Taylor approximation?\n",
+ StyleBox["Put answers here.",
+  FontSize->12]
+}], "Text"],
+
+Cell["\<\
+\[FilledVerySmallSquare] Here's another function f[t] plotted on [-1,1]:\
+\>", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"a", ",", "b"}], "}"}], " ", "=", " ", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "1"}], ",", "1"}], "}"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], " ", "=", " ", 
+    FractionBox["1", 
+     RowBox[{"1", "+", 
+      RowBox[{"1.3", " ", 
+       SuperscriptBox["t", "2"]}]}]]}], ";"}], " "}], "\n", 
+ RowBox[{"fplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input"],
+
+Cell[TextData[{
+ "You probably remember the issue of expansions in powers of t from your \
+calculus course.\nThe expansion of ",
+ Cell[BoxData[
+  RowBox[{"f", "[", "t", "]"}]]],
+ " in powers of ",
+ Cell[BoxData["t"]],
+ " through the ",
+ Cell[BoxData[
+  SuperscriptBox["t", "6"]]],
+ " term is\n         ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"f", "[", "0", "]"}], "+", 
+   RowBox[{"t", " ", 
+    RowBox[{
+     SuperscriptBox["f", "\[Prime]",
+      MultilineFunction->None], "[", "0", "]"}]}], "+", 
+   RowBox[{
+    FractionBox["1", "2"], " ", 
+    SuperscriptBox["t", "2"], " ", 
+    RowBox[{
+     SuperscriptBox["f", "\[DoublePrime]",
+      MultilineFunction->None], "[", "0", "]"}]}], "+", 
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"3", "!"}]], " ", 
+    SuperscriptBox["t", "3"], " ", 
+    RowBox[{
+     SuperscriptBox["f", 
+      TagBox[
+       RowBox[{"(", "3", ")"}],
+       Derivative],
+      MultilineFunction->None], "[", "0", "]"}]}], "+", 
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"4", "!"}]], " ", 
+    SuperscriptBox["t", "4"], " ", 
+    RowBox[{
+     SuperscriptBox["f", 
+      TagBox[
+       RowBox[{"(", "4", ")"}],
+       Derivative],
+      MultilineFunction->None], "[", "0", "]"}]}], "+", 
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"5", "!"}]], " ", 
+    SuperscriptBox["t", "5"], " ", 
+    RowBox[{
+     SuperscriptBox["f", 
+      TagBox[
+       RowBox[{"(", "5", ")"}],
+       Derivative],
+      MultilineFunction->None], "[", "0", "]"}], " ", 
+    FractionBox["1", 
+     RowBox[{"6", "!"}]], " ", 
+    SuperscriptBox["t", "6"], " ", 
+    RowBox[{
+     SuperscriptBox["f", 
+      TagBox[
+       RowBox[{"(", "6", ")"}],
+       Derivative],
+      MultilineFunction->None], "[", "0", "]"}]}]}]]],
+ " + \nLet ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " calculate this for you:"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", "taylor6", "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{"taylor6", "[", "t_", "]"}], " ", "=", 
+  RowBox[{"Normal", "[", 
+   RowBox[{"Series", "[", 
+    RowBox[{
+     RowBox[{"f", "[", "t", "]"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"t", ",", "0", ",", "6"}], "}"}]}], "]"}], "]"}]}]}], "Input"],
+
+Cell["See both:", "Text"],
+
+Cell[BoxData[
+ RowBox[{" ", 
+  RowBox[{"taylorfitplot", " ", "=", " ", 
+   RowBox[{"Plot", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"f", "[", "t", "]"}], ",", 
+       RowBox[{"taylor6", "[", "t", "]"}]}], "}"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"t", ",", 
+       RowBox[{"-", "1"}], ",", "1"}], "}"}], ",", 
+     RowBox[{"PlotStyle", "->", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], ",", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Red"}], "}"}]}], 
+       "}"}]}], ",", 
+     RowBox[{"AxesLabel", "->", 
+      RowBox[{"{", 
+       RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}]}]}]], "Input"],
+
+Cell[TextData[{
+ "Yuck!\nThe set of functions   \n        ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "1"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "2"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "3"], "[", "t", "]"}], ",", 
+    RowBox[{".", " ", ".", " ", "."}], ",", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}], ",", " ", 
+    RowBox[{".", " ", ".", " ", "."}]}], "}"}]]],
+ "\nfor\n         ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{
+    SubscriptBox["s", "k"], "[", "t", "]"}], " ", "=", " ", 
+   RowBox[{"LegendreP", "[", 
+    RowBox[{
+     RowBox[{"k", "-", "1"}], ",", " ", "t"}], "]"}]}]]],
+ " \nis an orthogonal set on the interval ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ " with ",
+ Cell[BoxData[
+  RowBox[{"a", "=", 
+   RowBox[{"-", "1"}]}]]],
+ " and b = ",
+ Cell[BoxData["1"]],
+ ".\nHere are the formulas for the first seven:"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "7"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", "k", "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "g", ",", "k", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k_"], "[", "t_", "]"}], " ", ":=", " ", 
+    RowBox[{"LegendreP", "[", 
+     RowBox[{
+      RowBox[{"k", "-", "1"}], ",", " ", "t"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{"Column", "[", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"k", ",", "1", ",", "khigh"}], "}"}]}], "]"}], "]"}]}], "Input"],
+
+Cell[TextData[{
+ "Go with the function space S[-1,1] spanned by this orthogonal set\nNotice \
+that this function space consists of polynomials of degree 6 (or less).\n \
+Come up with the function Sclosest[t] in  S[-1,1]  so that\nthe \
+root-mean-square distance between f[t] and Sclosest[t] is as small as \
+possible.\nCompare the quality of the approximation of f[t] by taylor6[t] and \
+Sclosests[t].\nWhich do you like:\nThe  Root-Mean- Square approximation or \
+the Taylor approximation?\n",
+ StyleBox["Put answers here.",
+  FontSize->12]
+}], "Text"]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.6) Weighted Fourier-Chebyshev polynomial approximation", "Subsection",
+ CellTags->"MGM.11.G6"],
+
+Cell["G.6.a)", "Subsubsection"],
+
+Cell["Here is a function f[t] plotted on [a,b] = [-1,1]:", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"f", ",", "t"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", " ", "=", " ", "1"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", " ", "=", " ", 
+    RowBox[{"-", "1"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "t_", "]"}], " ", "=", 
+    RowBox[{"1", "+", "t", "+", 
+     SuperscriptBox["t", "2"], "-", 
+     SuperscriptBox["t", "3"], "+", 
+     SuperscriptBox["t", "4"], "-", 
+     SuperscriptBox["t", "5"], "+", 
+     SuperscriptBox["t", "12"]}]}], ";"}], " ", "\n"}], "\[IndentingNewLine]", 
+ RowBox[{"fplot", " ", "=", " ", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"f", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"PlotRange", "->", "All"}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}]}], "]"}], 
+  " "}]}], "Input"],
+
+Cell[TextData[{
+ "The set of functions   \n        ",
+ Cell[BoxData[
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{
+     SubscriptBox["s", "1"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "2"], "[", "t", "]"}], ",", 
+    RowBox[{
+     SubscriptBox["s", "3"], "[", "t", "]"}], ",", 
+    RowBox[{".", " ", ".", " ", "."}], ",", 
+    RowBox[{
+     SubscriptBox["s", "k"], "[", "t", "]"}], ",", " ", 
+    RowBox[{".", " ", ".", " ", "."}]}], "}"}]]],
+ "\nfor\n         ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{
+    SubscriptBox["s", "k"], "[", "t", "]"}], " ", "=", " ", 
+   RowBox[{"ChebyshevT", "[", 
+    RowBox[{
+     RowBox[{"k", " ", "-", "1"}], ",", " ", "t"}], "]"}]}]]],
+ " \nis an orthogonal set with respect to the weight function \n          ",
+ Cell[BoxData[
+  RowBox[{
+   RowBox[{"weight", "[", "t", "]"}], "=", 
+   RowBox[{"1", "/", 
+    SqrtBox[
+     RowBox[{"1", "-", 
+      SuperscriptBox["t", "2"]}]]}]}]]],
+ "\non the interval ",
+ Cell[BoxData[
+  RowBox[{"a", "\[LessEqual]", "t", "\[LessEqual]", "b"}]]],
+ " with ",
+ Cell[BoxData[
+  RowBox[{"a", "=", 
+   RowBox[{"-", "1"}]}]]],
+ " and b = ",
+ Cell[BoxData["1"]],
+ ".\nHere are the formulas for the first seven:"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", "k", "]"}], ";"}], " "}], "\n", 
+ RowBox[{"Column", "[", 
+  RowBox[{"Table", "[", 
+   RowBox[{
+    RowBox[{"ChebyshevT", "[", 
+     RowBox[{
+      RowBox[{"k", "-", "1"}], ",", " ", "t"}], "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"k", ",", "1", ",", "7"}], "}"}]}], "]"}], "]"}]}], "Input"],
+
+Cell["Go with the function space S[a,b] spanned by:", "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "6"}], ";"}], " ", 
+  "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    SubscriptBox["s", "k_"], "[", "t_", "]"}], ":=", 
+   RowBox[{"ChebyshevT", "[", 
+    RowBox[{
+     RowBox[{"k", "-", "1"}], ",", " ", "t"}], "]"}]}], 
+  "\n"}], "\[IndentingNewLine]", 
+ RowBox[{"Table", "[", " ", 
+  RowBox[{
+   RowBox[{
+    SubscriptBox["s", "k"], "[", "t", "]"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"k", ",", "1", ",", "khigh"}], "}"}]}], "]"}]}], "Input",
+ CellChangeTimes->{{3.4811539116969643`*^9, 3.4811539324322643`*^9}}],
+
+Cell[TextData[{
+ "Come up with the function Sclosest[t] in  S[a,b]  so that\nthe",
+ StyleBox[" weighted",
+  FontWeight->"Bold"],
+ " root-mean-square distance between f[t] and Sclosest is as small as \
+possible.\nGive a fit plot.\nNote that you get a nice approximation of a 12th \
+degree polynomial by 5th degree polynomial \n"
+}], "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.7) Cranking up the Gram-Schmidt process", "Subsection",
+ CellTags->"MGM.11.G7"],
+
+Cell[CellGroupData[{
+
+Cell["G.7.a.i) Not orthogonal", "Subsubsection"],
+
+Cell[BoxData[{
+ FormBox[
+  RowBox[{
+   FormBox[
+    RowBox[{
+     RowBox[{
+     "Here", " ", "is", " ", "a", " ", "set", " ", "of", " ", "functions"}], 
+     " ", "\n", "\t           ", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{
+        SubscriptBox["f", "1"], "[", "t", "]"}], ",", 
+       RowBox[{
+        SubscriptBox["f", "2"], "[", "t", "]"}], ",", 
+       RowBox[{
+        SubscriptBox["f", "3"], "[", "t", "]"}], ",", 
+       RowBox[{
+        SubscriptBox["f", "4"], "[", "t", "]"}], ",", 
+       RowBox[{
+        SubscriptBox["f", "5"], "[", "t", "]"}], ",", 
+       RowBox[{
+        SubscriptBox["f", "6"], "[", "t", "]"}]}], "}"}]}],
+    TextForm], " "}], TextForm], "\n", 
+ FormBox[
+  FormBox[
+   RowBox[{"\t", 
+    RowBox[{"plotted", " ", "on", " ", "an", " ", 
+     RowBox[{
+      RowBox[{"interval", " ", "[", 
+       RowBox[{
+        RowBox[{"-", "1.4"}], ",", " ", "3.7"}], "]"}], ":"}]}]}],
+   TextForm], TextForm]}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"s", ",", "f", ",", "k", ",", "t"}], "]"}], ";"}], 
+  " "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["f", "1"], "[", "t_", "]"}], "=", "1"}], ";"}], 
+  " "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["f", "2"], "[", "t_", "]"}], "=", 
+    RowBox[{"Cos", "[", 
+     RowBox[{"2", " ", "t"}], "]"}]}], ";"}], " "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["f", "3"], "[", "t_", "]"}], "=", 
+    RowBox[{"Sin", "[", 
+     RowBox[{
+      SqrtBox["2"], " ", "t"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["f", "4"], "[", "t_", "]"}], "=", 
+    RowBox[{"Sin", "[", 
+     RowBox[{"4", " ", "t"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["f", "5"], "[", "t_", "]"}], "=", 
+    RowBox[{"Cos", "[", 
+     RowBox[{"4", " ", "t"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["f", "6"], "[", "t_", "]"}], "=", 
+    RowBox[{"Cos", "[", 
+     RowBox[{
+      SqrtBox["2"], " ", "t"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"a", "=", 
+    RowBox[{"-", "1.4"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"b", "=", "3.7"}], ";"}], " "}], "\n", 
+ RowBox[{"Plot", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["f", "1"], "[", "t", "]"}], ",", 
+     RowBox[{
+      SubscriptBox["f", "2"], "[", "t", "]"}], ",", 
+     RowBox[{
+      SubscriptBox["f", "3"], "[", "t", "]"}], ",", 
+     RowBox[{
+      SubscriptBox["f", "4"], "[", "t", "]"}], ",", 
+     RowBox[{
+      SubscriptBox["f", "5"], "[", "t", "]"}], ",", 
+     RowBox[{
+      SubscriptBox["f", "6"], "[", "t", "]"}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+   RowBox[{"PlotStyle", "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", 
+        RowBox[{"RGBColor", "[", 
+         RowBox[{"0.8", ",", "0", ",", "0"}], "]"}]}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", 
+        RowBox[{"RGBColor", "[", 
+         RowBox[{"0.7", ",", "0.5", ",", "0"}], "]"}]}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", 
+        RowBox[{"RGBColor", "[", 
+         RowBox[{"0.5", ",", "1", ",", "0"}], "]"}]}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", 
+        RowBox[{"RGBColor", "[", 
+         RowBox[{"0.2", ",", "0.5", ",", "0.5"}], "]"}]}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.02", "]"}], ",", 
+        RowBox[{"RGBColor", "[", 
+         RowBox[{"0", ",", "1", ",", "0.5"}], "]"}]}], "}"}]}], "}"}]}], ",", 
+   
+   RowBox[{"AxesLabel", "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{"\"\<t\>\"", ",", "\"\<\>\""}], "}"}]}]}], "]"}]}], "Input"],
+
+Cell[BoxData[
+ FormBox[
+  RowBox[{" ", 
+   RowBox[{
+    RowBox[{"A", " ", "tangled", " ", "mess", " ", "of", " ", 
+     RowBox[{"spaghetti", ".", "\n", "\t\t", "You"}], " ", "make", " ", "the",
+      " ", "function", " ", "space", " ", 
+     RowBox[{"S", "[", 
+      RowBox[{"a", ",", "b"}], "]"}], " ", "spanned", " ", "by"}], "\n", 
+    "              ", 
+    RowBox[{
+     RowBox[{
+      RowBox[{
+       RowBox[{
+        StyleBox["{", "MR"], 
+        RowBox[{
+         StyleBox[
+          RowBox[{
+           SubscriptBox["f", "1"], "[", "t", "]"}], "MR"], ",", 
+         StyleBox[
+          RowBox[{
+           SubscriptBox["f", "2"], "[", "t", "]"}], "MR"], ",", 
+         StyleBox[
+          RowBox[{
+           SubscriptBox["f", 
+            StyleBox["3", "MR"]], "[", "t", "]"}], "MR"], ",", 
+         StyleBox[
+          RowBox[{
+           SubscriptBox["f", "4"], "[", "t", "]"}], "MR"], 
+         StyleBox[",", "MR"], 
+         StyleBox[
+          RowBox[{
+           SubscriptBox["f", "5"], "[", "t", "]"}], "MR"], ",", 
+         StyleBox[
+          RowBox[{
+           SubscriptBox["f", 
+            StyleBox["6", "MR"]], "[", "t", "]"}], "MR"]}], 
+        StyleBox["}", "MR"]}], ".", "\n", "This"}], " ", "function", " ", 
+      "space", " ", 
+      RowBox[{"S", "[", 
+       RowBox[{"a", ",", "b"}], "]"}], " ", "consists", " ", "of", " ", "all",
+       " ", "functions", " ", 
+      RowBox[{"s", "[", "t", "]"}], " ", "of", " ", "the", " ", 
+      RowBox[{"form", ".", "\n", "           ", 
+       RowBox[{"s", "[", "t", "]"}]}]}], "=", 
+     RowBox[{
+      RowBox[{
+       UnderoverscriptBox["\[Sum]", 
+        RowBox[{"j", "=", "1"}], "6"], 
+       RowBox[{
+        SubscriptBox["c", "j"], " ", 
+        RowBox[{
+         SubscriptBox["f", "j"], "[", "t", "]"}], "  ", "with", "  ", "a"}]}],
+       "\[LessEqual]", "t", "\[LessEqual]", 
+      RowBox[{
+       RowBox[{"b", ".", "\n", "See"}], " ", "a", " ", "random", " ", 
+       "member", " ", "of", " ", "this", " ", "function", " ", 
+       RowBox[{"space", ":"}]}]}]}]}]}], TextForm]], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  SubscriptBox["c", "k_"], " ", ":=", " ", 
+  RowBox[{"Random", "[", 
+   RowBox[{"Real", ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "2"}], ",", "2"}], "}"}]}], "]"}]}], "\n", 
+ RowBox[{
+  RowBox[{"s", "[", "t_", "]"}], "=", 
+  RowBox[{
+   UnderoverscriptBox["\[Sum]", 
+    RowBox[{"k", "=", "1"}], "6"], 
+   RowBox[{
+    SubscriptBox["c", "k"], " ", 
+    RowBox[{
+     SubscriptBox["f", "k"], "[", "t", "]"}]}]}]}]}], "Input"],
+
+Cell["And its plot:", "Text"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"s", "[", "t", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"t", ",", "a", ",", "b"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "->", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "->", 
+     RowBox[{"{", 
+      RowBox[{"\"\<t\>\"", ",", "\"\<f[t]\>\""}], "}"}]}], ",", 
+    RowBox[{"AspectRatio", "->", 
+     RowBox[{"1", "/", "GoldenRatio"}]}]}], "]"}], " "}]], "Input"],
+
+Cell["Keep everything the same as the above and look at:", "Text"],
+
+Cell[BoxData[
+ RowBox[{
+  SubsuperscriptBox["\[Integral]", "a", "b"], 
+  RowBox[{
+   RowBox[{
+    RowBox[{
+     SubscriptBox["f", "3"], "[", "t", "]"}], " ", 
+    RowBox[{
+     SubscriptBox["f", "4"], "[", "t", "]"}]}], 
+   RowBox[{"\[DifferentialD]", "t"}]}]}]], "Input"],
+
+Cell[TextData[{
+ "Interpret the result.\n",
+ StyleBox["Put answer here.",
+  FontSize->12]
+}], "Text"],
+
+Cell[TextData[{
+ "\[FilledVerySmallSquare]Use the Gram-Schmidt process to come up with an \
+orthogonal family\n            ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+       SubscriptBox["s", "1"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "2"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "3"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "4"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "5"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "6"], "[", "t", "]"}]}], "}"}], " "}], TextForm]]],
+ "on [a,b] \n so that function space spanned by\n            ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+       SubscriptBox["s", "1"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "2"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "3"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "4"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "5"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["s", "6"], "[", "t", "]"}]}], "}"}], "  "}], TextForm]]],
+ " \n is the same as the function space spanned by\n            ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+       SubscriptBox["f", "1"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["f", "2"], "[", "t", "]"}], ",", " ", 
+      RowBox[{
+       SubscriptBox["f", "3"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["f", "4"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["f", "5"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["f", "6"], "[", "t", "]"}]}], "}"}], " ", "."}], 
+   TextForm]]]
+}], "Text"],
+
+Cell[TextData[{
+ "Then use your orthogonal family to come up with the best root-mean-square \
+approximation on [a,b]  of ",
+ Cell[BoxData[
+  RowBox[{"Cos", "[", 
+   RowBox[{"3", " ", "t"}], "]"}]]],
+ " by a member of the function space spanned by\n            ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+       SubscriptBox["f", "1"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["f", "2"], "[", "t", "]"}], ",", " ", 
+      RowBox[{
+       SubscriptBox["f", "3"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["f", "4"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["f", "5"], "[", "t", "]"}], ",", 
+      RowBox[{
+       SubscriptBox["f", "6"], "[", "t", "]"}]}], "}"}], " ", "."}], 
+   TextForm]]],
+ "\n",
+ StyleBox["Put answer here.",
+  FontSize->12]
+}], "Text"]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+G.8)  Fourier Sine approximation and the heat equation
+         Fourier Sine approximation and the wave equation\
+\>", "Subsection",
+ CellTags->"MGM.11.G8"],
+
+Cell["\<\
+Fourier invented Fourier approximations for 
+the purpose of working on this very problem.\
+\>", "Special5",
+ Evaluatable->False,
+ AspectRatioFixed->True],
+
+Cell[CellGroupData[{
+
+Cell["G.8.a) Fourier Sine approximation and the heat equation", \
+"Subsubsection",
+ Evaluatable->False,
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ StyleBox["Start with a heated wire L units long with the temperature allowed \
+to vary from position to position on the wire. Think of the wire as the \
+interval 0 \[LessEqual] x \[LessEqual] L. ",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.493645]],
+ StyleBox[" At the start of the experiment,  you instantly cool the ends at x \
+= 0 and x = L  and maintain these ends at temperature 0,",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.489738]],
+ StyleBox[" and you take pains to guarantee that the rest of the wire is \
+perfectly insulated.\nAt the start of this particular experiment, the \
+temperature of the wire at position x (for ",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.48191]],
+ StyleBox["0 \[LessEqual] x \[LessEqual] L",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.493645]],
+ StyleBox[" = ",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.48191]],
+ "\[Pi]",
+ StyleBox[") is given by the following function startertemp[x]:",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.48191]]
+}], "Text",
+ Evaluatable->False,
+ AspectRatioFixed->True],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"L", "=", "\[Pi]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"startertemp", ",", "x"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"startertemp", "[", "x_", "]"}], "=", 
+    RowBox[{"x", " ", 
+     RowBox[{"Tan", "[", 
+      FractionBox["x", "4"], "]"}], " ", 
+     RowBox[{"(", 
+      RowBox[{"\[Pi]", "-", "x"}], ")"}]}]}], ";"}], " ", "\n"}], "\n", 
+ RowBox[{"starterplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"startertemp", "[", "x", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"x", ",", "0", ",", "L"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.015", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<x\>\"", ",", "\"\<starting temperature\>\""}], "}"}]}]}], 
+   "]"}], " "}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ StyleBox["Think of the interval [0,L] = [0 ",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.500496]],
+ "\[Pi]",
+ StyleBox["] as the wire.  \nThe tip of the pointer tells you the starting \
+temperature (at time t = 0) at the tail of the pointer.\n",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.500496]],
+ StyleBox["Your problem here is to use Fourier Sine approximation on [0,",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.499504]],
+ "\[Pi]",
+ StyleBox["] of startertemp[x] come up with a function temp[x,t] that \
+estimates the  temperature of the wire at position x at time t after the \
+experiment begins. \nDo it.",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.499504]]
+}], "Text",
+ Evaluatable->False,
+ AspectRatioFixed->True]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.8.b.i) Fourier Sine approximation and the wave equation ", \
+"Subsubsection",
+ Evaluatable->False,
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ StyleBox["The ends of a guitar string are anchored at 0 and L on the x-axis \
+and the string is pulled to an initial position and then allowed to vibrate \
+on its own starting with initial velocity 0.\n",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.493645]],
+ StyleBox["\nAt the start of this particular experiment, the position of the ",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.48191]],
+ StyleBox["guitar string",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.493645]],
+ StyleBox[" at position x (for 0 \[LessEqual] x \[LessEqual]  L = Pi) is \
+given by the following function starterposition[x]:",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.48191]]
+}], "Text",
+ Evaluatable->False,
+ AspectRatioFixed->True],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"L", "=", "\[Pi]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Clear", "[", 
+    RowBox[{"starterposition", ",", "x"}], "]"}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"starterposition", "[", "x_", "]"}], "=", 
+    RowBox[{
+     RowBox[{"Sin", "[", "x", "]"}], " ", 
+     RowBox[{"(", 
+      RowBox[{"x", "-", "1"}], ")"}], " ", 
+     RowBox[{"(", 
+      RowBox[{"x", "-", "2"}], ")"}]}]}], ";"}], " ", "\n"}], "\n", 
+ RowBox[{"starterplot", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"starterposition", "[", "x", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"x", ",", "0", ",", "L"}], "}"}], ",", 
+    RowBox[{"PlotStyle", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"Thickness", "[", "0.01", "]"}], ",", "Blue"}], "}"}], 
+      "}"}]}], ",", 
+    RowBox[{"PlotRange", "\[Rule]", "All"}], ",", 
+    RowBox[{"AspectRatio", "\[Rule]", 
+     FractionBox["1", "4"]}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", 
+     RowBox[{"{", 
+      RowBox[{"\"\<x\>\"", ",", "\"\<starting position\>\""}], "}"}]}]}], 
+   "]"}], " "}]}], "Input",
+ AspectRatioFixed->True],
+
+Cell[TextData[{
+ StyleBox[".Your problem here is to  use Fourier Sine approximation on [0,",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.499504]],
+ "\[Pi]",
+ StyleBox["] of starterposition[x] come up come up with a function \
+position[x,t] that estimates the position of the guitar string at position x \
+on the x-axis at time t after the experiment begins. \nDo it.",
+  Evaluatable->False,
+  AspectRatioFixed->True,
+  FontColor->RGBColor[0, 0, 0.499504]]
+}], "Text",
+ Evaluatable->False,
+ AspectRatioFixed->True]
+}, Closed]]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.9)  A small Dirac mystery", "Subsection",
+ CellTags->"MGM.11.G9"],
+
+Cell[CellGroupData[{
+
+Cell["G.9.a.i) Spikes", "Subsubsection"],
+
+Cell[TextData[{
+ "Here's a formula \n          ",
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["1", 
+    RowBox[{" ", 
+     RowBox[{"2", " ", "\[Pi]"}]}]], "+", 
+   RowBox[{
+    FractionBox["1", "\[Pi]"], 
+    RowBox[{
+     UnderoverscriptBox["\[Sum]", 
+      RowBox[{"k", "=", "1"}], "khigh"], 
+     RowBox[{"Cos", "[", 
+      RowBox[{"k", " ", "t"}], "]"}]}]}]}]]],
+ "\nand plots of it for various choices of khigh:"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "12"}], ";"}], " "}], "\n", 
+ RowBox[{"Plot", "[", " ", 
+  RowBox[{
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"2", " ", "\[Pi]"}]], "+", 
+    RowBox[{
+     FractionBox["1", "\[Pi]"], 
+     RowBox[{
+      UnderoverscriptBox["\[Sum]", 
+       RowBox[{"k", "=", "1"}], "khigh"], 
+      RowBox[{"Cos", "[", 
+       RowBox[{"k", " ", "t"}], "]"}]}]}]}], ",", 
+   RowBox[{"{", 
+    RowBox[{"t", ",", 
+     RowBox[{"-", "Pi"}], ",", "Pi"}], "}"}], ",", 
+   RowBox[{"PlotRange", "->", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "5"}], ",", "12"}], "}"}]}], ",", 
+   RowBox[{"PlotStyle", "->", 
+    RowBox[{"{", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Pink"}], "}"}], "}"}]}],
+    ",", 
+   RowBox[{"AspectRatio", "->", "2"}]}], "]"}]}], "Input"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "20"}], ";"}], " "}], "\n", 
+ RowBox[{"Plot", "[", " ", 
+  RowBox[{
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"2", " ", "\[Pi]"}]], "+", 
+    RowBox[{
+     FractionBox["1", "\[Pi]"], 
+     RowBox[{
+      UnderoverscriptBox["\[Sum]", 
+       RowBox[{"k", "=", "1"}], "khigh"], 
+      RowBox[{"Cos", "[", 
+       RowBox[{"k", " ", "t"}], "]"}]}]}]}], ",", 
+   RowBox[{"{", 
+    RowBox[{"t", ",", 
+     RowBox[{"-", "Pi"}], ",", "Pi"}], "}"}], ",", 
+   RowBox[{"PlotRange", "->", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "5"}], ",", "12"}], "}"}]}], ",", 
+   RowBox[{"PlotStyle", "->", 
+    RowBox[{"{", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Pink"}], "}"}], "}"}]}],
+    ",", 
+   RowBox[{"AspectRatio", "->", "2"}]}], "]"}]}], "Input"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"khigh", " ", "=", " ", "40"}], ";"}], " "}], "\n", 
+ RowBox[{"Plot", "[", " ", 
+  RowBox[{
+   RowBox[{
+    FractionBox["1", 
+     RowBox[{"2", " ", "\[Pi]"}]], "+", 
+    RowBox[{
+     FractionBox["1", "\[Pi]"], 
+     RowBox[{
+      UnderoverscriptBox["\[Sum]", 
+       RowBox[{"k", "=", "1"}], "khigh"], 
+      RowBox[{"Cos", "[", 
+       RowBox[{"k", " ", "t"}], "]"}]}]}]}], ",", 
+   RowBox[{"{", 
+    RowBox[{"t", ",", 
+     RowBox[{"-", "Pi"}], ",", "Pi"}], "}"}], ",", 
+   RowBox[{"PlotRange", "->", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"-", "5"}], ",", "12"}], "}"}]}], ",", 
+   RowBox[{"PlotStyle", "->", 
+    RowBox[{"{", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"Thickness", "[", "0.02", "]"}], ",", "Pink"}], "}"}], "}"}]}],
+    ",", 
+   RowBox[{"AspectRatio", "->", "2"}]}], "]"}]}], "Input"],
+
+Cell["What mysterious \"function\" are these plots associated with?", "Text"]
+}, Closed]],
+
+Cell[CellGroupData[{
+
+Cell["G.9.a.ii) The integral is 1", "Subsubsection"],
+
+Cell[TextData[{
+ "Here's that same  formula \n          ",
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["1", 
+    RowBox[{" ", 
+     RowBox[{"2", " ", "\[Pi]"}]}]], "+", 
+   RowBox[{
+    FractionBox["1", "\[Pi]"], 
+    RowBox[{
+     UnderoverscriptBox["\[Sum]", 
+      RowBox[{"k", "=", "1"}], "khigh"], 
+     RowBox[{"Cos", "[", 
+      RowBox[{"k", " ", "t"}], "]"}]}]}]}]]],
+ ":\nIntegrate it from - h to h to get:\n      ",
+ Cell[BoxData[
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    RowBox[{
+     RowBox[{"-", "h"}], "       "}], "h"], 
+   RowBox[{
+    RowBox[{"(", " ", 
+     RowBox[{
+      FractionBox["1", 
+       RowBox[{" ", 
+        RowBox[{"2", " ", "\[Pi]"}]}]], "+", 
+      RowBox[{
+       FractionBox["1", "\[Pi]"], 
+       RowBox[{
+        UnderoverscriptBox["\[Sum]", 
+         RowBox[{"k", "=", "1"}], "khigh"], 
+        RowBox[{"Cos", "[", 
+         RowBox[{"k", " ", "t"}], "]"}]}]}]}], ")"}], 
+    RowBox[{"\[DifferentialD]", "t"}]}]}]]],
+ " = ",
+ Cell[BoxData[
+  RowBox[{
+   FractionBox[
+    RowBox[{"2", "h"}], 
+    RowBox[{" ", 
+     RowBox[{"2", " ", "\[Pi]"}]}]], "+", 
+   RowBox[{
+    FractionBox["1", "\[Pi]"], 
+    RowBox[{
+     UnderoverscriptBox["\[Sum]", 
+      RowBox[{"k", "=", "1"}], "khigh"], 
+     FractionBox[
+      RowBox[{
+       RowBox[{"Sin", "[", 
+        RowBox[{"k", " ", "h"}], "]"}], "-", 
+       RowBox[{"Sin", "[", 
+        RowBox[{
+         RowBox[{"-", "k"}], " ", "h"}], "]"}]}], "k"]}]}]}]]],
+ " \n      = ",
+ Cell[BoxData[
+  RowBox[{
+   FractionBox["h", 
+    RowBox[{"  ", "\[Pi]"}]], "+", 
+   RowBox[{
+    FractionBox["1", "\[Pi]"], 
+    RowBox[{
+     UnderoverscriptBox["\[Sum]", 
+      RowBox[{"k", "=", "1"}], "khigh"], 
+     FractionBox[
+      RowBox[{"2", " ", 
+       RowBox[{"Sin", "[", 
+        RowBox[{"k", " ", "h"}], "]"}]}], "k"]}]}]}]]],
+ ".\nWhen you let khigh go to infinity, ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " gives you for a random small h",
+ ":"
+}], "Text"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"h", " ", "=", " ", 
+    RowBox[{"Random", "[", 
+     RowBox[{"Real", ",", 
+      RowBox[{"{", 
+       RowBox[{"0", ",", "0.1"}], "}"}]}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{"result", " ", "=", 
+  RowBox[{"Chop", "[", " ", 
+   RowBox[{
+    FractionBox["h", 
+     RowBox[{"  ", "\[Pi]"}]], "+", 
+    RowBox[{
+     FractionBox["1", "\[Pi]"], 
+     RowBox[{
+      UnderoverscriptBox["\[Sum]", 
+       RowBox[{"k", "=", "1"}], "Infinity"], 
+      FractionBox[
+       RowBox[{"2", " ", 
+        RowBox[{"Sin", "[", 
+         RowBox[{"k", " ", "h"}], "]"}]}], "k"]}]}]}], "]"}]}]}], "Input"],
+
+Cell["Do you think this an accident?  If not, then why not?", "Text"]
+}, Closed]]
+}, Closed]]
+},
+AutoGeneratedPackage->None,
+WindowToolbars->{},
+CellGrouping->Manual,
+WindowSize->{632, 433},
+WindowMargins->{{4, Automatic}, {Automatic, 1}},
+PrivateNotebookOptions->{"ColorPalette"->{RGBColor, 128}},
+ShowCellLabel->True,
+ShowCellTags->False,
+TrackCellChangeTimes->True,
+RenderingOptions->{"ObjectDithering"->True,
+"RasterDithering"->False},
+FrontEndVersion->"8.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (November 6, \
+2010)",
+StyleDefinitions->Notebook[{
+   Cell[
+    CellGroupData[{
+      Cell["Style Definitions", "Subtitle"], 
+      Cell[
+      "The following notebook is copyright 2010 by Make: Mathematics.and may \
+not be reproduced, copied, or distributed, in whole or in part, through any \
+means electronic or otherwise, without written consent of the copyright \
+holder.", "Text"], 
+      Cell[
+       CellGroupData[{
+         Cell["Style Environment Names", "Section"], 
+         Cell[
+          StyleData[All, "Working"], ScriptMinSize -> 9], 
+         Cell[
+          StyleData[All, "Printout"], PageWidth -> PaperWidth, 
+          PrivateFontOptions -> {"FontType" -> "Outline"}], 
+         Cell[
+          StyleData[All, "TwoColumn"], PageWidth -> PaperWidth, 
+          PrivateFontOptions -> {"FontType" -> "Outline"}]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Notebook Options", "Section"], 
+         Cell[
+         "The options defined for the style below will be used at the \
+Notebook level.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Notebook"], CellGrouping -> Manual, 
+             PrintingOptions -> {
+              "FirstPageFooter" -> False, "FirstPageHeader" -> False, 
+               "RestPagesFooter" -> False, "RestPagesHeader" -> False}, 
+             ShowClosedCellArea -> True, StyleMenuListing -> None, Background -> 
+             RGBColor[1, 0.940002, 0.900008]], 
+            Cell[
+             StyleData["Notebook", "Printout"], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["Notebook", "TwoColumn"], 
+             PageHeaders -> {{None, None, None}, {None, None, None}}, 
+             PageHeaderLines -> {False, False}, 
+             PrintingOptions -> {"PrintingMargins" -> {{55, 25}, {40, 45}}}, 
+             Background -> GrayLevel[1]]}, Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Headings", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Title"], CellFrame -> {{1, 1}, {1, 5}}, 
+             ShowCellBracket -> False, CellMargins -> {{24, 24}, {12, 5}}, 
+             CellGroupingRules -> {"TitleGrouping", 0}, PageBreakBelow -> 
+             False, CellFrameMargins -> {{15, Inherited}, {
+               Inherited, Inherited}}, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, 
+             LineSpacing -> {1.1, 1}, 
+             CounterAssignments -> {{"Section", 0}, {"Equation", 0}, {
+               "Figure", 0}}, FontFamily -> "Times", FontSize -> 24, 
+             FontWeight -> "Bold", FontColor -> GrayLevel[0], Background -> 
+             RGBColor[0.925002, 0.854978, 0.774975]], 
+            Cell[
+             StyleData["Title", "Printout"], 
+             CellMargins -> {{0, Inherited}, {0, 0}}, TextAlignment -> Center,
+              FontSize -> 16, FontColor -> GrayLevel[0], Background -> 
+             GrayLevel[1]], 
+            Cell[
+             StyleData["Title", "TwoColumn"], CellFrame -> {{1, 1}, {5, 0}}, 
+             CellMargins -> {{0, Inherited}, {0, 0}}, TextAlignment -> Center,
+              FontSize -> 16, FontColor -> GrayLevel[0], Background -> 
+             GrayLevel[1]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Subtitle"], ShowCellBracket -> False, 
+             ShowClosedCellArea -> True, 
+             CellMargins -> {{6, Inherited}, {0, 0}}, 
+             CellGroupingRules -> {"TitleGrouping", 10}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             TextAlignment -> Left, FontFamily -> "Times", FontSize -> 14], 
+            Cell[
+             StyleData["Subtitle", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}], 
+            Cell[
+             StyleData["Subtitle", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Subsubtitle"], CellFrame -> True, ShowClosedCellArea -> 
+             True, CellMargins -> {{6, Inherited}, {6, Inherited}}, 
+             CellGroupingRules -> {"TitleGrouping", 20}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             TextAlignment -> Center, FontFamily -> "Times", FontSize -> 24, 
+             FontColor -> RGBColor[1, 0, 0]], 
+            Cell[
+             StyleData["Subsubtitle", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["Subsubtitle", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Section"], CellDingbat -> "\[GraySquare]", 
+             ShowCellBracket -> True, ShowGroupOpener -> True, 
+             CellMargins -> {{22, Inherited}, {Inherited, 20}}, 
+             CellGroupingRules -> {"SectionGrouping", 30}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, CounterIncrements -> "Section", 
+             CounterAssignments -> {{"Subsection", 0}, {"Subsubsection", 0}}, 
+             FontFamily -> "Times", FontSize -> 16], 
+            Cell[
+             StyleData["Section", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 10}}], 
+            Cell[
+             StyleData["Section", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 10}}]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Subsection"], CellDingbat -> "", ShowCellBracket -> 
+             True, ShowGroupOpener -> True, 
+             CellMargins -> {{19, Inherited}, {Inherited, 18}}, 
+             CellGroupingRules -> {"SectionGrouping", 40}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, CounterIncrements -> "Subsection", 
+             CounterAssignments -> {{"Subsubsection", 0}}, FontFamily -> 
+             "Times", FontSize -> 16, FontWeight -> "Bold", FontColor -> 
+             RGBColor[0, 0.392187, 0]], 
+            Cell[
+             StyleData["Subsection", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 5}}, FontSize -> 12, 
+             FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Subsection", "TwoColumn"], 
+             CellFrame -> {{0, 0}, {0, 1}}, 
+             CellMargins -> {{14, Inherited}, {2, 10}}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Subsubsection"], CellDingbat -> "\[EmptySquare]", 
+             ShowClosedCellArea -> True, 
+             CellMargins -> {{18, Inherited}, {Inherited, 12}}, 
+             CellGroupingRules -> {"SectionGrouping", 50}, PageBreakBelow -> 
+             False, DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, CounterIncrements -> "Subsubsection", 
+             FontFamily -> "Times", FontSize -> 14, FontWeight -> "Bold", 
+             FontColor -> RGBColor[0.689998, 0.0899977, 0.119997]], 
+            Cell[
+             StyleData["Subsubsection", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 3}}, FontSize -> 12, 
+             FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Subsubsection", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 3}}, FontColor -> 
+             GrayLevel[0]]}, Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Body Text", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["PrefaceText"], 
+             CellMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultTextFormatType, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1, 1}, LimitsPositioningTokens -> {}, 
+             StyleMenuListing -> None, FontFamily -> "Times", FontSize -> 10, 
+             FontWeight -> "Plain"], 
+            Cell[
+             StyleData["PrefaceText", "Printout"], 
+             CellMargins -> {{0, Inherited}, {2, 2}}, LineSpacing -> {1, 1}, 
+             FontSize -> 12, FontColor -> GrayLevel[0], Background -> None], 
+            Cell[
+             StyleData["PrefaceText", "TwoColumn"], 
+             CellMargins -> {{0, Inherited}, {2, 2}}, LineSpacing -> {1, 1}, 
+             FontSize -> 12, FontColor -> GrayLevel[0], Background -> None]}, 
+           Closed]], 
+         Cell[
+          StyleData["PrefaceHyperlink"], 
+          CellMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+          DefaultFormatType -> DefaultTextFormatType, DefaultInlineFormatType -> 
+          DefaultInputInlineFormatType, LineSpacing -> {1, 1}, 
+          LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, FontFamily -> "Times", 
+          FontSize -> 10, FontWeight -> "Plain", 
+          FontVariations -> {"Underline" -> True}, FontColor -> 
+          RGBColor[0, 0, 1], 
+          ButtonBoxOptions -> {
+           Active -> True, ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> ButtonData}], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Text"], ShowClosedCellArea -> True, 
+             CellMargins -> {{15, 10}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultTextFormatType, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, LimitsPositioningTokens -> {}, 
+             FontFamily -> "Times", FontSize -> 16, FontColor -> 
+             RGBColor[0, 0, 0.500008]], 
+            Cell[
+             StyleData["Text", "Printout"], 
+             CellMargins -> {{14, Inherited}, {3, 1}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, LineSpacing -> {1, 2}, 
+             FontColor -> GrayLevel[0], Background -> None], 
+            Cell[
+             StyleData["Text", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {3, 1}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, LineSpacing -> {1, 2}, 
+             FontSize -> 14, FontColor -> GrayLevel[0], Background -> None]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["SmallText"], ShowClosedCellArea -> True, 
+             CellMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             LineSpacing -> {1.5, 1}, LimitsPositioningTokens -> {}, 
+             FontFamily -> "Times", FontSize -> 16], 
+            Cell[
+             StyleData["SmallText", "Printout"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True], 
+            Cell[
+             StyleData["SmallText", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, FontSize -> 14]}, Closed]]}, 
+        Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Input/Output", "Section"], 
+         Cell[
+         "The cells in this section define styles used for input and output \
+to the kernel.  Be careful when modifying, renaming, or removing these \
+styles, because the front end associates special meanings with these style \
+names.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Input"], CellFrame -> {{3, 0}, {0, 0}}, 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             Evaluatable -> True, CellGroupingRules -> "InputGrouping", 
+             CellHorizontalScrolling -> True, GroupPageBreakWithin -> False, 
+             CellLabelMargins -> {{23, Inherited}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultInputFormatType, 
+             AutoItalicWords -> {}, FormatType -> InputForm, 
+             ShowStringCharacters -> True, NumberMarks -> True, 
+             CounterIncrements -> "Input", FontWeight -> "Bold"], 
+            Cell[
+             StyleData["Input", "Printout"], CellFrame -> {{3, 0}, {0, 0}}, 
+             CellMargins -> {{30, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, FontSize -> 9], 
+            Cell[
+             StyleData["Input", "TwoColumn"], CellFrame -> {{3, 0}, {0, 0}}, 
+             CellMargins -> {{30, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, FontSize -> 12]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Output"], 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             CellEditDuplicate -> True, CellGroupingRules -> "OutputGrouping",
+              CellHorizontalScrolling -> True, PageBreakWithin -> False, 
+             GroupPageBreakWithin -> False, GeneratedCell -> True, 
+             CellAutoOverwrite -> True, 
+             CellLabelMargins -> {{23, Inherited}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultOutputFormatType, 
+             LineSpacing -> {1.5, 0}, FormatType -> StandardForm, FontFamily -> 
+             "Courier", FontSize -> 14, FontColor -> RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["Output", "Printout"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, LineSpacing -> {1, 0}, 
+             FontSize -> 10, FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Output", "TwoColumn"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, PageBreakWithin -> 
+             True, GroupPageBreakWithin -> True, LineSpacing -> {1, 0}, 
+             FontSize -> 12, FontColor -> GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Message"], 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             CellGroupingRules -> "OutputGrouping", PageBreakWithin -> False, 
+             GroupPageBreakWithin -> False, GeneratedCell -> True, 
+             CellAutoOverwrite -> True, ShowCellLabel -> False, 
+             CellLabelMargins -> {{23, Inherited}, {Inherited, Inherited}}, 
+             DefaultFormatType -> DefaultOutputFormatType, FormatType -> 
+             InputForm, StyleMenuListing -> None, FontColor -> 
+             RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["Message", "Printout"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, FontSize -> 9, 
+             FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Message", "TwoColumn"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, FontSize -> 9, 
+             FontColor -> GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Print"], 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             CellGroupingRules -> "OutputGrouping", CellHorizontalScrolling -> 
+             True, PageBreakWithin -> False, GroupPageBreakWithin -> False, 
+             GeneratedCell -> True, CellAutoOverwrite -> True, ShowCellLabel -> 
+             False, CellLabelMargins -> {{23, Inherited}, {
+               Inherited, Inherited}}, DefaultFormatType -> 
+             DefaultOutputFormatType, FormatType -> InputForm, 
+             StyleMenuListing -> None], 
+            Cell[
+             StyleData["Print", "Printout"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, FontSize -> 9], 
+            Cell[
+             StyleData["Print", "TwoColumn"], 
+             CellMargins -> {{30, Inherited}, {2, 2}}, FontSize -> 16]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Info"], 
+             CellMargins -> {{45, Inherited}, {Inherited, Inherited}}, 
+             CellGroupingRules -> "OutputGrouping", CellHorizontalScrolling -> 
+             True, PageBreakWithin -> False, GroupPageBreakWithin -> False, 
+             GeneratedCell -> True, CellAutoOverwrite -> True, ShowCellLabel -> 
+             False, CellLabelMargins -> {{23, Inherited}, {
+               Inherited, Inherited}}, DefaultFormatType -> 
+             DefaultOutputFormatType, FormatType -> InputForm, 
+             StyleMenuListing -> None], 
+            Cell[
+             StyleData["Info", "Printout"], 
+             CellMargins -> {{30, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10], 
+            Cell[
+             StyleData["Info", "TwoColumn"], 
+             CellMargins -> {{30, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 12]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Graphics"], 
+             CellMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+             CellGroupingRules -> "GraphicsGrouping", CellHorizontalScrolling -> 
+             True, PageBreakWithin -> False, GeneratedCell -> True, 
+             CellAutoOverwrite -> True, ShowCellLabel -> False, 
+             DefaultFormatType -> DefaultOutputFormatType, FormatType -> 
+             InputForm, ImageMargins -> {{35, Inherited}, {Inherited, 0}}, 
+             AnimationDisplayTime -> 0.2, StyleMenuListing -> None, FontSize -> 
+             14], 
+            Cell[
+             StyleData["Graphics", "Printout"], 
+             CellMargins -> {{30, Inherited}, {0, 0}}, CellFrameMargins -> 
+             False, ImageSize -> {Inherited, 150}, 
+             ImageMargins -> {{45, 0}, {0, 0}}, 
+             ImageRegion -> {{0, 1}, {0, 1}}, FontSize -> 9], 
+            Cell[
+             StyleData["Graphics", "TwoColumn"], 
+             CellMargins -> {{20, Inherited}, {0, 0}}, CellFrameMargins -> 
+             False, ImageSize -> {Inherited, 150}, 
+             ImageMargins -> {{0, 0}, {0, 0}}, 
+             ImageRegion -> {{0, 1}, {0, 1}}]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["CellLabel"], StyleMenuListing -> None, FontFamily -> 
+             "Times", FontSize -> 9, FontColor -> RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["CellLabel", "Printout"], FontColor -> GrayLevel[1]], 
+            Cell[
+             StyleData["CellLabel", "TwoColumn"], FontColor -> GrayLevel[1]]},
+            Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Special Headings", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LogoPrefaceTitle"], Selectable -> False, Deletable -> 
+             False, CellFrame -> {{1, 1}, {0, 5}}, ShowCellBracket -> False, 
+             CellMargins -> {{24, 24}, {-1, 10}}, 
+             CellGroupingRules -> {"SectionGrouping", 30}, PageBreakBelow -> 
+             False, CellFrameMargins -> {{15, Inherited}, {
+               Inherited, Inherited}}, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, 
+             LineSpacing -> {1.4, 1}, FontFamily -> "Times", FontSize -> 32, 
+             FontWeight -> "Bold", FontColor -> GrayLevel[1], Background -> 
+             RGBColor[0.1172, 0.0742, 0.3125]], 
+            Cell[
+             StyleData["LogoPrefaceTitle", "Printout"], 
+             CellFrame -> {{1, 1}, {0, 5}}, 
+             CellMargins -> {{0, Inherited}, {-1, Inherited}}, FontSize -> 16,
+              FontColor -> GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["LogoPrefaceTitle", "TwoColumn"], 
+             CellFrame -> {{1, 1}, {0, 5}}, 
+             CellMargins -> {{0, Inherited}, {-1, Inherited}}, FontSize -> 16,
+              FontColor -> GrayLevel[0], Background -> GrayLevel[1]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["PrefaceTitle"], Selectable -> False, Deletable -> 
+             False, CellFrame -> {{1, 1}, {1, 0}}, ShowCellBracket -> False, 
+             CellMargins -> {{24, 24}, {0, 0}}, 
+             CellGroupingRules -> {"SectionGrouping", 30}, PageBreakBelow -> 
+             False, CellFrameMargins -> {{15, Inherited}, {
+               Inherited, Inherited}}, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Center, 
+             LineSpacing -> {1.4, 1}, FontFamily -> "Times", FontSize -> 32, 
+             FontWeight -> "Bold", FontColor -> GrayLevel[1], Background -> 
+             RGBColor[0.1172, 0.0742, 0.3125]], 
+            Cell[
+             StyleData["PrefaceTitle", "Printout"], 
+             CellFrame -> {{1, 1}, {1, 0}}, 
+             CellMargins -> {{0, Inherited}, {0, 0}}, FontSize -> 16, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["PrefaceTitle", "TwoColumn"], 
+             CellFrame -> {{1, 1}, {1, 0}}, 
+             CellMargins -> {{0, Inherited}, {0, 0}}, FontSize -> 16, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]]}, 
+           Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Special Body Text and Index", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Accident"], CellFrame -> 3, ShowCellBracket -> False, 
+             CellMargins -> {{24, 24}, {0, 10}}, 
+             CellFrameMargins -> {{15, Inherited}, {Inherited, Inherited}}, 
+             TextAlignment -> Center, LineSpacing -> {1.4, 1}, FontFamily -> 
+             "Times", FontSize -> 24, FontWeight -> "Bold", FontColor -> 
+             RGBColor[1, 0, 0]], 
+            Cell[
+             StyleData["Accident", "Printout"], CellFrame -> 2, 
+             CellMargins -> {{0, Inherited}, {0, Inherited}}, FontSize -> 16, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["Accident", "TwoColumn"], CellFrame -> 2, 
+             CellMargins -> {{0, Inherited}, {0, Inherited}}, FontSize -> 16, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["ContentsText"], CellMargins -> {{50, 10}, {5, 5}}, 
+             FontFamily -> "Times", FontSize -> 16], 
+            Cell[
+             StyleData["ContentsText", "Printout"], FontColor -> GrayLevel[0],
+              Background -> None], 
+            Cell[
+             StyleData["ContentsText", "TwoColumn"], FontColor -> 
+             GrayLevel[0], Background -> None]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special1"], CellDingbat -> "\[EmptySquare]", 
+             ShowClosedCellArea -> True, DefaultFormatType -> 
+             DefaultTextFormatType, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, FontFamily -> "Times", FontSize -> 
+             14, FontWeight -> "Bold", FontColor -> 
+             RGBColor[0.689998, 0.0899977, 0.119997]], 
+            Cell[
+             StyleData["Special1", "Printout"], FontSize -> 12, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["Special1", "TwoColumn"], FontSize -> 12, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special2"], CellMargins -> {{6, 0}, {0, 0}}, 
+             CellGroupingRules -> {"SectionGrouping", 40}, DefaultFormatType -> 
+             DefaultTextFormatType, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Center, 
+             FontFamily -> "Courier", FontSize -> 10, FontColor -> 
+             GrayLevel[0.333333]], 
+            Cell[
+             StyleData["Special2", "Printout"], FontSize -> 10, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["Special2", "TwoColumn"], FontSize -> 10, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special3"], CellDingbat -> "\[GraySquare]", 
+             ShowClosedCellArea -> True, DefaultFormatType -> 
+             DefaultTextFormatType, DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, FontFamily -> 
+             "Courier", FontSize -> 10, FontColor -> GrayLevel[0.333333]], 
+            Cell[
+             StyleData["Special3", "Printout"], FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Special3", "TwoColumn"], FontColor -> GrayLevel[0]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special4"], ShowClosedCellArea -> True, 
+             DefaultFormatType -> DefaultTextFormatType, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             TextAlignment -> Center, FontFamily -> "Courier", FontSize -> 10,
+              FontColor -> GrayLevel[0.333333]], 
+            Cell[
+             StyleData["Special4", "Printout"], FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["Special4", "TwoColumn"], FontColor -> GrayLevel[0]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Special5"], ShowClosedCellArea -> True, 
+             DefaultFormatType -> DefaultTextFormatType, 
+             DefaultInlineFormatType -> DefaultInputInlineFormatType, 
+             TextAlignment -> Center, FontFamily -> "Courier", FontSize -> 10,
+              FontColor -> GrayLevel[0.333333]], 
+            Cell[
+             StyleData["Special5", "Printout"]], 
+            Cell[
+             StyleData["Special5", "TwoColumn"]]}, Closed]], 
+         Cell[
+          StyleData["IndexEntry"], ShowCellBracket -> False, 
+          CellMargins -> {{15, 5}, {0, 5}}, PageBreakBelow -> False, 
+          DefaultFormatType -> DefaultTextFormatType, DefaultInlineFormatType -> 
+          DefaultInputInlineFormatType, ParagraphIndent -> -40, 
+          StyleMenuListing -> None, FontSize -> 16], 
+         Cell[
+          StyleData["IndexSubEntry"], ShowCellBracket -> False, 
+          CellMargins -> {{45, 5}, {0, 0}}, DefaultFormatType -> 
+          DefaultTextFormatType, DefaultInlineFormatType -> 
+          DefaultInputInlineFormatType, ParagraphIndent -> -40, 
+          StyleMenuListing -> None, FontSize -> 16]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for License Agreement", "Section"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LicenseHeading"], ShowCellBracket -> True, 
+             ShowGroupOpener -> True, CellMargins -> {{24, 24}, {-1, 2}}, 
+             CellGroupingRules -> {"SectionGrouping", 40}, PageBreakBelow -> 
+             False, CounterIncrements -> "Subsection", 
+             CounterAssignments -> {{"Subsubsection", 0}}, StyleMenuListing -> 
+             None, FontFamily -> "Helvetica", FontSize -> 12, FontWeight -> 
+             "Bold", FontColor -> RGBColor[0.4, 0.300008, 0.6]], 
+            Cell[
+             StyleData["LicenseHeading", "Printout"], FontSize -> 10, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["LicenseHeading", "TwoColumn"], FontSize -> 10, 
+             FontColor -> GrayLevel[0], Background -> GrayLevel[1]]}, 
+           Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LicenseText"], CellFrame -> True, ShowCellBracket -> 
+             False, CellMargins -> {{24, 24}, {5, -1}}, StyleMenuListing -> 
+             None, FontFamily -> "Helvetica", FontSize -> 12, Background -> 
+             RGBColor[1, 0.537743, 0.509071]], 
+            Cell[
+             StyleData["LicenseText", "Printout"], FontSize -> 10, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["LicenseText", "TwoColumn"], FontSize -> 10, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]]}, Closed]]}, Closed]], 
+      
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Automatic Numbering", "Section"], 
+         Cell[
+         "The following styles are useful for numbered equations, figures, \
+etc.  They automatically give the cell a FrameLabel containing a reference to \
+a particular counter, and also increment that counter.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["NumberedEquation"], CounterIncrements -> 
+             "NumberedEquation"], 
+            Cell[
+             StyleData["NumberedEquation", "Printout"]], 
+            Cell[
+             StyleData["NumberedEquation", "TwoColumn"]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["NumberedFigure"], CellFrameLabels -> {{None, None}, {
+                Cell[
+                 TextData[{"Figure ", 
+                   CounterBox["NumberedFigure"]}]], None}}, CounterIncrements -> 
+             "NumberedFigure", FormatTypeAutoConvert -> False, FontFamily -> 
+             "Times"], 
+            Cell[
+             StyleData["NumberedFigure", "Printout"], 
+             CellMargins -> {{14, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10], 
+            Cell[
+             StyleData["NumberedFigure", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["NumberedTable"], 
+             CellMargins -> {{6, Inherited}, {Inherited, Inherited}}, 
+             CellFrameLabels -> {{None, None}, {
+                Cell[
+                 TextData[{"Table ", 
+                   CounterBox["NumberedTable"]}]], None}}, CounterIncrements -> 
+             "NumberedTable", FormatTypeAutoConvert -> False, FontFamily -> 
+             "Times"], 
+            Cell[
+             StyleData["NumberedTable", "Printout"], 
+             CellMargins -> {{14, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10], 
+            Cell[
+             StyleData["NumberedTable", "TwoColumn"], 
+             CellMargins -> {{14, Inherited}, {Inherited, Inherited}}, 
+             FontSize -> 10]}, Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Styles for Headers and Footers", "Section"], 
+         Cell[
+          StyleData["Header"], CellMargins -> {{0, 0}, {4, 1}}, 
+          StyleMenuListing -> None, FontSize -> 10], 
+         Cell[
+          StyleData["Footer"], CellMargins -> {{0, 0}, {0, 4}}, 
+          StyleMenuListing -> None, FontSize -> 9], 
+         Cell[
+          StyleData["PageNumber"], CellMargins -> {{0, 0}, {4, 1}}, 
+          StyleMenuListing -> None, FontFamily -> "Times", FontSize -> 10]}, 
+        Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Palette Styles", "Section"], 
+         Cell[
+         "The cells below define styles that define standard ButtonFunctions, \
+for use in palette buttons.", "Text"], 
+         Cell[
+          StyleData["Paste"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, After]}]& )}], 
+         Cell[
+          StyleData["Evaluate"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, All], 
+               SelectionEvaluate[
+                FrontEnd`InputNotebook[], All]}]& )}], 
+         Cell[
+          StyleData["EvaluateCell"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, All], 
+               FrontEnd`SelectionMove[
+                FrontEnd`InputNotebook[], All, Cell, 1], 
+               FrontEnd`SelectionEvaluateCreateCell[
+                FrontEnd`InputNotebook[], All]}]& )}], 
+         Cell[
+          StyleData["CopyEvaluate"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`SelectionCreateCell[
+                FrontEnd`InputNotebook[], All], 
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, All], 
+               FrontEnd`SelectionEvaluate[
+                FrontEnd`InputNotebook[], All]}]& )}], 
+         Cell[
+          StyleData["CopyEvaluateCell"], StyleMenuListing -> None, 
+          ButtonStyleMenuListing -> Automatic, 
+          ButtonBoxOptions -> {ButtonFunction :> (FrontEndExecute[{
+               FrontEnd`SelectionCreateCell[
+                FrontEnd`InputNotebook[], All], 
+               FrontEnd`NotebookApply[
+                FrontEnd`InputNotebook[], #, All], 
+               FrontEnd`SelectionEvaluateCreateCell[
+                FrontEnd`InputNotebook[], All]}]& )}]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Hyperlink Styles", "Section"], 
+         Cell[
+         "The cells below define styles useful for making hypertext \
+ButtonBoxes.  The \"Hyperlink\" style is for links within the same Notebook, \
+or between Notebooks.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["Hyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> Automatic, FontSize -> 14, 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0, 0.392187, 0], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& )}], 
+            Cell[
+             StyleData["Hyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["Hyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["MakeMathHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontSize -> 14, FontWeight -> 
+             "Bold", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[1, 1, 1], Background -> 
+             RGBColor[0.1172, 0.0742, 0.3125], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Come visit us!"}], 
+            Cell[
+             StyleData["MakeMathHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]], 
+            Cell[
+             StyleData["MakeMathHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0], Background -> GrayLevel[1]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["BasicsHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.848096, 0.171878, 0.228321], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Go to Basics"}], 
+            Cell[
+             StyleData["BasicsHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["BasicsHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["BasicsIndexHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.848096, 0.171878, 0.228321], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEnd`SelectionMove[
+                   FrontEnd`SelectedNotebook[], Next, CellGroup], 
+                  FrontEndToken["SelectionCloseAllGroups"], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Link into Basics"}], 
+            Cell[
+             StyleData["BasicsIndexHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["BasicsIndexHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["TutorialsHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.0199588, 0.346716, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Go to Tutorials"}], 
+            Cell[
+             StyleData["TutorialsHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["TutorialsHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["TutorialsIndexHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.0199588, 0.346716, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEnd`SelectionMove[
+                   FrontEnd`SelectedNotebook[], Next, CellGroup], 
+                  FrontEndToken["SelectionCloseAllGroups"], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Link into Tutorials"}], 
+            Cell[
+             StyleData["TutorialsIndexHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["TutorialsIndexHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["GiveItaTryHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.497459, 0.196094, 0.543877], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Go to GiveItaTry"}], 
+            Cell[
+             StyleData["GiveItaTryHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["GiveItaTryHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["GiveItaTryIndexHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0.497459, 0.196094, 0.543877], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEnd`SelectionMove[
+                   FrontEnd`SelectedNotebook[], Next, CellGroup], 
+                  FrontEndToken["SelectionCloseAllGroups"], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Link into GiveItaTry"}], 
+            Cell[
+             StyleData["GiveItaTryIndexHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["GiveItaTryIndexHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LiteracyHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[1, 0.433326, 0], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2]}]& ), ButtonNote -> 
+               "Go to Literacy"}], 
+            Cell[
+             StyleData["LiteracyHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["LiteracyHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["LiteracyIndexHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[1, 0.433326, 0], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEnd`SelectionMove[
+                   FrontEnd`SelectedNotebook[], Next, CellGroup], 
+                  FrontEndToken["SelectionCloseAllGroups"], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Link into Literacy"}], 
+            Cell[
+             StyleData["LiteracyIndexHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["LiteracyIndexHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["PreviewHyperlink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> None, FontWeight -> "Bold", FontSlant -> 
+             "Italic", FontVariations -> {"Underline" -> True}, FontColor -> 
+             GrayLevel[0.250004], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`NotebookLocate[#2], 
+                  FrontEndToken["OpenCloseGroup"]}]& ), ButtonNote -> 
+               "Preview of Lesson"}], 
+            Cell[
+             StyleData["PreviewHyperlink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["PreviewHyperlink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["RefGuideLink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> Automatic, FontFamily -> "Courier", 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0, 0, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`HelpBrowserLookup["RefGuideLink", #]}]& )}], 
+            Cell[
+             StyleData["RefGuideLink", "Presentation"]], 
+            Cell[
+             StyleData["RefGuideLink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["RefGuideLink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["GettingStartedLink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> Automatic, 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0, 0, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`HelpBrowserLookup["GettingStarted", #]}]& )}], 
+            Cell[
+             StyleData["GettingStartedLink", "Presentation"]], 
+            Cell[
+             StyleData["GettingStartedLink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["GettingStartedLink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["OtherInformationLink"], StyleMenuListing -> None, 
+             ButtonStyleMenuListing -> Automatic, 
+             FontVariations -> {"Underline" -> True}, FontColor -> 
+             RGBColor[0, 0, 1], 
+             ButtonBoxOptions -> {
+              Active -> True, Appearance -> {Automatic, None}, 
+               ButtonFunction :> (FrontEndExecute[{
+                  FrontEnd`HelpBrowserLookup["OtherInformation", #]}]& )}], 
+            Cell[
+             StyleData["OtherInformationLink", "Presentation"]], 
+            Cell[
+             StyleData["OtherInformationLink", "Printout"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]], 
+            Cell[
+             StyleData["OtherInformationLink", "TwoColumn"], 
+             FontVariations -> {"Underline" -> False}, FontColor -> 
+             GrayLevel[0]]}, Closed]]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["Placeholder Styles", "Section"], 
+         Cell[
+         "The cells below define styles useful for making placeholder objects \
+in palette templates.", "Text"], 
+         Cell[
+          StyleData["Placeholder"], Editable -> False, Selectable -> False, 
+          StyleBoxAutoDelete -> True, Placeholder -> True, StyleMenuListing -> 
+          None], 
+         Cell[
+          StyleData["SelectionPlaceholder"], Editable -> False, Selectable -> 
+          False, StyleBoxAutoDelete -> True, Placeholder -> 
+          PrimaryPlaceholder, StyleMenuListing -> None, DrawHighlighted -> 
+          True]}, Closed]], 
+      Cell[
+       CellGroupData[{
+         Cell["FormatType Styles", "Section"], 
+         Cell[
+         "The cells below define styles that are mixed in with the styles of \
+most cells.  If a cell's FormatType matches the name of one of the styles \
+defined below, then that style is applied between the cell's style and its \
+own options.", "Text"], 
+         Cell[
+          StyleData["CellExpression"], PageWidth -> Infinity, 
+          CellMargins -> {{6, Inherited}, {Inherited, Inherited}}, 
+          ShowCellLabel -> False, ShowSpecialCharacters -> False, 
+          AllowInlineCells -> False, StyleMenuListing -> None, FontFamily -> 
+          "Courier", FontSize -> 12], 
+         Cell[
+          StyleData["InputForm"], AllowInlineCells -> False, StyleMenuListing -> 
+          None, FontFamily -> "Courier"], 
+         Cell[
+          StyleData["OutputForm"], PageWidth -> Infinity, TextAlignment -> 
+          Left, LineSpacing -> {1, -5}, StyleMenuListing -> None, FontFamily -> 
+          "Courier"], 
+         Cell[
+          StyleData["StandardForm"], LineSpacing -> {1.25, 0}, 
+          StyleMenuListing -> None, FontFamily -> "Courier"], 
+         Cell[
+          StyleData["TraditionalForm"], LineSpacing -> {1.25, 0}, 
+          SingleLetterItalics -> True, TraditionalFunctionNotation -> True, 
+          DelimiterMatching -> None, StyleMenuListing -> None], 
+         Cell[
+         "The style defined below is mixed in to any cell that is in an \
+inline cell within another.", "Text"], 
+         Cell[
+          CellGroupData[{
+            Cell[
+             StyleData["InlineCell"], DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, ScriptLevel -> 
+             1, LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+             FontFamily -> "Times", FontSize -> 16, FontColor -> 
+             RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["InlineCell", "Presentation"], DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, ScriptLevel -> 
+             1, LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+             FontFamily -> "Times", FontSize -> 16, FontColor -> 
+             RGBColor[0, 0, 1]], 
+            Cell[
+             StyleData["InlineCell", "Printout"], DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, ScriptLevel -> 
+             1, LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+             FontColor -> GrayLevel[0]], 
+            Cell[
+             StyleData["InlineCell", "TwoColumn"], DefaultInlineFormatType -> 
+             DefaultInputInlineFormatType, TextAlignment -> Left, ScriptLevel -> 
+             1, LimitsPositioningTokens -> {}, StyleMenuListing -> None, 
+             FontSize -> 14, FontColor -> GrayLevel[0]]}, Closed]]}, 
+        Closed]]}, Open]]}, Visible -> False, FrontEndVersion -> 
+  "8.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (November 6, 2010)", 
+  StyleDefinitions -> "PrivateStylesheetFormatting.nb"]
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{
+ "MGM.11.G1"->{
+  Cell[29497, 802, 296, 6, 111, "Subsection",
+   CellTags->"MGM.11.G1"]},
+ "MGM.11.G2"->{
+  Cell[65777, 2069, 78, 1, 36, "Subsection",
+   CellTags->"MGM.11.G2"]},
+ "MGM.11.G3"->{
+  Cell[67097, 2118, 137, 4, 61, "Subsection",
+   CellTags->"MGM.11.G3"]},
+ "MGM.11.G4"->{
+  Cell[82181, 2674, 80, 1, 36, "Subsection",
+   CellTags->"MGM.11.G4"]},
+ "MGM.11.G5"->{
+  Cell[87901, 2872, 196, 5, 86, "Subsection",
+   CellTags->"MGM.11.G5"]},
+ "MGM.11.G6"->{
+  Cell[100954, 3332, 102, 1, 36, "Subsection",
+   CellTags->"MGM.11.G6"]},
+ "MGM.11.G7"->{
+  Cell[104975, 3470, 87, 1, 36, "Subsection",
+   CellTags->"MGM.11.G7"]},
+ "MGM.11.G8"->{
+  Cell[115547, 3827, 166, 4, 61, "Subsection",
+   CellTags->"MGM.11.G8"]},
+ "MGM.11.G9"->{
+  Cell[122040, 4034, 73, 1, 36, "Subsection",
+   CellTags->"MGM.11.G9"]}
+ }
+*)
+(*CellTagsIndex
+CellTagsIndex->{
+ {"MGM.11.G1", 180634, 5346},
+ {"MGM.11.G2", 180724, 5349},
+ {"MGM.11.G3", 180813, 5352},
+ {"MGM.11.G4", 180903, 5355},
+ {"MGM.11.G5", 180992, 5358},
+ {"MGM.11.G6", 181082, 5361},
+ {"MGM.11.G7", 181173, 5364},
+ {"MGM.11.G8", 181263, 5367},
+ {"MGM.11.G9", 181354, 5370}
+ }
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[545, 20, 5169, 90, 104, "LogoPrefaceTitle"],
+Cell[5717, 112, 492, 14, 88, "PrefaceTitle"],
+Cell[6212, 128, 159, 5, 108, "Title"],
+Cell[CellGroupData[{
+Cell[6396, 137, 193, 7, 28, "Special2"],
+Cell[6592, 146, 1292, 38, 141, "Input",
+ InitializationCell->True],
+Cell[CellGroupData[{
+Cell[7909, 188, 38, 0, 31, "Subsubsection"],
+Cell[7950, 190, 1344, 31, 156, "Input"],
+Cell[9297, 223, 170, 4, 20, "Input",
+ InitializationCell->True],
+Cell[9470, 229, 17368, 481, 1406, "Input",
+ InitializationCell->True],
+Cell[26841, 712, 210, 6, 20, "Input",
+ InitializationCell->True]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[27088, 723, 39, 0, 35, "Subsubsection"],
+Cell[27130, 725, 2318, 71, 161, "Input",
+ InitializationCell->True]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[29497, 802, 296, 6, 111, "Subsection",
+ CellTags->"MGM.11.G1"],
+Cell[CellGroupData[{
+Cell[29818, 812, 85, 2, 31, "Subsubsection"],
+Cell[29906, 816, 61, 2, 24, "Text"],
+Cell[29970, 820, 1146, 40, 133, "Input"],
+Cell[31119, 862, 103, 3, 24, "Text"],
+Cell[31225, 867, 1695, 54, 196, "Input"],
+Cell[32923, 923, 104, 2, 12, "Special2"],
+Cell[33030, 927, 49, 0, 24, "Text"],
+Cell[33082, 929, 742, 23, 51, "Input"],
+Cell[33827, 954, 296, 6, 118, "Text"],
+Cell[34126, 962, 293, 6, 93, "Text"],
+Cell[34422, 970, 1230, 41, 283, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[35689, 1016, 87, 2, 31, "Subsubsection"],
+Cell[35779, 1020, 61, 2, 24, "Text"],
+Cell[35843, 1024, 1126, 39, 115, "Input"],
+Cell[36972, 1065, 105, 3, 24, "Text"],
+Cell[37080, 1070, 1749, 57, 196, "Input"],
+Cell[38832, 1129, 49, 0, 24, "Text"],
+Cell[38884, 1131, 742, 23, 51, "Input"],
+Cell[39629, 1156, 304, 6, 118, "Text"],
+Cell[39936, 1164, 305, 7, 124, "Text"],
+Cell[40244, 1173, 1750, 63, 298, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[42031, 1241, 98, 2, 31, "Subsubsection"],
+Cell[42132, 1245, 66, 2, 24, "Text"],
+Cell[42201, 1249, 1091, 37, 111, "Input"],
+Cell[43295, 1288, 115, 3, 24, "Text"],
+Cell[43413, 1293, 2087, 67, 211, "Input"],
+Cell[45503, 1362, 49, 0, 24, "Text"],
+Cell[45555, 1364, 746, 23, 51, "Input"],
+Cell[46304, 1389, 312, 8, 124, "Text"],
+Cell[46619, 1399, 352, 8, 124, "Text"],
+Cell[46974, 1409, 2614, 97, 336, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[49625, 1511, 65, 0, 31, "Subsubsection"],
+Cell[49693, 1513, 61, 2, 24, "Text"],
+Cell[49757, 1517, 1058, 37, 111, "Input"],
+Cell[50818, 1556, 103, 3, 24, "Text"],
+Cell[50924, 1561, 1670, 53, 196, "Input"],
+Cell[52597, 1616, 49, 0, 24, "Text"],
+Cell[52649, 1618, 752, 24, 51, "Input"],
+Cell[53404, 1644, 413, 8, 143, "Text"],
+Cell[53820, 1654, 183, 4, 74, "Text"],
+Cell[54006, 1660, 785, 25, 51, "Input"],
+Cell[54794, 1687, 285, 6, 93, "Text"],
+Cell[55082, 1695, 85, 2, 24, "Text"],
+Cell[55170, 1699, 1102, 38, 119, "Input"],
+Cell[56275, 1739, 105, 3, 24, "Text"],
+Cell[56383, 1744, 1742, 56, 196, "Input"],
+Cell[58128, 1802, 104, 2, 12, "Special2"],
+Cell[58235, 1806, 49, 0, 24, "Text"],
+Cell[58287, 1808, 755, 24, 51, "Input"],
+Cell[59045, 1834, 132, 4, 49, "Text"],
+Cell[59180, 1840, 785, 25, 51, "Input"],
+Cell[59968, 1867, 270, 7, 118, "Text"],
+Cell[60241, 1876, 88, 2, 24, "Text"],
+Cell[60332, 1880, 1074, 38, 111, "Input"],
+Cell[61409, 1920, 111, 3, 24, "Text"],
+Cell[61523, 1925, 2093, 67, 211, "Input"],
+Cell[63619, 1994, 49, 0, 24, "Text"],
+Cell[63671, 1996, 754, 24, 51, "Input"],
+Cell[64428, 2022, 133, 4, 49, "Text"],
+Cell[64564, 2028, 790, 25, 51, "Input"],
+Cell[65357, 2055, 371, 8, 168, "Text"]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[65777, 2069, 78, 1, 36, "Subsection",
+ CellTags->"MGM.11.G2"],
+Cell[65858, 2072, 107, 2, 31, "Subsubsection"],
+Cell[65968, 2076, 70, 0, 24, "Text"],
+Cell[66041, 2078, 899, 30, 81, "Input"],
+Cell[66943, 2110, 117, 3, 49, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[67097, 2118, 137, 4, 61, "Subsection",
+ CellTags->"MGM.11.G3"],
+Cell[CellGroupData[{
+Cell[67259, 2126, 67, 0, 31, "Subsubsection"],
+Cell[67329, 2128, 144, 4, 74, "Text"],
+Cell[67476, 2134, 638, 20, 70, "Input"],
+Cell[68117, 2156, 75, 0, 24, "Text"],
+Cell[68195, 2158, 1222, 41, 126, "Input"],
+Cell[69420, 2201, 67, 0, 24, "Text"],
+Cell[69490, 2203, 333, 10, 20, "Input"],
+Cell[69826, 2215, 494, 16, 84, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[70357, 2236, 68, 0, 31, "Subsubsection"],
+Cell[70428, 2238, 145, 4, 74, "Text"],
+Cell[70576, 2244, 601, 19, 72, "Input"],
+Cell[71180, 2265, 353, 13, 107, "Text"],
+Cell[71536, 2280, 1599, 54, 207, "Input"],
+Cell[73138, 2336, 24, 0, 24, "Text"],
+Cell[73165, 2338, 331, 10, 20, "Input"],
+Cell[73499, 2350, 584, 19, 94, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[74120, 2374, 98, 2, 31, "Subsubsection"],
+Cell[74221, 2378, 55, 0, 24, "Text"],
+Cell[74279, 2380, 384, 12, 36, "Input"],
+Cell[74666, 2394, 35, 0, 24, "Text"],
+Cell[74704, 2396, 382, 12, 36, "Input"],
+Cell[75089, 2410, 38, 0, 24, "Text"],
+Cell[75130, 2412, 309, 9, 20, "Input"],
+Cell[CellGroupData[{
+Cell[75464, 2425, 1393, 46, 290, "Text"],
+Cell[76860, 2473, 527, 18, 98, "Subsubsection"],
+Cell[77390, 2493, 3047, 110, 467, "Text"],
+Cell[80440, 2605, 339, 13, 43, "Special2"],
+Cell[80782, 2620, 31, 0, 24, "Text"],
+Cell[80816, 2622, 422, 14, 71, "Input"],
+Cell[81241, 2638, 879, 29, 154, "Text"]
+}, Closed]]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[82181, 2674, 80, 1, 36, "Subsection",
+ CellTags->"MGM.11.G4"],
+Cell[82264, 2677, 33, 0, 31, "Subsubsection"],
+Cell[82300, 2679, 1067, 33, 228, "Text"],
+Cell[83370, 2714, 34, 0, 31, "Subsubsection"],
+Cell[83407, 2716, 1262, 39, 228, "Text"],
+Cell[84672, 2757, 35, 0, 31, "Subsubsection"],
+Cell[84710, 2759, 1323, 40, 253, "Text"],
+Cell[86036, 2801, 31, 0, 31, "Subsubsection"],
+Cell[86070, 2803, 431, 14, 80, "Text"],
+Cell[86504, 2819, 357, 11, 36, "Input"],
+Cell[86864, 2832, 247, 7, 20, "Input"],
+Cell[87114, 2841, 247, 7, 20, "Input"],
+Cell[87364, 2850, 248, 7, 20, "Input"],
+Cell[87615, 2859, 249, 8, 52, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[87901, 2872, 196, 5, 86, "Subsection",
+ CellTags->"MGM.11.G5"],
+Cell[CellGroupData[{
+Cell[88122, 2881, 62, 0, 31, "Subsubsection"],
+Cell[88187, 2883, 55, 0, 24, "Text"],
+Cell[88245, 2885, 1084, 37, 81, "Input"],
+Cell[89332, 2924, 1608, 59, 136, "Text"],
+Cell[90943, 2985, 362, 11, 36, "Input"],
+Cell[91308, 2998, 25, 0, 24, "Text"],
+Cell[91336, 3000, 806, 25, 51, "Input"],
+Cell[92145, 3027, 971, 34, 149, "Text"],
+Cell[93119, 3063, 758, 25, 85, "Input"],
+Cell[93880, 3090, 555, 10, 243, "Text"],
+Cell[94438, 3102, 96, 2, 24, "Text"],
+Cell[94537, 3106, 1041, 36, 105, "Input"],
+Cell[95581, 3144, 1835, 67, 136, "Text"],
+Cell[97419, 3213, 362, 11, 36, "Input"],
+Cell[97784, 3226, 25, 0, 24, "Text"],
+Cell[97812, 3228, 798, 24, 51, "Input"],
+Cell[98613, 3254, 975, 33, 174, "Text"],
+Cell[99591, 3289, 758, 25, 85, "Input"],
+Cell[100352, 3316, 553, 10, 193, "Text"]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[100954, 3332, 102, 1, 36, "Subsection",
+ CellTags->"MGM.11.G6"],
+Cell[101059, 3335, 31, 0, 31, "Subsubsection"],
+Cell[101093, 3337, 66, 0, 24, "Text"],
+Cell[101162, 3339, 1185, 38, 115, "Input"],
+Cell[102350, 3379, 1199, 41, 221, "Text"],
+Cell[103552, 3422, 354, 11, 36, "Input"],
+Cell[103909, 3435, 61, 0, 24, "Text"],
+Cell[103973, 3437, 623, 19, 85, "Input"],
+Cell[104599, 3458, 339, 7, 149, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[104975, 3470, 87, 1, 36, "Subsection",
+ CellTags->"MGM.11.G7"],
+Cell[CellGroupData[{
+Cell[105087, 3475, 48, 0, 31, "Subsubsection"],
+Cell[105138, 3477, 950, 31, 75, "Text"],
+Cell[106091, 3510, 3163, 105, 240, "Input"],
+Cell[109257, 3617, 2065, 57, 203, "Text"],
+Cell[111325, 3676, 465, 16, 69, "Input"],
+Cell[111793, 3694, 29, 0, 24, "Text"],
+Cell[111825, 3696, 568, 17, 36, "Input"],
+Cell[112396, 3715, 66, 0, 24, "Text"],
+Cell[112465, 3717, 272, 9, 39, "Input"],
+Cell[112740, 3728, 101, 4, 43, "Text"],
+Cell[112844, 3734, 1803, 57, 149, "Text"],
+Cell[114650, 3793, 848, 28, 93, "Text"]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[115547, 3827, 166, 4, 61, "Subsection",
+ CellTags->"MGM.11.G8"],
+Cell[115716, 3833, 163, 5, 31, "Special5",
+ Evaluatable->False],
+Cell[CellGroupData[{
+Cell[115904, 3842, 128, 3, 31, "Subsubsection",
+ Evaluatable->False],
+Cell[116035, 3847, 1266, 33, 174, "Text",
+ Evaluatable->False],
+Cell[117304, 3882, 1029, 33, 130, "Input"],
+Cell[118336, 3917, 880, 24, 174, "Text",
+ Evaluatable->False]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[119253, 3946, 131, 3, 31, "Subsubsection",
+ Evaluatable->False],
+Cell[119387, 3951, 864, 22, 149, "Text",
+ Evaluatable->False],
+Cell[120254, 3975, 1187, 37, 141, "Input"],
+Cell[121444, 4014, 547, 14, 99, "Text",
+ Evaluatable->False]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[122040, 4034, 73, 1, 36, "Subsection",
+ CellTags->"MGM.11.G9"],
+Cell[CellGroupData[{
+Cell[122138, 4039, 40, 0, 31, "Subsubsection"],
+Cell[122181, 4041, 426, 15, 101, "Text"],
+Cell[122610, 4058, 870, 29, 97, "Input"],
+Cell[123483, 4089, 870, 29, 97, "Input"],
+Cell[124356, 4120, 870, 29, 97, "Input"],
+Cell[125229, 4151, 77, 0, 24, "Text"]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[125343, 4156, 52, 0, 31, "Subsubsection"],
+Cell[125398, 4158, 1952, 72, 230, "Text"],
+Cell[127353, 4232, 636, 21, 68, "Input"],
+Cell[127992, 4255, 69, 0, 24, "Text"]
+}, Closed]]
+}, Closed]]
+}
+]
+*)
+
+(* End of internal cache information *)

@@ -1,0 +1,6 @@
+*.docx
+*.pdf
+*~
+*.png
+*.pyc
+*__pycache__*
