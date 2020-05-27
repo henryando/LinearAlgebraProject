@@ -36,7 +36,7 @@ To "stage" changed files for a commit (a commit is an official snapshot of the p
 
 where `file` is the name of the file. To commit all your staged changes (which, again, you can check on with `git status`), use
 
-   git commit -m "Title of commit"
+    git commit -m "Title of commit"
 
 It is generally good practice to make commit titles informative and to phrase them in the imperative, i.e. what will this commit do? It will "Fix formatting in README.md". And finally, once you've committed all your changes, you can push them to the Github repository with
 
